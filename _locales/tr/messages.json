@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Anlık Sayfa Kelime Sayacı"
+  },
+  "extensionDescription": {
+    "message": "Herhangi bir web sayfasında anında kelime, karakter ve daha fazlasını sayın."
+  },
+  "commandRecount": {
+    "message": "Sayfa kelimelerini yeniden say"
+  },
+  "words": {
+    "message": "Kelimeler"
+  },
+  "characters": {
+    "message": "Karakterler"
+  },
+  "charactersWithSpaces": {
+    "message": "Karakterler (boşluklu)"
+  },
+  "charactersNoSpaces": {
+    "message": "Karakterler (boşluksuz)"
+  },
+  "sentences": {
+    "message": "Cümleler"
+  },
+  "paragraphs": {
+    "message": "Paragraflar"
+  },
+  "avgWordLength": {
+    "message": "Ort. Kelime Uzunluğu"
+  },
+  "longestWord": {
+    "message": "En Uzun Kelime"
+  },
+  "longestWordLength": {
+    "message": "En Uzun Kelime Uzunluğu"
+  },
+  "readingTime": {
+    "message": "Okuma Süresi"
+  },
+  "speakingTime": {
+    "message": "Konuşma Süresi"
+  },
+  "recount": {
+    "message": "Yeniden Say"
+  },
+  "settings": {
+    "message": "Ayarlar"
+  },
+  "loading": {
+    "message": "Sayılıyor..."
+  },
+  "noContent": {
+    "message": "Okunabilir içerik bulunamadı"
+  },
+  "error": {
+    "message": "İçerik sayma hatası"
+  },
+  "emptyPage": {
+    "message": "Bu sayfa boş görünüyor"
+  },
+  "settingsTitle": {
+    "message": "Ayarlar"
+  },
+  "appearance": {
+    "message": "Görünüm"
+  },
+  "darkMode": {
+    "message": "Karanlık Mod"
+  },
+  "showThemeToggle": {
+    "message": "Açılır pencerede tema değiştiriciyi göster"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "counting": {
+    "message": "Sayım Seçenekleri"
+  },
+  "selectiveCounter": {
+    "message": "Seçim Sayacı"
+  },
+  "selectiveCounterDesc": {
+    "message": "Metin seçerken kelime sayısı açılır penceresini göster"
+  },
+  "includeLinks": {
+    "message": "Bağlantıları Dahil Et"
+  },
+  "includeLinksDesc": {
+    "message": "URL'leri tek kelime olarak say"
+  },
+  "display": {
+    "message": "Görüntüleme Seçenekleri"
+  },
+  "showAvgWordLength": {
+    "message": "Ortalama kelime uzunluğunu göster"
+  },
+  "showLongestWord": {
+    "message": "En uzun kelimeyi göster"
+  },
+  "showReadingTime": {
+    "message": "Okuma süresini göster"
+  },
+  "showSpeakingTime": {
+    "message": "Konuşma süresini göster"
+  },
+  "showSentences": {
+    "message": "Cümle sayısını göster"
+  },
+  "showParagraphs": {
+    "message": "Paragraf sayısını göster"
+  },
+  "readingSpeed": {
+    "message": "Okuma Hızı (DPM)"
+  },
+  "speakingSpeed": {
+    "message": "Konuşma Hızı (DPM)"
+  },
+  "saved": {
+    "message": "Ayarlar kaydedildi!"
+  },
+  "reset": {
+    "message": "Varsayılanlara Sıfırla"
+  },
+  "minutes": {
+    "message": "dk"
+  },
+  "seconds": {
+    "message": "sn"
+  },
+  "chars": {
+    "message": "karakter"
+  },
+  "selected": {
+    "message": "Seçili"
+  },
+  "uniqueWords": {
+    "message": "Benzersiz Kelimeler"
+  },
+  "showUniqueWords": {
+    "message": "Benzersiz kelime sayısını göster"
+  },
+  "density": {
+    "message": "Metin Yoğunluğu"
+  },
+  "showDensity": {
+    "message": "Metin yoğunluk skorunu göster"
+  },
+  "copyStats": {
+    "message": "İstatistikleri Kopyala"
+  },
+  "copied": {
+    "message": "Kopyalandı!"
+  },
+  "exportStats": {
+    "message": "Dışa Aktar"
+  },
+  "advancedStats": {
+    "message": "Gelişmiş İstatistikler"
+  },
+  "basicStats": {
+    "message": "Temel İstatistikler"
+  },
+  "wordFrequency": {
+    "message": "En Sık Kullanılan Kelimeler"
+  },
+  "showWordFrequency": {
+    "message": "Kelime Sıklığı Grafiğini Göster"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Açılır pencerede en sık kullanılan kelimeleri göster"
+  },
+  "frequencyWordCount": {
+    "message": "Grafikteki Kelime Sayısı"
+  },
+  "noFrequencyData": {
+    "message": "Kelime sıklığı verisi bulunamadı"
+  },
+  "developedBy": {
+    "message": "Geliştirici"
+  },
+  "version": {
+    "message": "Sürüm"
+  }
+}

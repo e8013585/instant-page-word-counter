@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Мгновенный Счётчик Слов"
+  },
+  "extensionDescription": {
+    "message": "Мгновенно подсчитывайте слова, символы и многое другое на любой веб-странице."
+  },
+  "commandRecount": {
+    "message": "Пересчитать слова на странице"
+  },
+  "words": {
+    "message": "Слова"
+  },
+  "characters": {
+    "message": "Символы"
+  },
+  "charactersWithSpaces": {
+    "message": "Символы (с пробелами)"
+  },
+  "charactersNoSpaces": {
+    "message": "Символы (без пробелов)"
+  },
+  "sentences": {
+    "message": "Предложения"
+  },
+  "paragraphs": {
+    "message": "Абзацы"
+  },
+  "avgWordLength": {
+    "message": "Ср. длина слова"
+  },
+  "longestWord": {
+    "message": "Самое длинное слово"
+  },
+  "longestWordLength": {
+    "message": "Длина самого длинного слова"
+  },
+  "readingTime": {
+    "message": "Время чтения"
+  },
+  "speakingTime": {
+    "message": "Время произношения"
+  },
+  "recount": {
+    "message": "Пересчитать"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "loading": {
+    "message": "Подсчёт..."
+  },
+  "noContent": {
+    "message": "Читаемый контент не найден"
+  },
+  "error": {
+    "message": "Ошибка подсчёта контента"
+  },
+  "emptyPage": {
+    "message": "Эта страница пуста"
+  },
+  "settingsTitle": {
+    "message": "Настройки"
+  },
+  "appearance": {
+    "message": "Оформление"
+  },
+  "darkMode": {
+    "message": "Тёмный режим"
+  },
+  "showThemeToggle": {
+    "message": "Показать переключатель темы во всплывающем окне"
+  },
+  "language": {
+    "message": "Язык"
+  },
+  "counting": {
+    "message": "Параметры подсчёта"
+  },
+  "selectiveCounter": {
+    "message": "Счётчик выделения"
+  },
+  "selectiveCounterDesc": {
+    "message": "Показывать подсчёт слов при выделении текста"
+  },
+  "includeLinks": {
+    "message": "Включить ссылки"
+  },
+  "includeLinksDesc": {
+    "message": "Считать URL как одно слово"
+  },
+  "display": {
+    "message": "Параметры отображения"
+  },
+  "showAvgWordLength": {
+    "message": "Показать среднюю длину слова"
+  },
+  "showLongestWord": {
+    "message": "Показать самое длинное слово"
+  },
+  "showReadingTime": {
+    "message": "Показать время чтения"
+  },
+  "showSpeakingTime": {
+    "message": "Показать время произношения"
+  },
+  "showSentences": {
+    "message": "Показать количество предложений"
+  },
+  "showParagraphs": {
+    "message": "Показать количество абзацев"
+  },
+  "readingSpeed": {
+    "message": "Скорость чтения (слов/мин)"
+  },
+  "speakingSpeed": {
+    "message": "Скорость речи (слов/мин)"
+  },
+  "saved": {
+    "message": "Настройки сохранены!"
+  },
+  "reset": {
+    "message": "Сбросить настройки"
+  },
+  "minutes": {
+    "message": "мин"
+  },
+  "seconds": {
+    "message": "сек"
+  },
+  "chars": {
+    "message": "симв"
+  },
+  "selected": {
+    "message": "Выделено"
+  },
+  "uniqueWords": {
+    "message": "Уникальные слова"
+  },
+  "showUniqueWords": {
+    "message": "Показать количество уникальных слов"
+  },
+  "density": {
+    "message": "Плотность текста"
+  },
+  "showDensity": {
+    "message": "Показать плотность текста"
+  },
+  "copyStats": {
+    "message": "Копировать статистику"
+  },
+  "copied": {
+    "message": "Скопировано!"
+  },
+  "exportStats": {
+    "message": "Экспорт"
+  },
+  "advancedStats": {
+    "message": "Расширенная статистика"
+  },
+  "basicStats": {
+    "message": "Базовая статистика"
+  },
+  "wordFrequency": {
+    "message": "Самые частые слова"
+  },
+  "showWordFrequency": {
+    "message": "Показать диаграмму частоты слов"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Показывать самые частые слова во всплывающем окне"
+  },
+  "frequencyWordCount": {
+    "message": "Количество слов в диаграмме"
+  },
+  "noFrequencyData": {
+    "message": "Данные о частоте слов недоступны"
+  },
+  "developedBy": {
+    "message": "Разработано"
+  },
+  "version": {
+    "message": "Версия"
+  }
+}

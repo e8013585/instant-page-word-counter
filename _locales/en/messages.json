@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Instant Page Word Counter"
+  },
+  "extensionDescription": {
+    "message": "Count words, characters, and more on any webpage instantly."
+  },
+  "commandRecount": {
+    "message": "Recount page words"
+  },
+  "words": {
+    "message": "Words"
+  },
+  "characters": {
+    "message": "Characters"
+  },
+  "charactersWithSpaces": {
+    "message": "Characters (with spaces)"
+  },
+  "charactersNoSpaces": {
+    "message": "Characters (no spaces)"
+  },
+  "sentences": {
+    "message": "Sentences"
+  },
+  "paragraphs": {
+    "message": "Paragraphs"
+  },
+  "avgWordLength": {
+    "message": "Avg. Word Length"
+  },
+  "longestWord": {
+    "message": "Longest Word"
+  },
+  "longestWordLength": {
+    "message": "Longest Word Length"
+  },
+  "readingTime": {
+    "message": "Reading Time"
+  },
+  "speakingTime": {
+    "message": "Speaking Time"
+  },
+  "recount": {
+    "message": "Recount"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "loading": {
+    "message": "Counting..."
+  },
+  "noContent": {
+    "message": "No readable content found"
+  },
+  "error": {
+    "message": "Error counting content"
+  },
+  "emptyPage": {
+    "message": "This page appears to be empty"
+  },
+  "settingsTitle": {
+    "message": "Settings"
+  },
+  "appearance": {
+    "message": "Appearance"
+  },
+  "darkMode": {
+    "message": "Dark Mode"
+  },
+  "showThemeToggle": {
+    "message": "Show theme toggle in popup"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "counting": {
+    "message": "Counting Options"
+  },
+  "selectiveCounter": {
+    "message": "Selection Counter"
+  },
+  "selectiveCounterDesc": {
+    "message": "Show word count popup when selecting text"
+  },
+  "includeLinks": {
+    "message": "Include Links"
+  },
+  "includeLinksDesc": {
+    "message": "Count URLs as single words"
+  },
+  "display": {
+    "message": "Display Options"
+  },
+  "showAvgWordLength": {
+    "message": "Show average word length"
+  },
+  "showLongestWord": {
+    "message": "Show longest word"
+  },
+  "showReadingTime": {
+    "message": "Show reading time"
+  },
+  "showSpeakingTime": {
+    "message": "Show speaking time"
+  },
+  "showSentences": {
+    "message": "Show sentence count"
+  },
+  "showParagraphs": {
+    "message": "Show paragraph count"
+  },
+  "readingSpeed": {
+    "message": "Reading Speed (WPM)"
+  },
+  "speakingSpeed": {
+    "message": "Speaking Speed (WPM)"
+  },
+  "saved": {
+    "message": "Settings saved!"
+  },
+  "reset": {
+    "message": "Reset to Defaults"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sec"
+  },
+  "chars": {
+    "message": "chars"
+  },
+  "selected": {
+    "message": "Selected"
+  },
+  "uniqueWords": {
+    "message": "Unique Words"
+  },
+  "showUniqueWords": {
+    "message": "Show unique word count"
+  },
+  "density": {
+    "message": "Text Density"
+  },
+  "showDensity": {
+    "message": "Show text density score"
+  },
+  "copyStats": {
+    "message": "Copy Stats"
+  },
+  "copied": {
+    "message": "Copied!"
+  },
+  "exportStats": {
+    "message": "Export"
+  },
+  "advancedStats": {
+    "message": "Advanced Statistics"
+  },
+  "basicStats": {
+    "message": "Basic Statistics"
+  },
+  "wordFrequency": {
+    "message": "Most Frequent Words"
+  },
+  "showWordFrequency": {
+    "message": "Show Word Frequency Chart"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Display most frequent words in popup"
+  },
+  "frequencyWordCount": {
+    "message": "Number of Words in Chart"
+  },
+  "noFrequencyData": {
+    "message": "No word frequency data available"
+  },
+  "developedBy": {
+    "message": "Developed by"
+  },
+  "version": {
+    "message": "Version"
+  }
+}
