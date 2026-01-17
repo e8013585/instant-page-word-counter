@@ -13,7 +13,69 @@
     speakingSpeed: 150
   };
 
-  let selectionPopup = null;
+  let currentLocale = 'en';
+  let translations = {
+    words: 'words',
+    chars: 'chars'
+  };
+
+  const defaultTranslations = {
+    en: { words: 'words', chars: 'chars' },
+    es: { words: 'palabras', chars: 'caract' },
+    fr: { words: 'mots', chars: 'caract' },
+    de: { words: 'Wörter', chars: 'Zeichen' },
+    it: { words: 'parole', chars: 'caratt' },
+    pt: { words: 'palavras', chars: 'caract' },
+    pt_BR: { words: 'palavras', chars: 'caract' },
+    pt_PT: { words: 'palavras', chars: 'caract' },
+    nl: { words: 'woorden', chars: 'tekens' },
+    pl: { words: 'słowa', chars: 'znaki' },
+    ru: { words: 'слова', chars: 'симв' },
+    uk: { words: 'слова', chars: 'симв' },
+    tr: { words: 'kelime', chars: 'karakter' },
+    ar: { words: 'كلمات', chars: 'أحرف' },
+    he: { words: 'מילים', chars: 'תווים' },
+    fa: { words: 'کلمات', chars: 'نویسه' },
+    hi: { words: 'शब्द', chars: 'अक्षर' },
+    bn: { words: 'শব্দ', chars: 'অক্ষর' },
+    mr: { words: 'शब्द', chars: 'अक्षरे' },
+    gu: { words: 'શબ્દો', chars: 'અક્ષરો' },
+    ta: { words: 'சொற்கள்', chars: 'எழுத்து' },
+    te: { words: 'పదాలు', chars: 'అక్షరాలు' },
+    kn: { words: 'ಪದಗಳು', chars: 'ಅಕ್ಷರಗಳು' },
+    ml: { words: 'വാക്കുകൾ', chars: 'അക്ഷരങ്ങൾ' },
+    th: { words: 'คำ', chars: 'ตัวอักษร' },
+    vi: { words: 'từ', chars: 'ký tự' },
+    id: { words: 'kata', chars: 'karakter' },
+    ms: { words: 'perkataan', chars: 'aksara' },
+    fil: { words: 'salita', chars: 'karakter' },
+    zh_CN: { words: '字数', chars: '字符' },
+    zh_TW: { words: '字數', chars: '字元' },
+    ja: { words: '単語', chars: '文字' },
+    ko: { words: '단어', chars: '문자' },
+    sv: { words: 'ord', chars: 'tecken' },
+    da: { words: 'ord', chars: 'tegn' },
+    no: { words: 'ord', chars: 'tegn' },
+    fi: { words: 'sanat', chars: 'merkit' },
+    et: { words: 'sõnad', chars: 'märgid' },
+    lv: { words: 'vārdi', chars: 'rakstz' },
+    lt: { words: 'žodžiai', chars: 'simboliai' },
+    cs: { words: 'slova', chars: 'znaky' },
+    sk: { words: 'slová', chars: 'znaky' },
+    sl: { words: 'besede', chars: 'znaki' },
+    hr: { words: 'riječi', chars: 'znakovi' },
+    sr: { words: 'речи', chars: 'знакови' },
+    bg: { words: 'думи', chars: 'знаци' },
+    ro: { words: 'cuvinte', chars: 'caract' },
+    hu: { words: 'szavak', chars: 'karakter' },
+    el: { words: 'λέξεις', chars: 'χαρακτ' },
+    ca: { words: 'paraules', chars: 'caràct' },
+    sw: { words: 'maneno', chars: 'herufi' },
+    am: { words: 'ቃላት', chars: 'ፊደላት' },
+    uz: { words: "so'zlar", chars: 'belgilar' },
+    tk: { words: 'sözler', chars: 'simwol' },
+    tt: { words: 'сүзләр', chars: 'символ' }
+  };
 
   async function loadSettings() {
     try {
@@ -21,11 +83,41 @@
         selectiveCounter: true,
         includeLinks: false,
         readingSpeed: 200,
-        speakingSpeed: 150
+        speakingSpeed: 150,
+        language: 'en'
       });
       settings = { ...settings, ...stored };
+      currentLocale = stored.language || 'en';
+      await loadTranslations();
     } catch (error) {
       console.warn('Word Counter: Failed to load settings', error);
+    }
+  }
+
+  async function loadTranslations() {
+    if (defaultTranslations[currentLocale]) {
+      translations = { ...defaultTranslations[currentLocale] };
+    } else {
+      try {
+        const url = chrome.runtime.getURL(`_locales/${currentLocale}/messages.json`);
+        const response = await fetch(url);
+        if (response.ok) {
+          const messages = await response.json();
+          translations = {
+            words: messages.words?.message || 'words',
+            chars: messages.chars?.message || 'chars'
+          };
+        } else {
+          translations = { ...defaultTranslations.en };
+        }
+      } catch (error) {
+        console.warn('Word Counter: Failed to load translations, using defaults', error);
+        translations = { ...defaultTranslations.en };
+      }
+    }
+    
+    if (selectionHandler && selectionHandler.popup) {
+      selectionHandler.popup.destroy();
     }
   }
 
@@ -496,7 +588,14 @@
     }
 
     create() {
-      if (this.popup && document.body.contains(this.popup)) return;
+      if (this.popup && document.body.contains(this.popup)) {
+        this.updateLabels();
+        return;
+      }
+
+      if (this.popup) {
+        this.destroy();
+      }
 
       this.injectStyles();
 
@@ -506,17 +605,28 @@
         <div class="wc-popup-content">
           <div class="wc-stat">
             <span class="wc-value" id="wc-sel-words">0</span>
-            <span class="wc-label">words</span>
+            <span class="wc-label" id="wc-sel-words-label"></span>
           </div>
           <div class="wc-divider"></div>
           <div class="wc-stat">
             <span class="wc-value" id="wc-sel-chars">0</span>
-            <span class="wc-label">chars</span>
+            <span class="wc-label" id="wc-sel-chars-label"></span>
           </div>
         </div>
       `;
 
       document.body.appendChild(this.popup);
+      this.updateLabels();
+    }
+
+    updateLabels() {
+      if (!this.popup) return;
+      
+      const wordsLabel = this.popup.querySelector('#wc-sel-words-label');
+      const charsLabel = this.popup.querySelector('#wc-sel-chars-label');
+      
+      if (wordsLabel) wordsLabel.textContent = translations.words;
+      if (charsLabel) charsLabel.textContent = translations.chars;
     }
 
     show(x, y, stats) {
@@ -682,9 +792,16 @@
     }
   }
 
-  function handleSettingsUpdated(newSettings, sendResponse) {
+  async function handleSettingsUpdated(newSettings, sendResponse) {
     try {
+      const oldLanguage = currentLocale;
       settings = { ...settings, ...newSettings };
+      
+      if (newSettings.language && newSettings.language !== oldLanguage) {
+        currentLocale = newSettings.language;
+        await loadTranslations();
+      }
+      
       selectionHandler.updateSettings(settings);
       
       if (!settings.selectiveCounter) {
@@ -714,17 +831,38 @@
       return true;
     }
 
+    if (message.action === 'updateLanguage') {
+      currentLocale = message.language;
+      loadTranslations().then(() => {
+        sendResponse({ success: true });
+      }).catch(error => {
+        sendResponse({ success: false, error: error.message });
+      });
+      return true;
+    }
+
     return false;
   });
 
   chrome.storage.onChanged.addListener((changes, namespace) => {
     if (namespace === 'sync') {
+      let languageChanged = false;
+      
       Object.keys(changes).forEach(key => {
         if (key in settings) {
           settings[key] = changes[key].newValue;
         }
+        if (key === 'language') {
+          currentLocale = changes[key].newValue;
+          languageChanged = true;
+        }
       });
+      
       selectionHandler.updateSettings(settings);
+      
+      if (languageChanged) {
+        loadTranslations();
+      }
     }
   });
 
