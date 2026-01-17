@@ -13,13 +13,14 @@ const I18n = {
       this.currentLocale = settings.language || this.detectLocale();
       
       const supportedLocales = [
-  'en', 'es', 'fr', 'de', 'it', 'pt', 'pt_BR', 'pt_PT', 'nl', 'pl',
-  'ru', 'uk', 'tr', 'ar', 'he', 'fa', 'hi', 'bn', 'mr', 'gu',
-  'ta', 'te', 'kn', 'ml', 'th', 'vi', 'id', 'ms', 'fil',
-  'zh_CN', 'zh_TW', 'ja', 'ko', 'sv', 'da', 'no', 'fi', 'et',
-  'lv', 'lt', 'cs', 'sk', 'sl', 'hr', 'sr', 'bg', 'ro', 'hu',
-  'el', 'ca', 'sw', 'am', 'uz', 'tk', 'tt'
-];
+        'en', 'es', 'fr', 'de', 'it', 'pt', 'pt_BR', 'pt_PT', 'nl', 'pl',
+        'ru', 'uk', 'tr', 'ar', 'he', 'fa', 'hi', 'bn', 'mr', 'gu',
+        'ta', 'te', 'kn', 'ml', 'th', 'vi', 'id', 'ms', 'fil',
+        'zh_CN', 'zh_TW', 'ja', 'ko', 'sv', 'da', 'no', 'fi', 'et',
+        'lv', 'lt', 'cs', 'sk', 'sl', 'hr', 'sr', 'bg', 'ro', 'hu',
+        'el', 'ca', 'sw', 'am', 'uz', 'tk', 'tt'
+      ];
+      
       if (!supportedLocales.includes(this.currentLocale)) {
         this.currentLocale = 'en';
       }
@@ -35,9 +36,9 @@ const I18n = {
 
   detectLocale() {
     try {
-      const uiLang = chrome.i18n.getUILanguage(); // e.g. pt-BR
-      return uiLang ? uiLang.replace('-', '_') : 'en';
-    } catch {
+      const uiLang = chrome.i18n.getUILanguage();
+      return uiLang ? uiLang.split('-')[0] : 'en';
+    } catch (e) {
       return 'en';
     }
   },
@@ -111,13 +112,14 @@ const I18n = {
 
   async setLocale(locale) {
     const supportedLocales = [
-  'en', 'es', 'fr', 'de', 'it', 'pt', 'pt_BR', 'pt_PT', 'nl', 'pl',
-  'ru', 'uk', 'tr', 'ar', 'he', 'fa', 'hi', 'bn', 'mr', 'gu',
-  'ta', 'te', 'kn', 'ml', 'th', 'vi', 'id', 'ms', 'fil',
-  'zh_CN', 'zh_TW', 'ja', 'ko', 'sv', 'da', 'no', 'fi', 'et',
-  'lv', 'lt', 'cs', 'sk', 'sl', 'hr', 'sr', 'bg', 'ro', 'hu',
-  'el', 'ca', 'sw', 'am', 'uz', 'tk', 'tt'
-];
+      'en', 'es', 'fr', 'de', 'it', 'pt', 'pt_BR', 'pt_PT', 'nl', 'pl',
+      'ru', 'uk', 'tr', 'ar', 'he', 'fa', 'hi', 'bn', 'mr', 'gu',
+      'ta', 'te', 'kn', 'ml', 'th', 'vi', 'id', 'ms', 'fil',
+      'zh_CN', 'zh_TW', 'ja', 'ko', 'sv', 'da', 'no', 'fi', 'et',
+      'lv', 'lt', 'cs', 'sk', 'sl', 'hr', 'sr', 'bg', 'ro', 'hu',
+      'el', 'ca', 'sw', 'am', 'uz', 'tk', 'tt'
+    ];
+    
     if (!supportedLocales.includes(locale)) {
       locale = 'en';
     }
@@ -274,12 +276,34 @@ class SettingsController {
       
       if (id === 'language') {
         await I18n.setLocale(value);
+        await this.notifyLanguageChange(value);
       }
       
       this.showToast(I18n.get('saved'));
       this.notifyContentScripts();
     } catch (error) {
       console.error('SettingsController: Failed to save setting', error);
+    }
+  }
+
+  async notifyLanguageChange(language) {
+    try {
+      const tabs = await chrome.tabs.query({});
+      
+      for (const tab of tabs) {
+        if (tab.id && !tab.url?.startsWith('chrome://') && !tab.url?.startsWith('chrome-extension://')) {
+          try {
+            await chrome.tabs.sendMessage(tab.id, {
+              action: 'updateLanguage',
+              language: language
+            });
+          } catch (e) {
+            // Tab might not have content script, ignore
+          }
+        }
+      }
+    } catch (error) {
+      console.error('SettingsController: Failed to notify language change', error);
     }
   }
 
@@ -312,6 +336,7 @@ class SettingsController {
       this.populateForm();
       this.applyTheme();
       await I18n.setLocale(this.defaults.language);
+      await this.notifyLanguageChange(this.defaults.language);
       this.showToast(I18n.get('saved'));
       this.notifyContentScripts();
     } catch (error) {
