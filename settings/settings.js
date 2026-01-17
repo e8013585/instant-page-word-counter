@@ -12,7 +12,14 @@ const I18n = {
       const settings = await chrome.storage.sync.get(['language']);
       this.currentLocale = settings.language || this.detectLocale();
       
-      const supportedLocales = ['en', 'tr', 'ru', 'es'];
+      const supportedLocales = [
+  'en', 'es', 'fr', 'de', 'it', 'pt', 'pt_BR', 'pt_PT', 'nl', 'pl',
+  'ru', 'uk', 'tr', 'ar', 'he', 'fa', 'hi', 'bn', 'mr', 'gu',
+  'ta', 'te', 'kn', 'ml', 'th', 'vi', 'id', 'ms', 'fil',
+  'zh_CN', 'zh_TW', 'ja', 'ko', 'sv', 'da', 'no', 'fi', 'et',
+  'lv', 'lt', 'cs', 'sk', 'sl', 'hr', 'sr', 'bg', 'ro', 'hu',
+  'el', 'ca', 'sw', 'am', 'uz', 'tk', 'tt'
+];
       if (!supportedLocales.includes(this.currentLocale)) {
         this.currentLocale = 'en';
       }
@@ -28,9 +35,9 @@ const I18n = {
 
   detectLocale() {
     try {
-      const uiLang = chrome.i18n.getUILanguage();
-      return uiLang ? uiLang.split('-')[0] : 'en';
-    } catch (e) {
+      const uiLang = chrome.i18n.getUILanguage(); // e.g. pt-BR
+      return uiLang ? uiLang.replace('-', '_') : 'en';
+    } catch {
       return 'en';
     }
   },
@@ -103,7 +110,14 @@ const I18n = {
   },
 
   async setLocale(locale) {
-    const supportedLocales = ['en', 'tr', 'ru', 'es'];
+    const supportedLocales = [
+  'en', 'es', 'fr', 'de', 'it', 'pt', 'pt_BR', 'pt_PT', 'nl', 'pl',
+  'ru', 'uk', 'tr', 'ar', 'he', 'fa', 'hi', 'bn', 'mr', 'gu',
+  'ta', 'te', 'kn', 'ml', 'th', 'vi', 'id', 'ms', 'fil',
+  'zh_CN', 'zh_TW', 'ja', 'ko', 'sv', 'da', 'no', 'fi', 'et',
+  'lv', 'lt', 'cs', 'sk', 'sl', 'hr', 'sr', 'bg', 'ro', 'hu',
+  'el', 'ca', 'sw', 'am', 'uz', 'tk', 'tt'
+];
     if (!supportedLocales.includes(locale)) {
       locale = 'en';
     }
