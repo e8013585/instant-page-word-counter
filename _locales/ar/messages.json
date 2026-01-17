@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "عداد الكلمات الفوري للصفحة"
+  },
+  "extensionDescription": {
+    "message": "عد الكلمات، الأحرف والمزيد في أي صفحة ويب فورياً."
+  },
+  "commandRecount": {
+    "message": "إعادة عد كلمات الصفحة"
+  },
+  "words": {
+    "message": "الكلمات"
+  },
+  "characters": {
+    "message": "الأحرف"
+  },
+  "charactersWithSpaces": {
+    "message": "الأحرف (مع المسافات)"
+  },
+  "charactersNoSpaces": {
+    "message": "الأحرف (بدون مسافات)"
+  },
+  "sentences": {
+    "message": "الجمل"
+  },
+  "paragraphs": {
+    "message": "الفقرات"
+  },
+  "avgWordLength": {
+    "message": "متوسط طول الكلمة"
+  },
+  "longestWord": {
+    "message": "أطول كلمة"
+  },
+  "longestWordLength": {
+    "message": "طول أطول كلمة"
+  },
+  "readingTime": {
+    "message": "وقت القراءة"
+  },
+  "speakingTime": {
+    "message": "وقت التحدث"
+  },
+  "recount": {
+    "message": "إعادة العد"
+  },
+  "settings": {
+    "message": "الإعدادات"
+  },
+  "loading": {
+    "message": "جاري العد..."
+  },
+  "noContent": {
+    "message": "لم يتم العثور على محتوى قابل للقراءة"
+  },
+  "error": {
+    "message": "خطأ في عد المحتوى"
+  },
+  "emptyPage": {
+    "message": "هذه الصفحة تبدو فارغة"
+  },
+  "settingsTitle": {
+    "message": "الإعدادات"
+  },
+  "appearance": {
+    "message": "المظهر"
+  },
+  "darkMode": {
+    "message": "الوضع الداكن"
+  },
+  "showThemeToggle": {
+    "message": "عرض تبديل السمة في النافذة المنبثقة"
+  },
+  "language": {
+    "message": "اللغة"
+  },
+  "counting": {
+    "message": "خيارات العد"
+  },
+  "selectiveCounter": {
+    "message": "عداد التحديد"
+  },
+  "selectiveCounterDesc": {
+    "message": "عرض نافذة منبثقة لعداد الكلمات عند تحديد النص"
+  },
+  "includeLinks": {
+    "message": "تضمين الروابط"
+  },
+  "includeLinksDesc": {
+    "message": "عد عناوين URL ككلمات مفردة"
+  },
+  "display": {
+    "message": "خيارات العرض"
+  },
+  "showAvgWordLength": {
+    "message": "عرض متوسط طول الكلمة"
+  },
+  "showLongestWord": {
+    "message": "عرض أطول كلمة"
+  },
+  "showReadingTime": {
+    "message": "عرض وقت القراءة"
+  },
+  "showSpeakingTime": {
+    "message": "عرض وقت التحدث"
+  },
+  "showSentences": {
+    "message": "عرض عدد الجمل"
+  },
+  "showParagraphs": {
+    "message": "عرض عدد الفقرات"
+  },
+  "readingSpeed": {
+    "message": "سرعة القراءة (كلمة/دقيقة)"
+  },
+  "speakingSpeed": {
+    "message": "سرعة التحدث (كلمة/دقيقة)"
+  },
+  "saved": {
+    "message": "تم حفظ الإعدادات!"
+  },
+  "reset": {
+    "message": "إعادة التعيين إلى الافتراضي"
+  },
+  "minutes": {
+    "message": "دقيقة"
+  },
+  "seconds": {
+    "message": "ثانية"
+  },
+  "chars": {
+    "message": "حرف"
+  },
+  "selected": {
+    "message": "محدد"
+  },
+  "uniqueWords": {
+    "message": "كلمات فريدة"
+  },
+  "showUniqueWords": {
+    "message": "عرض عدد الكلمات الفريدة"
+  },
+  "density": {
+    "message": "كثافة النص"
+  },
+  "showDensity": {
+    "message": "عرض درجة كثافة النص"
+  },
+  "copyStats": {
+    "message": "نسخ الإحصائيات"
+  },
+  "copied": {
+    "message": "تم النسخ!"
+  },
+  "exportStats": {
+    "message": "تصدير"
+  },
+  "advancedStats": {
+    "message": "إحصائيات متقدمة"
+  },
+  "basicStats": {
+    "message": "إحصائيات أساسية"
+  },
+  "wordFrequency": {
+    "message": "الكلمات الأكثر تكراراً"
+  },
+  "showWordFrequency": {
+    "message": "عرض مخطط تكرار الكلمات"
+  },
+  "showWordFrequencyDesc": {
+    "message": "عرض الكلمات الأكثر تكراراً في النافذة المنبثقة"
+  },
+  "frequencyWordCount": {
+    "message": "عدد الكلمات في المخطط"
+  },
+  "noFrequencyData": {
+    "message": "لا توجد بيانات تكرار كلمات متاحة"
+  },
+  "developedBy": {
+    "message": "تم التطوير بواسطة"
+  },
+  "version": {
+    "message": "الإصدار"
+  }
+}

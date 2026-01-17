@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Derrew Sahypa Söz Sanawy"
+  },
+  "extensionDescription": {
+    "message": "Işlendik web sahypasynda derrew sözleri, nyşanlary we başgalary sanap görüň."
+  },
+  "commandRecount": {
+    "message": "Sahypanyň sözlerini gaýtadan sanap gör"
+  },
+  "words": {
+    "message": "Sözler"
+  },
+  "characters": {
+    "message": "Nyşanlar"
+  },
+  "charactersWithSpaces": {
+    "message": "Nyşanlar (boşluklar bilen)"
+  },
+  "charactersNoSpaces": {
+    "message": "Nyşanlar (boşluklarsyz)"
+  },
+  "sentences": {
+    "message": "Sözlemeler"
+  },
+  "paragraphs": {
+    "message": "Paragraflar"
+  },
+  "avgWordLength": {
+    "message": "Ortaça Söz Uzynlygy"
+  },
+  "longestWord": {
+    "message": "Iň Uzyn Söz"
+  },
+  "longestWordLength": {
+    "message": "Iň Uzyn Söziň Uzynlygy"
+  },
+  "readingTime": {
+    "message": "Okamak Wagty"
+  },
+  "speakingTime": {
+    "message": "Gürlemek Wagty"
+  },
+  "recount": {
+    "message": "Gaýtadan Sanap Gör"
+  },
+  "settings": {
+    "message": "Sazlamalar"
+  },
+  "loading": {
+    "message": "Sanalýar..."
+  },
+  "noContent": {
+    "message": "Okap bolýan mazmun tapylmady"
+  },
+  "error": {
+    "message": "Mazmuny sanap görýärkä ýalňyşlyk"
+  },
+  "emptyPage": {
+    "message": "Bu sahypa boş ýaly görünýär"
+  },
+  "settingsTitle": {
+    "message": "Sazlamalar"
+  },
+  "appearance": {
+    "message": "Görnüşi"
+  },
+  "darkMode": {
+    "message": "Garaňky Mod"
+  },
+  "showThemeToggle": {
+    "message": "Açylýan penjirede tema geçirijisini görkez"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "counting": {
+    "message": "Sanamak Opsiýalary"
+  },
+  "selectiveCounter": {
+    "message": "Saýlaw Sanawy"
+  },
+  "selectiveCounterDesc": {
+    "message": "Tekst saýlanda söz sanawy açylýan penjiresini görkez"
+  },
+  "includeLinks": {
+    "message": "Salgylary Goş"
+  },
+  "includeLinksDesc": {
+    "message": "URL-leri aýratyn söz hökmünde sanap gör"
+  },
+  "display": {
+    "message": "Görkezme Opsiýalary"
+  },
+  "showAvgWordLength": {
+    "message": "Ortaça söz uzynlygyny görkez"
+  },
+  "showLongestWord": {
+    "message": "Iň uzyn sözi görkez"
+  },
+  "showReadingTime": {
+    "message": "Okamak wagtyny görkez"
+  },
+  "showSpeakingTime": {
+    "message": "Gürlemek wagtyny görkez"
+  },
+  "showSentences": {
+    "message": "Sözleme sanyny görkez"
+  },
+  "showParagraphs": {
+    "message": "Paragraf sanyny görkez"
+  },
+  "readingSpeed": {
+    "message": "Okamak Tizligi (Söz/Minuý)"
+  },
+  "speakingSpeed": {
+    "message": "Gürlemek Tizligi (Söz/Minuý)"
+  },
+  "saved": {
+    "message": "Sazlamalar saklandy!"
+  },
+  "reset": {
+    "message": "Deslapky Görnüşine Gaýtar"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "nyşan"
+  },
+  "selected": {
+    "message": "Saýlanan"
+  },
+  "uniqueWords": {
+    "message": "Aýratyn Sözler"
+  },
+  "showUniqueWords": {
+    "message": "Aýratyn sözleriň sanyny görkez"
+  },
+  "density": {
+    "message": "Tekst Dykyzlygy"
+  },
+  "showDensity": {
+    "message": "Tekst dykyzlygy balyny görkez"
+  },
+  "copyStats": {
+    "message": "Statistikany Göçür"
+  },
+  "copied": {
+    "message": "Göçürildi!"
+  },
+  "exportStats": {
+    "message": "Eksport"
+  },
+  "advancedStats": {
+    "message": "Giňeldilen Statistika"
+  },
+  "basicStats": {
+    "message": "Esasy Statistika"
+  },
+  "wordFrequency": {
+    "message": "Iň Köp Ulanylýan Sözler"
+  },
+  "showWordFrequency": {
+    "message": "Sözler Häsiýet Diagrammasyny Görkez"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Açylýan penjirede iň köp ulanylýan sözleri görkez"
+  },
+  "frequencyWordCount": {
+    "message": "Diagrammadaky Sözleriň Sany"
+  },
+  "noFrequencyData": {
+    "message": "Sözler häsiýeti maglumaty ýok"
+  },
+  "developedBy": {
+    "message": "Öndüren"
+  },
+  "version": {
+    "message": "Wersiýa"
+  }
+}

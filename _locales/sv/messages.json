@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Omedelbar Sidordsräknare"
+  },
+  "extensionDescription": {
+    "message": "Räkna ord, tecken och mer på valfri webbsida omedelbart."
+  },
+  "commandRecount": {
+    "message": "Räkna om sidord"
+  },
+  "words": {
+    "message": "Ord"
+  },
+  "characters": {
+    "message": "Tecken"
+  },
+  "charactersWithSpaces": {
+    "message": "Tecken (med mellanslag)"
+  },
+  "charactersNoSpaces": {
+    "message": "Tecken (utan mellanslag)"
+  },
+  "sentences": {
+    "message": "Meningar"
+  },
+  "paragraphs": {
+    "message": "Stycken"
+  },
+  "avgWordLength": {
+    "message": "Medel. Ord Längd"
+  },
+  "longestWord": {
+    "message": "Längsta Ordet"
+  },
+  "longestWordLength": {
+    "message": "Längsta Ordets Längd"
+  },
+  "readingTime": {
+    "message": "Lästid"
+  },
+  "speakingTime": {
+    "message": "Talad Tid"
+  },
+  "recount": {
+    "message": "Räkna Om"
+  },
+  "settings": {
+    "message": "Inställningar"
+  },
+  "loading": {
+    "message": "Räknar..."
+  },
+  "noContent": {
+    "message": "Inget läsbart innehåll hittades"
+  },
+  "error": {
+    "message": "Fel vid räkning av innehåll"
+  },
+  "emptyPage": {
+    "message": "Denna sida verkar vara tom"
+  },
+  "settingsTitle": {
+    "message": "Inställningar"
+  },
+  "appearance": {
+    "message": "Utseende"
+  },
+  "darkMode": {
+    "message": "Mörkt Läge"
+  },
+  "showThemeToggle": {
+    "message": "Visa temaväxlare i popup-fönster"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "counting": {
+    "message": "Räkningsalternativ"
+  },
+  "selectiveCounter": {
+    "message": "Urvalsräknare"
+  },
+  "selectiveCounterDesc": {
+    "message": "Visa ordräkningspopup vid textmarkering"
+  },
+  "includeLinks": {
+    "message": "Inkludera Länkar"
+  },
+  "includeLinksDesc": {
+    "message": "Räkna URL:er som enskilda ord"
+  },
+  "display": {
+    "message": "Visningsalternativ"
+  },
+  "showAvgWordLength": {
+    "message": "Visa genomsnittlig ordlängd"
+  },
+  "showLongestWord": {
+    "message": "Visa längsta ord"
+  },
+  "showReadingTime": {
+    "message": "Visa lästid"
+  },
+  "showSpeakingTime": {
+    "message": "Visa talad tid"
+  },
+  "showSentences": {
+    "message": "Visa antal meningar"
+  },
+  "showParagraphs": {
+    "message": "Visa antal stycken"
+  },
+  "readingSpeed": {
+    "message": "Läshastighet (OPM)"
+  },
+  "speakingSpeed": {
+    "message": "Talhastighet (OPM)"
+  },
+  "saved": {
+    "message": "Inställningar sparade!"
+  },
+  "reset": {
+    "message": "Återställ till Standard"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "tecken"
+  },
+  "selected": {
+    "message": "Valt"
+  },
+  "uniqueWords": {
+    "message": "Unika Ord"
+  },
+  "showUniqueWords": {
+    "message": "Visa antal unika ord"
+  },
+  "density": {
+    "message": "Textdensitet"
+  },
+  "showDensity": {
+    "message": "Visa textdensitetspoäng"
+  },
+  "copyStats": {
+    "message": "Kopiera Statistik"
+  },
+  "copied": {
+    "message": "Kopierad!"
+  },
+  "exportStats": {
+    "message": "Exportera"
+  },
+  "advancedStats": {
+    "message": "Avancerad Statistik"
+  },
+  "basicStats": {
+    "message": "Grundläggande Statistik"
+  },
+  "wordFrequency": {
+    "message": "Vanligaste Orden"
+  },
+  "showWordFrequency": {
+    "message": "Visa Ordfrekvensdiagram"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Visa vanligaste orden i popup-fönster"
+  },
+  "frequencyWordCount": {
+    "message": "Antal Ord i Diagram"
+  },
+  "noFrequencyData": {
+    "message": "Ingen ordfrekvensdata tillgänglig"
+  },
+  "developedBy": {
+    "message": "Utvecklad av"
+  },
+  "version": {
+    "message": "Version"
+  }
+}

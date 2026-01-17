@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Pencacah Kata Halaman Instan"
+  },
+  "extensionDescription": {
+    "message": "Hitung kata, karakter, dan lainnya di halaman web apa pun secara instan."
+  },
+  "commandRecount": {
+    "message": "Hitung ulang kata halaman"
+  },
+  "words": {
+    "message": "Kata"
+  },
+  "characters": {
+    "message": "Karakter"
+  },
+  "charactersWithSpaces": {
+    "message": "Karakter (dengan spasi)"
+  },
+  "charactersNoSpaces": {
+    "message": "Karakter (tanpa spasi)"
+  },
+  "sentences": {
+    "message": "Kalimat"
+  },
+  "paragraphs": {
+    "message": "Paragraf"
+  },
+  "avgWordLength": {
+    "message": "Rata-rata Panjang Kata"
+  },
+  "longestWord": {
+    "message": "Kata Terpanjang"
+  },
+  "longestWordLength": {
+    "message": "Panjang Kata Terpanjang"
+  },
+  "readingTime": {
+    "message": "Waktu Baca"
+  },
+  "speakingTime": {
+    "message": "Waktu Bicara"
+  },
+  "recount": {
+    "message": "Hitung Ulang"
+  },
+  "settings": {
+    "message": "Pengaturan"
+  },
+  "loading": {
+    "message": "Menghitung..."
+  },
+  "noContent": {
+    "message": "Tidak ditemukan konten yang dapat dibaca"
+  },
+  "error": {
+    "message": "Kesalahan menghitung konten"
+  },
+  "emptyPage": {
+    "message": "Halaman ini tampaknya kosong"
+  },
+  "settingsTitle": {
+    "message": "Pengaturan"
+  },
+  "appearance": {
+    "message": "Tampilan"
+  },
+  "darkMode": {
+    "message": "Mode Gelap"
+  },
+  "showThemeToggle": {
+    "message": "Tampilkan toggle tema di popup"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "counting": {
+    "message": "Opsi Penghitungan"
+  },
+  "selectiveCounter": {
+    "message": "Penghitung Pilihan"
+  },
+  "selectiveCounterDesc": {
+    "message": "Tampilkan popup jumlah kata saat memilih teks"
+  },
+  "includeLinks": {
+    "message": "Sertakan Tautan"
+  },
+  "includeLinksDesc": {
+    "message": "Hitung URL sebagai kata tunggal"
+  },
+  "display": {
+    "message": "Opsi Tampilan"
+  },
+  "showAvgWordLength": {
+    "message": "Tampilkan rata-rata panjang kata"
+  },
+  "showLongestWord": {
+    "message": "Tampilkan kata terpanjang"
+  },
+  "showReadingTime": {
+    "message": "Tampilkan waktu baca"
+  },
+  "showSpeakingTime": {
+    "message": "Tampilkan waktu bicara"
+  },
+  "showSentences": {
+    "message": "Tampilkan jumlah kalimat"
+  },
+  "showParagraphs": {
+    "message": "Tampilkan jumlah paragraf"
+  },
+  "readingSpeed": {
+    "message": "Kecepatan Baca (KPM)"
+  },
+  "speakingSpeed": {
+    "message": "Kecepatan Bicara (KPM)"
+  },
+  "saved": {
+    "message": "Pengaturan disimpan!"
+  },
+  "reset": {
+    "message": "Reset ke Default"
+  },
+  "minutes": {
+    "message": "menit"
+  },
+  "seconds": {
+    "message": "detik"
+  },
+  "chars": {
+    "message": "karakter"
+  },
+  "selected": {
+    "message": "Dipilih"
+  },
+  "uniqueWords": {
+    "message": "Kata Unik"
+  },
+  "showUniqueWords": {
+    "message": "Tampilkan jumlah kata unik"
+  },
+  "density": {
+    "message": "Kepadatan Teks"
+  },
+  "showDensity": {
+    "message": "Tampilkan skor kepadatan teks"
+  },
+  "copyStats": {
+    "message": "Salin Statistik"
+  },
+  "copied": {
+    "message": "Disalin!"
+  },
+  "exportStats": {
+    "message": "Ekspor"
+  },
+  "advancedStats": {
+    "message": "Statistik Lanjutan"
+  },
+  "basicStats": {
+    "message": "Statistik Dasar"
+  },
+  "wordFrequency": {
+    "message": "Kata Paling Sering Muncul"
+  },
+  "showWordFrequency": {
+    "message": "Tampilkan Grafik Frekuensi Kata"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Tampilkan kata paling sering muncul di popup"
+  },
+  "frequencyWordCount": {
+    "message": "Jumlah Kata dalam Grafik"
+  },
+  "noFrequencyData": {
+    "message": "Tidak ada data frekuensi kata tersedia"
+  },
+  "developedBy": {
+    "message": "Dikembangkan oleh"
+  },
+  "version": {
+    "message": "Versi"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Моментален Брояч на Думи в Страница"
+  },
+  "extensionDescription": {
+    "message": "Бройте думи, символи и други на всяка уеб страница моментално."
+  },
+  "commandRecount": {
+    "message": "Преброй думите на страницата"
+  },
+  "words": {
+    "message": "Думи"
+  },
+  "characters": {
+    "message": "Символи"
+  },
+  "charactersWithSpaces": {
+    "message": "Символи (с интервали)"
+  },
+  "charactersNoSpaces": {
+    "message": "Символи (без интервали)"
+  },
+  "sentences": {
+    "message": "Изречения"
+  },
+  "paragraphs": {
+    "message": "Параграфи"
+  },
+  "avgWordLength": {
+    "message": "Сред. Дължина на Дума"
+  },
+  "longestWord": {
+    "message": "Най-дълга Дума"
+  },
+  "longestWordLength": {
+    "message": "Дължина на Най-дългата Дума"
+  },
+  "readingTime": {
+    "message": "Време за Четене"
+  },
+  "speakingTime": {
+    "message": "Време за Говорене"
+  },
+  "recount": {
+    "message": "Преброй Отново"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "loading": {
+    "message": "Броя..."
+  },
+  "noContent": {
+    "message": "Не е намерено четимo съдържание"
+  },
+  "error": {
+    "message": "Грешка при броене на съдържанието"
+  },
+  "emptyPage": {
+    "message": "Тази страница изглежда празна"
+  },
+  "settingsTitle": {
+    "message": "Настройки"
+  },
+  "appearance": {
+    "message": "Външен Вид"
+  },
+  "darkMode": {
+    "message": "Тъмен Режим"
+  },
+  "showThemeToggle": {
+    "message": "Показване на превключвател за тема в изскачащия прозорец"
+  },
+  "language": {
+    "message": "Език"
+  },
+  "counting": {
+    "message": "Опции за Броене"
+  },
+  "selectiveCounter": {
+    "message": "Брояч на Избор"
+  },
+  "selectiveCounterDesc": {
+    "message": "Показване на изскачащ прозорец за брой на думи при избор на текст"
+  },
+  "includeLinks": {
+    "message": "Включване на Връзки"
+  },
+  "includeLinksDesc": {
+    "message": "Брой URL като отделни думи"
+  },
+  "display": {
+    "message": "Опции за Показване"
+  },
+  "showAvgWordLength": {
+    "message": "Показване на средна дължина на дума"
+  },
+  "showLongestWord": {
+    "message": "Показване на най-дълга дума"
+  },
+  "showReadingTime": {
+    "message": "Показване на време за четене"
+  },
+  "showSpeakingTime": {
+    "message": "Показване на време за говорене"
+  },
+  "showSentences": {
+    "message": "Показване на брой изречения"
+  },
+  "showParagraphs": {
+    "message": "Показване на брой параграфи"
+  },
+  "readingSpeed": {
+    "message": "Скорост на Четене (ДМ)"
+  },
+  "speakingSpeed": {
+    "message": "Скорост на Говорене (ДМ)"
+  },
+  "saved": {
+    "message": "Настройките са запазени!"
+  },
+  "reset": {
+    "message": "Възстановяване по Подразбиране"
+  },
+  "minutes": {
+    "message": "мин"
+  },
+  "seconds": {
+    "message": "сек"
+  },
+  "chars": {
+    "message": "символа"
+  },
+  "selected": {
+    "message": "Избрано"
+  },
+  "uniqueWords": {
+    "message": "Уникални Думи"
+  },
+  "showUniqueWords": {
+    "message": "Показване на брой уникални думи"
+  },
+  "density": {
+    "message": "Гъстота на Текст"
+  },
+  "showDensity": {
+    "message": "Показване на резултат за гъстота на текст"
+  },
+  "copyStats": {
+    "message": "Копиране на Статистики"
+  },
+  "copied": {
+    "message": "Копирано!"
+  },
+  "exportStats": {
+    "message": "Експорт"
+  },
+  "advancedStats": {
+    "message": "Разширени Статистики"
+  },
+  "basicStats": {
+    "message": "Основни Статистики"
+  },
+  "wordFrequency": {
+    "message": "Най-чести Думи"
+  },
+  "showWordFrequency": {
+    "message": "Показване на Графика на Честота на Думи"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Показване на най-честите думи в изскачащия прозорец"
+  },
+  "frequencyWordCount": {
+    "message": "Брой Думи в Графиката"
+  },
+  "noFrequencyData": {
+    "message": "Няма налични данни за честота на думи"
+  },
+  "developedBy": {
+    "message": "Разработено от"
+  },
+  "version": {
+    "message": "Версия"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Compteur de Mots Instantané"
+  },
+  "extensionDescription": {
+    "message": "Comptez les mots, caractères et plus sur n'importe quelle page web instantanément."
+  },
+  "commandRecount": {
+    "message": "Recompter les mots de la page"
+  },
+  "words": {
+    "message": "Mots"
+  },
+  "characters": {
+    "message": "Caractères"
+  },
+  "charactersWithSpaces": {
+    "message": "Caractères (avec espaces)"
+  },
+  "charactersNoSpaces": {
+    "message": "Caractères (sans espaces)"
+  },
+  "sentences": {
+    "message": "Phrases"
+  },
+  "paragraphs": {
+    "message": "Paragraphes"
+  },
+  "avgWordLength": {
+    "message": "Long. Moy. Mot"
+  },
+  "longestWord": {
+    "message": "Mot le Plus Long"
+  },
+  "longestWordLength": {
+    "message": "Longueur du Mot le Plus Long"
+  },
+  "readingTime": {
+    "message": "Temps de Lecture"
+  },
+  "speakingTime": {
+    "message": "Temps de Parole"
+  },
+  "recount": {
+    "message": "Recompter"
+  },
+  "settings": {
+    "message": "Paramètres"
+  },
+  "loading": {
+    "message": "Comptage..."
+  },
+  "noContent": {
+    "message": "Aucun contenu lisible trouvé"
+  },
+  "error": {
+    "message": "Erreur de comptage du contenu"
+  },
+  "emptyPage": {
+    "message": "Cette page semble être vide"
+  },
+  "settingsTitle": {
+    "message": "Paramètres"
+  },
+  "appearance": {
+    "message": "Apparence"
+  },
+  "darkMode": {
+    "message": "Mode Sombre"
+  },
+  "showThemeToggle": {
+    "message": "Afficher le commutateur de thème dans la popup"
+  },
+  "language": {
+    "message": "Langue"
+  },
+  "counting": {
+    "message": "Options de Comptage"
+  },
+  "selectiveCounter": {
+    "message": "Compteur de Sélection"
+  },
+  "selectiveCounterDesc": {
+    "message": "Afficher la popup de comptage de mots lors de la sélection de texte"
+  },
+  "includeLinks": {
+    "message": "Inclure les Liens"
+  },
+  "includeLinksDesc": {
+    "message": "Compter les URL comme des mots uniques"
+  },
+  "display": {
+    "message": "Options d'Affichage"
+  },
+  "showAvgWordLength": {
+    "message": "Afficher la longueur moyenne des mots"
+  },
+  "showLongestWord": {
+    "message": "Afficher le mot le plus long"
+  },
+  "showReadingTime": {
+    "message": "Afficher le temps de lecture"
+  },
+  "showSpeakingTime": {
+    "message": "Afficher le temps de parole"
+  },
+  "showSentences": {
+    "message": "Afficher le nombre de phrases"
+  },
+  "showParagraphs": {
+    "message": "Afficher le nombre de paragraphes"
+  },
+  "readingSpeed": {
+    "message": "Vitesse de Lecture (MPM)"
+  },
+  "speakingSpeed": {
+    "message": "Vitesse de Parole (MPM)"
+  },
+  "saved": {
+    "message": "Paramètres enregistrés!"
+  },
+  "reset": {
+    "message": "Réinitialiser aux Valeurs par Défaut"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sec"
+  },
+  "chars": {
+    "message": "caractères"
+  },
+  "selected": {
+    "message": "Sélectionné"
+  },
+  "uniqueWords": {
+    "message": "Mots Uniques"
+  },
+  "showUniqueWords": {
+    "message": "Afficher le nombre de mots uniques"
+  },
+  "density": {
+    "message": "Densité de Texte"
+  },
+  "showDensity": {
+    "message": "Afficher le score de densité de texte"
+  },
+  "copyStats": {
+    "message": "Copier les Statistiques"
+  },
+  "copied": {
+    "message": "Copié!"
+  },
+  "exportStats": {
+    "message": "Exporter"
+  },
+  "advancedStats": {
+    "message": "Statistiques Avancées"
+  },
+  "basicStats": {
+    "message": "Statistiques de Base"
+  },
+  "wordFrequency": {
+    "message": "Mots les Plus Fréquents"
+  },
+  "showWordFrequency": {
+    "message": "Afficher le Graphique de Fréquence des Mots"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Afficher les mots les plus fréquents dans la popup"
+  },
+  "frequencyWordCount": {
+    "message": "Nombre de Mots dans le Graphique"
+  },
+  "noFrequencyData": {
+    "message": "Aucune donnée de fréquence de mots disponible"
+  },
+  "developedBy": {
+    "message": "Développé par"
+  },
+  "version": {
+    "message": "Version"
+  }
+}

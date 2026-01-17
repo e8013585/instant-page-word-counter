@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "ತ್ವರಿತ ಪುಟ ಪದಗಳ ಎಣಿಕೆಗಾರ"
+  },
+  "extensionDescription": {
+    "message": "ಯಾವುದೇ ವೆಬ್‌ಪುಟದಲ್ಲಿ ತಕ್ಷಣವೇ ಪದಗಳು, ಅಕ್ಷರಗಳು ಮತ್ತು ಇನ್ನಷ್ಟು ಎಣಿಸಿ."
+  },
+  "commandRecount": {
+    "message": "ಪುಟದ ಪದಗಳನ್ನು ಮರು ಎಣಿಸಿ"
+  },
+  "words": {
+    "message": "ಪದಗಳು"
+  },
+  "characters": {
+    "message": "ಅಕ್ಷರಗಳು"
+  },
+  "charactersWithSpaces": {
+    "message": "ಅಕ್ಷರಗಳು (ಖಾಲಿ ಜಾಗಗಳೊಂದಿಗೆ)"
+  },
+  "charactersNoSpaces": {
+    "message": "ಅಕ್ಷರಗಳು (ಖಾಲಿ ಜಾಗಗಳಿಲ್ಲದೆ)"
+  },
+  "sentences": {
+    "message": "ವಾಕ್ಯಗಳು"
+  },
+  "paragraphs": {
+    "message": "ಪ್ಯಾರಾಗ್ರಾಫ್‌ಗಳು"
+  },
+  "avgWordLength": {
+    "message": "ಸರಾಸರಿ ಪದದ ಉದ್ದ"
+  },
+  "longestWord": {
+    "message": "ದೀರ್ಘವಾದ ಪದ"
+  },
+  "longestWordLength": {
+    "message": "ದೀರ್ಘವಾದ ಪದದ ಉದ್ದ"
+  },
+  "readingTime": {
+    "message": "ಓದುವ ಸಮಯ"
+  },
+  "speakingTime": {
+    "message": "ಮಾತನಾಡುವ ಸಮಯ"
+  },
+  "recount": {
+    "message": "ಮರು ಎಣಿಕೆ"
+  },
+  "settings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "loading": {
+    "message": "ಎಣಿಸುತ್ತಿದೆ..."
+  },
+  "noContent": {
+    "message": "ಓದಬಹುದಾದ ವಿಷಯ ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "error": {
+    "message": "ವಿಷಯ ಎಣಿಸುವಲ್ಲಿ ದೋಷ"
+  },
+  "emptyPage": {
+    "message": "ಈ ಪುಟ ಖಾಲಿಯಾಗಿದೆ ಎಂದು ತೋರುತ್ತದೆ"
+  },
+  "settingsTitle": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "appearance": {
+    "message": "ದೃಶ್ಯ"
+  },
+  "darkMode": {
+    "message": "ಡಾರ್ಕ್ ಮೋಡ್"
+  },
+  "showThemeToggle": {
+    "message": "ಪಾಪಪ್‌ನಲ್ಲಿ ಥೀಮ್ ಟಾಗಲ್ ತೋರಿಸಿ"
+  },
+  "language": {
+    "message": "ಭಾಷೆ"
+  },
+  "counting": {
+    "message": "ಎಣಿಕೆ ಆಯ್ಕೆಗಳು"
+  },
+  "selectiveCounter": {
+    "message": "ಆಯ್ಕೆ ಎಣಿಕೆಗಾರ"
+  },
+  "selectiveCounterDesc": {
+    "message": "ಪಠ್ಯ ಆಯ್ಕೆ ಮಾಡುವಾಗ ಪದಗಳ ಎಣಿಕೆ ಪಾಪಪ್ ತೋರಿಸಿ"
+  },
+  "includeLinks": {
+    "message": "ಲಿಂಕ್‌ಗಳನ್ನು ಸೇರಿಸಿ"
+  },
+  "includeLinksDesc": {
+    "message": "URLಗಳನ್ನು ಪ್ರತ್ಯೇಕ ಪದಗಳಾಗಿ ಎಣಿಸಿ"
+  },
+  "display": {
+    "message": "ಪ್ರದರ್ಶನ ಆಯ್ಕೆಗಳು"
+  },
+  "showAvgWordLength": {
+    "message": "ಸರಾಸರಿ ಪದದ ಉದ್ದ ತೋರಿಸಿ"
+  },
+  "showLongestWord": {
+    "message": "ದೀರ್ಘವಾದ ಪದ ತೋರಿಸಿ"
+  },
+  "showReadingTime": {
+    "message": "ಓದುವ ಸಮಯ ತೋರಿಸಿ"
+  },
+  "showSpeakingTime": {
+    "message": "ಮಾತನಾಡುವ ಸಮಯ ತೋರಿಸಿ"
+  },
+  "showSentences": {
+    "message": "ವಾಕ್ಯಗಳ ಸಂಖ್ಯೆ ತೋರಿಸಿ"
+  },
+  "showParagraphs": {
+    "message": "ಪ್ಯಾರಾಗ್ರಾಫ್‌ಗಳ ಸಂಖ್ಯೆ ತೋರಿಸಿ"
+  },
+  "readingSpeed": {
+    "message": "ಓದುವ ವೇಗ (ಪದ/ನಿಮಿಷ)"
+  },
+  "speakingSpeed": {
+    "message": "ಮಾತನಾಡುವ ವೇಗ (ಪದ/ನಿಮಿಷ)"
+  },
+  "saved": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಉಳಿಸಲಾಗಿದೆ!"
+  },
+  "reset": {
+    "message": "ಡೀಫಾಲ್ಟ್‌ಗೆ ಮರುಹೊಂದಿಸಿ"
+  },
+  "minutes": {
+    "message": "ನಿಮಿ"
+  },
+  "seconds": {
+    "message": "ಸೆಕೆ"
+  },
+  "chars": {
+    "message": "ಅಕ್ಷರಗಳು"
+  },
+  "selected": {
+    "message": "ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ"
+  },
+  "uniqueWords": {
+    "message": "ಅನನ್ಯ ಪದಗಳು"
+  },
+  "showUniqueWords": {
+    "message": "ಅನನ್ಯ ಪದಗಳ ಸಂಖ್ಯೆ ತೋರಿಸಿ"
+  },
+  "density": {
+    "message": "ಪಠ್ಯದ ಸಾಂದ್ರತೆ"
+  },
+  "showDensity": {
+    "message": "ಪಠ್ಯದ ಸಾಂದ್ರತೆ ಸ್ಕೋರ್ ತೋರಿಸಿ"
+  },
+  "copyStats": {
+    "message": "ಅಂಕಿಅಂಶಗಳನ್ನು ನಕಲಿಸಿ"
+  },
+  "copied": {
+    "message": "ನಕಲಿಸಲಾಗಿದೆ!"
+  },
+  "exportStats": {
+    "message": "ರಫ್ತು ಮಾಡಿ"
+  },
+  "advancedStats": {
+    "message": "ಸುಧಾರಿತ ಅಂಕಿಅಂಶಗಳು"
+  },
+  "basicStats": {
+    "message": "ಮೂಲ ಅಂಕಿಅಂಶಗಳು"
+  },
+  "wordFrequency": {
+    "message": "ಹೆಚ್ಚು ಬಳಕೆಯಾದ ಪದಗಳು"
+  },
+  "showWordFrequency": {
+    "message": "ಪದ ಆವರ್ತನ ಚಾರ್ಟ್ ತೋರಿಸಿ"
+  },
+  "showWordFrequencyDesc": {
+    "message": "ಪಾಪಪ್‌ನಲ್ಲಿ ಹೆಚ್ಚು ಬಳಕೆಯಾದ ಪದಗಳು ತೋರಿಸಿ"
+  },
+  "frequencyWordCount": {
+    "message": "ಚಾರ್ಟ್‌ನಲ್ಲಿನ ಪದಗಳ ಸಂಖ್ಯೆ"
+  },
+  "noFrequencyData": {
+    "message": "ಪದ ಆವರ್ತನ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ"
+  },
+  "developedBy": {
+    "message": "ಅಭಿವೃದ್ಧಿಪಡಿಸಿದವರು"
+  },
+  "version": {
+    "message": "ವೆರ್ಷನ್"
+  }
+}

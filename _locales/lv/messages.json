@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Tūlītējās Lapas Vārdu Skaitītājs"
+  },
+  "extensionDescription": {
+    "message": "Uzreiz saskaitiet vārdus, rakstzīmes un vairāk jebkurā vietnē."
+  },
+  "commandRecount": {
+    "message": "Pārsaskaitīt lapas vārdus"
+  },
+  "words": {
+    "message": "Vārdi"
+  },
+  "characters": {
+    "message": "Rakstzīmes"
+  },
+  "charactersWithSpaces": {
+    "message": "Rakstzīmes (ar atstarpēm)"
+  },
+  "charactersNoSpaces": {
+    "message": "Rakstzīmes (bez atstarpēm)"
+  },
+  "sentences": {
+    "message": "Teikumi"
+  },
+  "paragraphs": {
+    "message": "Rindkopas"
+  },
+  "avgWordLength": {
+    "message": "Vid. Vārda Garums"
+  },
+  "longestWord": {
+    "message": "Garākais Vārds"
+  },
+  "longestWordLength": {
+    "message": "Garākā Vārda Garums"
+  },
+  "readingTime": {
+    "message": "Lasīšanas Laiks"
+  },
+  "speakingTime": {
+    "message": "Runāšanas Laiks"
+  },
+  "recount": {
+    "message": "Pārsaskaitīt"
+  },
+  "settings": {
+    "message": "Iestatījumi"
+  },
+  "loading": {
+    "message": "Skaita..."
+  },
+  "noContent": {
+    "message": "Lasāms saturs nav atrasts"
+  },
+  "error": {
+    "message": "Kļūda, skaitot saturu"
+  },
+  "emptyPage": {
+    "message": "Šī lapa šķiet tukša"
+  },
+  "settingsTitle": {
+    "message": "Iestatījumi"
+  },
+  "appearance": {
+    "message": "Izskats"
+  },
+  "darkMode": {
+    "message": "Tumšais Režīms"
+  },
+  "showThemeToggle": {
+    "message": "Rādīt tēmas pārslēgšanu uznirstošajā logā"
+  },
+  "language": {
+    "message": "Valoda"
+  },
+  "counting": {
+    "message": "Skaitīšanas Opcijas"
+  },
+  "selectiveCounter": {
+    "message": "Atlases Skaitītājs"
+  },
+  "selectiveCounterDesc": {
+    "message": "Rādīt vārdu skaita uznirstošo logu, atlasot tekstu"
+  },
+  "includeLinks": {
+    "message": "Iekļaut Saites"
+  },
+  "includeLinksDesc": {
+    "message": "Skaitīt URL kā atsevišķus vārdus"
+  },
+  "display": {
+    "message": "Attēlošanas Opcijas"
+  },
+  "showAvgWordLength": {
+    "message": "Rādīt vidējo vārda garumu"
+  },
+  "showLongestWord": {
+    "message": "Rādīt garāko vārdu"
+  },
+  "showReadingTime": {
+    "message": "Rādīt lasīšanas laiku"
+  },
+  "showSpeakingTime": {
+    "message": "Rādīt runāšanas laiku"
+  },
+  "showSentences": {
+    "message": "Rādīt teikumu skaitu"
+  },
+  "showParagraphs": {
+    "message": "Rādīt rindkopu skaitu"
+  },
+  "readingSpeed": {
+    "message": "Lasīšanas Ātrums (VPM)"
+  },
+  "speakingSpeed": {
+    "message": "Runāšanas Ātrums (VPM)"
+  },
+  "saved": {
+    "message": "Iestatījumi saglabāti!"
+  },
+  "reset": {
+    "message": "Atiestatīt uz Noklusējumu"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "rakstzīmes"
+  },
+  "selected": {
+    "message": "Atlasīts"
+  },
+  "uniqueWords": {
+    "message": "Unikālie Vārdi"
+  },
+  "showUniqueWords": {
+    "message": "Rādīt unikālo vārdu skaitu"
+  },
+  "density": {
+    "message": "Teksta Blīvums"
+  },
+  "showDensity": {
+    "message": "Rādīt teksta blīvuma rezultātu"
+  },
+  "copyStats": {
+    "message": "Kopēt Statistiku"
+  },
+  "copied": {
+    "message": "Nokopēts!"
+  },
+  "exportStats": {
+    "message": "Eksportēt"
+  },
+  "advancedStats": {
+    "message": "Papildu Statistika"
+  },
+  "basicStats": {
+    "message": "Pamata Statistika"
+  },
+  "wordFrequency": {
+    "message": "Biežākās Vārdi"
+  },
+  "showWordFrequency": {
+    "message": "Rādīt Vārdu Biežuma Diagrammu"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Rādīt biežākos vārdus uznirstošajā logā"
+  },
+  "frequencyWordCount": {
+    "message": "Vārdu Skaits Diagrammā"
+  },
+  "noFrequencyData": {
+    "message": "Nav pieejamu vārdu biežuma datu"
+  },
+  "developedBy": {
+    "message": "Izstrādājis"
+  },
+  "version": {
+    "message": "Versija"
+  }
+}

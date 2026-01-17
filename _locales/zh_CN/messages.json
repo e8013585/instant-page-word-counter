@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "即时页面字数统计"
+  },
+  "extensionDescription": {
+    "message": "在任何网页上即时统计字数、字符数等。"
+  },
+  "commandRecount": {
+    "message": "重新统计页面字数"
+  },
+  "words": {
+    "message": "字数"
+  },
+  "characters": {
+    "message": "字符数"
+  },
+  "charactersWithSpaces": {
+    "message": "字符数（包含空格）"
+  },
+  "charactersNoSpaces": {
+    "message": "字符数（不含空格）"
+  },
+  "sentences": {
+    "message": "句子数"
+  },
+  "paragraphs": {
+    "message": "段落数"
+  },
+  "avgWordLength": {
+    "message": "平均词长"
+  },
+  "longestWord": {
+    "message": "最长单词"
+  },
+  "longestWordLength": {
+    "message": "最长单词长度"
+  },
+  "readingTime": {
+    "message": "阅读时间"
+  },
+  "speakingTime": {
+    "message": "朗读时间"
+  },
+  "recount": {
+    "message": "重新统计"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "loading": {
+    "message": "统计中..."
+  },
+  "noContent": {
+    "message": "未找到可读内容"
+  },
+  "error": {
+    "message": "统计内容时出错"
+  },
+  "emptyPage": {
+    "message": "此页面似乎为空"
+  },
+  "settingsTitle": {
+    "message": "设置"
+  },
+  "appearance": {
+    "message": "外观"
+  },
+  "darkMode": {
+    "message": "深色模式"
+  },
+  "showThemeToggle": {
+    "message": "在弹窗中显示主题切换"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "counting": {
+    "message": "统计选项"
+  },
+  "selectiveCounter": {
+    "message": "选择统计器"
+  },
+  "selectiveCounterDesc": {
+    "message": "选择文本时显示字数统计弹窗"
+  },
+  "includeLinks": {
+    "message": "包含链接"
+  },
+  "includeLinksDesc": {
+    "message": "将URL计为单个单词"
+  },
+  "display": {
+    "message": "显示选项"
+  },
+  "showAvgWordLength": {
+    "message": "显示平均词长"
+  },
+  "showLongestWord": {
+    "message": "显示最长单词"
+  },
+  "showReadingTime": {
+    "message": "显示阅读时间"
+  },
+  "showSpeakingTime": {
+    "message": "显示朗读时间"
+  },
+  "showSentences": {
+    "message": "显示句子数"
+  },
+  "showParagraphs": {
+    "message": "显示段落数"
+  },
+  "readingSpeed": {
+    "message": "阅读速度（字/分钟）"
+  },
+  "speakingSpeed": {
+    "message": "朗读速度（字/分钟）"
+  },
+  "saved": {
+    "message": "设置已保存！"
+  },
+  "reset": {
+    "message": "重置为默认值"
+  },
+  "minutes": {
+    "message": "分"
+  },
+  "seconds": {
+    "message": "秒"
+  },
+  "chars": {
+    "message": "字符"
+  },
+  "selected": {
+    "message": "已选择"
+  },
+  "uniqueWords": {
+    "message": "唯一单词"
+  },
+  "showUniqueWords": {
+    "message": "显示唯一单词数"
+  },
+  "density": {
+    "message": "文本密度"
+  },
+  "showDensity": {
+    "message": "显示文本密度得分"
+  },
+  "copyStats": {
+    "message": "复制统计信息"
+  },
+  "copied": {
+    "message": "已复制！"
+  },
+  "exportStats": {
+    "message": "导出"
+  },
+  "advancedStats": {
+    "message": "高级统计"
+  },
+  "basicStats": {
+    "message": "基本统计"
+  },
+  "wordFrequency": {
+    "message": "最常用单词"
+  },
+  "showWordFrequency": {
+    "message": "显示词频图表"
+  },
+  "showWordFrequencyDesc": {
+    "message": "在弹窗中显示最常用单词"
+  },
+  "frequencyWordCount": {
+    "message": "图表中的单词数"
+  },
+  "noFrequencyData": {
+    "message": "无词频数据"
+  },
+  "developedBy": {
+    "message": "开发人员"
+  },
+  "version": {
+    "message": "版本"
+  }
+}

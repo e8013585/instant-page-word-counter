@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Contatore Parole Pagina Istantaneo"
+  },
+  "extensionDescription": {
+    "message": "Conta parole, caratteri e altro su qualsiasi pagina web istantaneamente."
+  },
+  "commandRecount": {
+    "message": "Riconteggio parole pagina"
+  },
+  "words": {
+    "message": "Parole"
+  },
+  "characters": {
+    "message": "Caratteri"
+  },
+  "charactersWithSpaces": {
+    "message": "Caratteri (con spazi)"
+  },
+  "charactersNoSpaces": {
+    "message": "Caratteri (senza spazi)"
+  },
+  "sentences": {
+    "message": "Frasi"
+  },
+  "paragraphs": {
+    "message": "Paragrafi"
+  },
+  "avgWordLength": {
+    "message": "Lung. Media Parola"
+  },
+  "longestWord": {
+    "message": "Parola Più Lunga"
+  },
+  "longestWordLength": {
+    "message": "Lunghezza Parola Più Lunga"
+  },
+  "readingTime": {
+    "message": "Tempo di Lettura"
+  },
+  "speakingTime": {
+    "message": "Tempo di Parlato"
+  },
+  "recount": {
+    "message": "Riconteggio"
+  },
+  "settings": {
+    "message": "Impostazioni"
+  },
+  "loading": {
+    "message": "Conteggio..."
+  },
+  "noContent": {
+    "message": "Nessun contenuto leggibile trovato"
+  },
+  "error": {
+    "message": "Errore nel conteggio del contenuto"
+  },
+  "emptyPage": {
+    "message": "Questa pagina sembra essere vuota"
+  },
+  "settingsTitle": {
+    "message": "Impostazioni"
+  },
+  "appearance": {
+    "message": "Aspetto"
+  },
+  "darkMode": {
+    "message": "Modalità Scura"
+  },
+  "showThemeToggle": {
+    "message": "Mostra interruttore tema nel popup"
+  },
+  "language": {
+    "message": "Lingua"
+  },
+  "counting": {
+    "message": "Opzioni Conteggio"
+  },
+  "selectiveCounter": {
+    "message": "Contatore Selettivo"
+  },
+  "selectiveCounterDesc": {
+    "message": "Mostra popup conteggio parole durante la selezione testo"
+  },
+  "includeLinks": {
+    "message": "Includi Link"
+  },
+  "includeLinksDesc": {
+    "message": "Conta URL come parole singole"
+  },
+  "display": {
+    "message": "Opzioni Visualizzazione"
+  },
+  "showAvgWordLength": {
+    "message": "Mostra lunghezza media parola"
+  },
+  "showLongestWord": {
+    "message": "Mostra parola più lunga"
+  },
+  "showReadingTime": {
+    "message": "Mostra tempo di lettura"
+  },
+  "showSpeakingTime": {
+    "message": "Mostra tempo di parlato"
+  },
+  "showSentences": {
+    "message": "Mostra numero frasi"
+  },
+  "showParagraphs": {
+    "message": "Mostra numero paragrafi"
+  },
+  "readingSpeed": {
+    "message": "Velocità Lettura (PPM)"
+  },
+  "speakingSpeed": {
+    "message": "Velocità Parlato (PPM)"
+  },
+  "saved": {
+    "message": "Impostazioni salvate!"
+  },
+  "reset": {
+    "message": "Ripristina Predefiniti"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sec"
+  },
+  "chars": {
+    "message": "caratteri"
+  },
+  "selected": {
+    "message": "Selezionato"
+  },
+  "uniqueWords": {
+    "message": "Parole Uniche"
+  },
+  "showUniqueWords": {
+    "message": "Mostra numero parole uniche"
+  },
+  "density": {
+    "message": "Densità Testo"
+  },
+  "showDensity": {
+    "message": "Mostra punteggio densità testo"
+  },
+  "copyStats": {
+    "message": "Copia Statistiche"
+  },
+  "copied": {
+    "message": "Copiato!"
+  },
+  "exportStats": {
+    "message": "Esporta"
+  },
+  "advancedStats": {
+    "message": "Statistiche Avanzate"
+  },
+  "basicStats": {
+    "message": "Statistiche di Base"
+  },
+  "wordFrequency": {
+    "message": "Parole Più Frequenti"
+  },
+  "showWordFrequency": {
+    "message": "Mostra Grafico Frequenza Parole"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Mostra parole più frequenti nel popup"
+  },
+  "frequencyWordCount": {
+    "message": "Numero Parole nel Grafico"
+  },
+  "noFrequencyData": {
+    "message": "Nessun dato frequenza parole disponibile"
+  },
+  "developedBy": {
+    "message": "Sviluppato da"
+  },
+  "version": {
+    "message": "Versione"
+  }
+}

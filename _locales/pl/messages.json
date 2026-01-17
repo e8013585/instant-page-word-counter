@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Natychmiastowy Licznik Słów Strony"
+  },
+  "extensionDescription": {
+    "message": "Liczy słowa, znaki i więcej na dowolnej stronie internetowej natychmiast."
+  },
+  "commandRecount": {
+    "message": "Policz ponownie słowa strony"
+  },
+  "words": {
+    "message": "Słowa"
+  },
+  "characters": {
+    "message": "Znaki"
+  },
+  "charactersWithSpaces": {
+    "message": "Znaki (ze spacjami)"
+  },
+  "charactersNoSpaces": {
+    "message": "Znaki (bez spacji)"
+  },
+  "sentences": {
+    "message": "Zdania"
+  },
+  "paragraphs": {
+    "message": "Akapity"
+  },
+  "avgWordLength": {
+    "message": "Śred. Dł. Słowa"
+  },
+  "longestWord": {
+    "message": "Najdłuższe Słowo"
+  },
+  "longestWordLength": {
+    "message": "Długość Najdłuższego Słowa"
+  },
+  "readingTime": {
+    "message": "Czas Czytania"
+  },
+  "speakingTime": {
+    "message": "Czas Mówienia"
+  },
+  "recount": {
+    "message": "Policz Ponownie"
+  },
+  "settings": {
+    "message": "Ustawienia"
+  },
+  "loading": {
+    "message": "Liczenie..."
+  },
+  "noContent": {
+    "message": "Nie znaleziono czytelnej treści"
+  },
+  "error": {
+    "message": "Błąd podczas liczenia treści"
+  },
+  "emptyPage": {
+    "message": "Ta strona wydaje się być pusta"
+  },
+  "settingsTitle": {
+    "message": "Ustawienia"
+  },
+  "appearance": {
+    "message": "Wygląd"
+  },
+  "darkMode": {
+    "message": "Tryb Ciemny"
+  },
+  "showThemeToggle": {
+    "message": "Pokaż przełącznik motywu w wyskakującym oknie"
+  },
+  "language": {
+    "message": "Język"
+  },
+  "counting": {
+    "message": "Opcje Liczenia"
+  },
+  "selectiveCounter": {
+    "message": "Licznik Zaznaczenia"
+  },
+  "selectiveCounterDesc": {
+    "message": "Pokaż wyskakujące okno licznika słów przy zaznaczaniu tekstu"
+  },
+  "includeLinks": {
+    "message": "Uwzględnij Linki"
+  },
+  "includeLinksDesc": {
+    "message": "Liczy URL jako pojedyncze słowa"
+  },
+  "display": {
+    "message": "Opcje Wyświetlania"
+  },
+  "showAvgWordLength": {
+    "message": "Pokaż średnią długość słowa"
+  },
+  "showLongestWord": {
+    "message": "Pokaż najdłuższe słowo"
+  },
+  "showReadingTime": {
+    "message": "Pokaż czas czytania"
+  },
+  "showSpeakingTime": {
+    "message": "Pokaż czas mówienia"
+  },
+  "showSentences": {
+    "message": "Pokaż liczbę zdań"
+  },
+  "showParagraphs": {
+    "message": "Pokaż liczbę akapitów"
+  },
+  "readingSpeed": {
+    "message": "Prędkość Czytania (SPM)"
+  },
+  "speakingSpeed": {
+    "message": "Prędkość Mówienia (SPM)"
+  },
+  "saved": {
+    "message": "Ustawienia zapisane!"
+  },
+  "reset": {
+    "message": "Przywróć Domyślne"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "znaki"
+  },
+  "selected": {
+    "message": "Wybrane"
+  },
+  "uniqueWords": {
+    "message": "Unikalne Słowa"
+  },
+  "showUniqueWords": {
+    "message": "Pokaż liczbę unikalnych słów"
+  },
+  "density": {
+    "message": "Gęstość Tekstu"
+  },
+  "showDensity": {
+    "message": "Pokaż wynik gęstości tekstu"
+  },
+  "copyStats": {
+    "message": "Kopiuj Statystyki"
+  },
+  "copied": {
+    "message": "Skopiowano!"
+  },
+  "exportStats": {
+    "message": "Eksportuj"
+  },
+  "advancedStats": {
+    "message": "Zaawansowane Statystyki"
+  },
+  "basicStats": {
+    "message": "Podstawowe Statystyki"
+  },
+  "wordFrequency": {
+    "message": "Najczęstsze Słowa"
+  },
+  "showWordFrequency": {
+    "message": "Pokaż Wykres Częstotliwości Słów"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Pokaż najczęstsze słowa w wyskakującym oknie"
+  },
+  "frequencyWordCount": {
+    "message": "Liczba Słów na Wykresie"
+  },
+  "noFrequencyData": {
+    "message": "Brak danych o częstotliwości słów"
+  },
+  "developedBy": {
+    "message": "Opracowane przez"
+  },
+  "version": {
+    "message": "Wersja"
+  }
+}

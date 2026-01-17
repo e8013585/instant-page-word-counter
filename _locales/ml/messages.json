@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "തൽക്ഷണ പേജ് വാക്ക് കൗണ്ടർ"
+  },
+  "extensionDescription": {
+    "message": "ഏത് വെബ് പേജിലും തൽക്ഷണം വാക്കുകൾ, അക്ഷരങ്ങൾ മറ്റും എണ്ണുക."
+  },
+  "commandRecount": {
+    "message": "പേജ് വാക്കുകൾ വീണ്ടും എണ്ണുക"
+  },
+  "words": {
+    "message": "വാക്കുകൾ"
+  },
+  "characters": {
+    "message": "അക്ഷരങ്ങൾ"
+  },
+  "charactersWithSpaces": {
+    "message": "അക്ഷരങ്ങൾ (വിടവുകളോടെ)"
+  },
+  "charactersNoSpaces": {
+    "message": "അക്ഷരങ്ങൾ (വിടവുകൾ ഇല്ലാതെ)"
+  },
+  "sentences": {
+    "message": "വാക്യങ്ങൾ"
+  },
+  "paragraphs": {
+    "message": "ഖണ്ഡികകൾ"
+  },
+  "avgWordLength": {
+    "message": "ശരാശരി വാക്ക് നീളം"
+  },
+  "longestWord": {
+    "message": "നീളമേറിയ വാക്ക്"
+  },
+  "longestWordLength": {
+    "message": "നീളമേറിയ വാക്കിന്റെ നീളം"
+  },
+  "readingTime": {
+    "message": "വായന സമയം"
+  },
+  "speakingTime": {
+    "message": "സംസാര സമയം"
+  },
+  "recount": {
+    "message": "വീണ്ടും എണ്ണുക"
+  },
+  "settings": {
+    "message": "സെറ്റിംഗുകൾ"
+  },
+  "loading": {
+    "message": "എണ്ണുന്നു..."
+  },
+  "noContent": {
+    "message": "വായിക്കാൻ കഴിയുന്ന ഉള്ളടക്കം കണ്ടെത്തിയില്ല"
+  },
+  "error": {
+    "message": "ഉള്ളടക്കം എണ്ണുന്നതിൽ പിശക്"
+  },
+  "emptyPage": {
+    "message": "ഈ പേജ് ശൂന്യമാണെന്ന് തോന്നുന്നു"
+  },
+  "settingsTitle": {
+    "message": "സെറ്റിംഗുകൾ"
+  },
+  "appearance": {
+    "message": "തോന്നൽ"
+  },
+  "darkMode": {
+    "message": "ഇരുണ്ട മോഡ്"
+  },
+  "showThemeToggle": {
+    "message": "പോപ്പപ്പിൽ ഥീം ടോഗിൾ കാണിക്കുക"
+  },
+  "language": {
+    "message": "ഭാഷ"
+  },
+  "counting": {
+    "message": "എണ്ണൽ ഓപ്ഷനുകൾ"
+  },
+  "selectiveCounter": {
+    "message": "തിരഞ്ഞെടുപ്പ് കൗണ്ടർ"
+  },
+  "selectiveCounterDesc": {
+    "message": "വാചകം തിരഞ്ഞെടുക്കുമ്പോൾ വാക്ക് എണ്ണൽ പോപ്പപ്പ് കാണിക്കുക"
+  },
+  "includeLinks": {
+    "message": "ലിങ്കുകൾ ഉൾപ്പെടുത്തുക"
+  },
+  "includeLinksDesc": {
+    "message": "URLകൾ വ്യക്തിഗത വാക്കുകളായി എണ്ണുക"
+  },
+  "display": {
+    "message": "പ്രദർശന ഓപ്ഷനുകൾ"
+  },
+  "showAvgWordLength": {
+    "message": "ശരാശരി വാക്ക് നീളം കാണിക്കുക"
+  },
+  "showLongestWord": {
+    "message": "നീളമേറിയ വാക്ക് കാണിക്കുക"
+  },
+  "showReadingTime": {
+    "message": "വായന സമയം കാണിക്കുക"
+  },
+  "showSpeakingTime": {
+    "message": "സംസാര സമയം കാണിക്കുക"
+  },
+  "showSentences": {
+    "message": "വാക്യങ്ങളുടെ എണ്ണം കാണിക്കുക"
+  },
+  "showParagraphs": {
+    "message": "ഖണ്ഡികകളുടെ എണ്ണം കാണിക്കുക"
+  },
+  "readingSpeed": {
+    "message": "വായന വേഗത (വാക്ക്/മിനിറ്റ്)"
+  },
+  "speakingSpeed": {
+    "message": "സംസാര വേഗത (വാക്ക്/മിനിറ്റ്)"
+  },
+  "saved": {
+    "message": "സെറ്റിംഗുകൾ സംരക്ഷിച്ചു!"
+  },
+  "reset": {
+    "message": "ഡിഫോൾട്ടിലേക്ക് പുനഃസജ്ജമാക്കുക"
+  },
+  "minutes": {
+    "message": "മിനിറ്റ്"
+  },
+  "seconds": {
+    "message": "സെക്കൻഡ്"
+  },
+  "chars": {
+    "message": "അക്ഷരങ്ങൾ"
+  },
+  "selected": {
+    "message": "തിരഞ്ഞെടുത്തു"
+  },
+  "uniqueWords": {
+    "message": "അദ്വിതീയ വാക്കുകൾ"
+  },
+  "showUniqueWords": {
+    "message": "അദ്വിതീയ വാക്കുകളുടെ എണ്ണം കാണിക്കുക"
+  },
+  "density": {
+    "message": "വാചക സാന്ദ്രത"
+  },
+  "showDensity": {
+    "message": "വാചക സാന്ദ്രത സ്കോർ കാണിക്കുക"
+  },
+  "copyStats": {
+    "message": "സ്ഥിതിവിവരക്കണക്കുകൾ പകർത്തുക"
+  },
+  "copied": {
+    "message": "പകർത്തി!"
+  },
+  "exportStats": {
+    "message": "എക്സ്പോർട്ട്"
+  },
+  "advancedStats": {
+    "message": "വിപുലീകൃത സ്ഥിതിവിവരക്കണക്കുകൾ"
+  },
+  "basicStats": {
+    "message": "അടിസ്ഥാന സ്ഥിതിവിവരക്കണക്കുകൾ"
+  },
+  "wordFrequency": {
+    "message": "ഏറ്റവും സാധാരണമായ വാക്കുകൾ"
+  },
+  "showWordFrequency": {
+    "message": "വാക്ക് ആവൃത്തി ചാർട്ട് കാണിക്കുക"
+  },
+  "showWordFrequencyDesc": {
+    "message": "പോപ്പപ്പിൽ ഏറ്റവും സാധാരണമായ വാക്കുകൾ കാണിക്കുക"
+  },
+  "frequencyWordCount": {
+    "message": "ചാർട്ടിലെ വാക്കുകളുടെ എണ്ണം"
+  },
+  "noFrequencyData": {
+    "message": "വാക്ക് ആവൃത്തി ഡാറ്റ ലഭ്യമല്ല"
+  },
+  "developedBy": {
+    "message": "വികസിപ്പിച്ചത്"
+  },
+  "version": {
+    "message": "പതിപ്പ്"
+  }
+}

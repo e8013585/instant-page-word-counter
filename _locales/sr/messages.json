@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Тренутни Бројач Речи Странице"
+  },
+  "extensionDescription": {
+    "message": "Бројте речи, знакове и више на било којој веб страници тренутно."
+  },
+  "commandRecount": {
+    "message": "Преброј речи странице поново"
+  },
+  "words": {
+    "message": "Речи"
+  },
+  "characters": {
+    "message": "Знакови"
+  },
+  "charactersWithSpaces": {
+    "message": "Знакови (са размацима)"
+  },
+  "charactersNoSpaces": {
+    "message": "Знакови (без размака)"
+  },
+  "sentences": {
+    "message": "Реченице"
+  },
+  "paragraphs": {
+    "message": "Пасуси"
+  },
+  "avgWordLength": {
+    "message": "Просечна Дужина Речи"
+  },
+  "longestWord": {
+    "message": "Најдужа Реч"
+  },
+  "longestWordLength": {
+    "message": "Дужина Најдуже Речи"
+  },
+  "readingTime": {
+    "message": "Време Читања"
+  },
+  "speakingTime": {
+    "message": "Време Говора"
+  },
+  "recount": {
+    "message": "Поново Бројање"
+  },
+  "settings": {
+    "message": "Подешавања"
+  },
+  "loading": {
+    "message": "Бројање..."
+  },
+  "noContent": {
+    "message": "Није пронађен читљив садржај"
+  },
+  "error": {
+    "message": "Грешка при бројању садржаја"
+  },
+  "emptyPage": {
+    "message": "Ова страница изгледа празна"
+  },
+  "settingsTitle": {
+    "message": "Подешавања"
+  },
+  "appearance": {
+    "message": "Изглед"
+  },
+  "darkMode": {
+    "message": "Тамни Режим"
+  },
+  "showThemeToggle": {
+    "message": "Прикажи прекидач теме у искачућем прозору"
+  },
+  "language": {
+    "message": "Језик"
+  },
+  "counting": {
+    "message": "Опције Бројања"
+  },
+  "selectiveCounter": {
+    "message": "Бројач Избора"
+  },
+  "selectiveCounterDesc": {
+    "message": "Прикажи искачући прозор бројача речи при избору текста"
+  },
+  "includeLinks": {
+    "message": "Укључи Линкове"
+  },
+  "includeLinksDesc": {
+    "message": "Броји URL као појединачне речи"
+  },
+  "display": {
+    "message": "Опције Приказа"
+  },
+  "showAvgWordLength": {
+    "message": "Прикажи просечну дужину речи"
+  },
+  "showLongestWord": {
+    "message": "Прикажи најдужу реч"
+  },
+  "showReadingTime": {
+    "message": "Прикажи време читања"
+  },
+  "showSpeakingTime": {
+    "message": "Прикажи време говора"
+  },
+  "showSentences": {
+    "message": "Прикажи број реченица"
+  },
+  "showParagraphs": {
+    "message": "Прикажи број пасуса"
+  },
+  "readingSpeed": {
+    "message": "Брзина Читања (РПМ)"
+  },
+  "speakingSpeed": {
+    "message": "Брзина Говора (РПМ)"
+  },
+  "saved": {
+    "message": "Подешавања сачувана!"
+  },
+  "reset": {
+    "message": "Ресетуј на Подразумевано"
+  },
+  "minutes": {
+    "message": "мин"
+  },
+  "seconds": {
+    "message": "сек"
+  },
+  "chars": {
+    "message": "знакова"
+  },
+  "selected": {
+    "message": "Изабрано"
+  },
+  "uniqueWords": {
+    "message": "Јединствене Речи"
+  },
+  "showUniqueWords": {
+    "message": "Прикажи број јединствених речи"
+  },
+  "density": {
+    "message": "Густина Текста"
+  },
+  "showDensity": {
+    "message": "Прикажи резултат густине текста"
+  },
+  "copyStats": {
+    "message": "Копирај Статистике"
+  },
+  "copied": {
+    "message": "Копирано!"
+  },
+  "exportStats": {
+    "message": "Извези"
+  },
+  "advancedStats": {
+    "message": "Напредне Статистике"
+  },
+  "basicStats": {
+    "message": "Основне Статистике"
+  },
+  "wordFrequency": {
+    "message": "Најчешће Речи"
+  },
+  "showWordFrequency": {
+    "message": "Прикажи График Учесталости Речи"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Прикажи најчешће речи у искачућем прозору"
+  },
+  "frequencyWordCount": {
+    "message": "Број Речи на Графику"
+  },
+  "noFrequencyData": {
+    "message": "Нема података о учесталости речи"
+  },
+  "developedBy": {
+    "message": "Развио"
+  },
+  "version": {
+    "message": "Верзија"
+  }
+}

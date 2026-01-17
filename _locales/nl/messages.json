@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Directe Pagina Woordenteller"
+  },
+  "extensionDescription": {
+    "message": "Tel direct woorden, tekens en meer op elke webpagina."
+  },
+  "commandRecount": {
+    "message": "Paginawoorden opnieuw tellen"
+  },
+  "words": {
+    "message": "Woorden"
+  },
+  "characters": {
+    "message": "Tekens"
+  },
+  "charactersWithSpaces": {
+    "message": "Tekens (met spaties)"
+  },
+  "charactersNoSpaces": {
+    "message": "Tekens (zonder spaties)"
+  },
+  "sentences": {
+    "message": "Zinnen"
+  },
+  "paragraphs": {
+    "message": "Paragrafen"
+  },
+  "avgWordLength": {
+    "message": "Gem. Woordlengte"
+  },
+  "longestWord": {
+    "message": "Langste Woord"
+  },
+  "longestWordLength": {
+    "message": "Lengte Langste Woord"
+  },
+  "readingTime": {
+    "message": "Leestijd"
+  },
+  "speakingTime": {
+    "message": "Sprekertijd"
+  },
+  "recount": {
+    "message": "Opnieuw Tellen"
+  },
+  "settings": {
+    "message": "Instellingen"
+  },
+  "loading": {
+    "message": "Aan het tellen..."
+  },
+  "noContent": {
+    "message": "Geen leesbare inhoud gevonden"
+  },
+  "error": {
+    "message": "Fout bij tellen inhoud"
+  },
+  "emptyPage": {
+    "message": "Deze pagina lijkt leeg te zijn"
+  },
+  "settingsTitle": {
+    "message": "Instellingen"
+  },
+  "appearance": {
+    "message": "Uiterlijk"
+  },
+  "darkMode": {
+    "message": "Donkere Modus"
+  },
+  "showThemeToggle": {
+    "message": "Toon themaschakelaar in popup"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "counting": {
+    "message": "Telopties"
+  },
+  "selectiveCounter": {
+    "message": "Selectieteller"
+  },
+  "selectiveCounterDesc": {
+    "message": "Toon woordenteller popup bij selecteren tekst"
+  },
+  "includeLinks": {
+    "message": "Links Includeren"
+  },
+  "includeLinksDesc": {
+    "message": "Tel URL's als enkele woorden"
+  },
+  "display": {
+    "message": "Weergave-opties"
+  },
+  "showAvgWordLength": {
+    "message": "Toon gemiddelde woordlengte"
+  },
+  "showLongestWord": {
+    "message": "Toon langste woord"
+  },
+  "showReadingTime": {
+    "message": "Toon leestijd"
+  },
+  "showSpeakingTime": {
+    "message": "Toon spreektijd"
+  },
+  "showSentences": {
+    "message": "Toon aantal zinnen"
+  },
+  "showParagraphs": {
+    "message": "Toon aantal paragrafen"
+  },
+  "readingSpeed": {
+    "message": "Leessnelheid (WPM)"
+  },
+  "speakingSpeed": {
+    "message": "Spreeksnelheid (WPM)"
+  },
+  "saved": {
+    "message": "Instellingen opgeslagen!"
+  },
+  "reset": {
+    "message": "Terugzetten naar Standaard"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sec"
+  },
+  "chars": {
+    "message": "tekens"
+  },
+  "selected": {
+    "message": "Geselecteerd"
+  },
+  "uniqueWords": {
+    "message": "Unieke Woorden"
+  },
+  "showUniqueWords": {
+    "message": "Toon aantal unieke woorden"
+  },
+  "density": {
+    "message": "Tekstdichtheid"
+  },
+  "showDensity": {
+    "message": "Toon tekstdichtheidsscore"
+  },
+  "copyStats": {
+    "message": "Kopieer Statistieken"
+  },
+  "copied": {
+    "message": "Gekopieerd!"
+  },
+  "exportStats": {
+    "message": "Exporteren"
+  },
+  "advancedStats": {
+    "message": "Geavanceerde Statistieken"
+  },
+  "basicStats": {
+    "message": "Basisstatistieken"
+  },
+  "wordFrequency": {
+    "message": "Meest Voorkomende Woorden"
+  },
+  "showWordFrequency": {
+    "message": "Toon Woordfrequentiediagram"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Toon meest voorkomende woorden in popup"
+  },
+  "frequencyWordCount": {
+    "message": "Aantal Woorden in Diagram"
+  },
+  "noFrequencyData": {
+    "message": "Geen woordfrequentiedata beschikbaar"
+  },
+  "developedBy": {
+    "message": "Ontwikkeld door"
+  },
+  "version": {
+    "message": "Versie"
+  }
+}

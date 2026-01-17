@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "तत्क्षणिक पृष्ठ शब्द गणक"
+  },
+  "extensionDescription": {
+    "message": "कोणत्याही वेब पृष्ठावर त्वरित शब्द, अक्षरे आणि अधिक मोजा."
+  },
+  "commandRecount": {
+    "message": "पृष्ठाचे शब्द पुन्हा मोजा"
+  },
+  "words": {
+    "message": "शब्द"
+  },
+  "characters": {
+    "message": "अक्षरे"
+  },
+  "charactersWithSpaces": {
+    "message": "अक्षरे (मोकळ्या जागेसह)"
+  },
+  "charactersNoSpaces": {
+    "message": "अक्षरे (मोकळ्या जागेशिवाय)"
+  },
+  "sentences": {
+    "message": "वाक्ये"
+  },
+  "paragraphs": {
+    "message": "परिच्छेद"
+  },
+  "avgWordLength": {
+    "message": "सरासरी शब्द लांबी"
+  },
+  "longestWord": {
+    "message": "सर्वात लांब शब्द"
+  },
+  "longestWordLength": {
+    "message": "सर्वात लांब शब्दाची लांबी"
+  },
+  "readingTime": {
+    "message": "वाचन वेळ"
+  },
+  "speakingTime": {
+    "message": "बोलण्याची वेळ"
+  },
+  "recount": {
+    "message": "पुन्हा मोजा"
+  },
+  "settings": {
+    "message": "सेटिंग्ज"
+  },
+  "loading": {
+    "message": "मोजत आहे..."
+  },
+  "noContent": {
+    "message": "वाचनयोग्य सामग्री सापडली नाही"
+  },
+  "error": {
+    "message": "सामग्री मोजताना त्रुटी"
+  },
+  "emptyPage": {
+    "message": "हे पृष्ठ रिकामे दिसते"
+  },
+  "settingsTitle": {
+    "message": "सेटिंग्ज"
+  },
+  "appearance": {
+    "message": "देखावा"
+  },
+  "darkMode": {
+    "message": "डार्क मोड"
+  },
+  "showThemeToggle": {
+    "message": "पॉपअपमध्ये थीम टॉगल दाखवा"
+  },
+  "language": {
+    "message": "भाषा"
+  },
+  "counting": {
+    "message": "मोजणी पर्याय"
+  },
+  "selectiveCounter": {
+    "message": "निवड गणक"
+  },
+  "selectiveCounterDesc": {
+    "message": "मजकूर निवडताना शब्द गणक पॉपअप दाखवा"
+  },
+  "includeLinks": {
+    "message": "लिंक समाविष्ट करा"
+  },
+  "includeLinksDesc": {
+    "message": "URL एकल शब्द म्हणून मोजा"
+  },
+  "display": {
+    "message": "प्रदर्शन पर्याय"
+  },
+  "showAvgWordLength": {
+    "message": "सरासरी शब्द लांबी दाखवा"
+  },
+  "showLongestWord": {
+    "message": "सर्वात लांब शब्द दाखवा"
+  },
+  "showReadingTime": {
+    "message": "वाचन वेळ दाखवा"
+  },
+  "showSpeakingTime": {
+    "message": "बोलण्याची वेळ दाखवा"
+  },
+  "showSentences": {
+    "message": "वाक्यांची संख्या दाखवा"
+  },
+  "showParagraphs": {
+    "message": "परिच्छेदांची संख्या दाखवा"
+  },
+  "readingSpeed": {
+    "message": "वाचन गती (शब्द प्रति मिनिट)"
+  },
+  "speakingSpeed": {
+    "message": "बोलण्याची गती (शब्द प्रति मिनिट)"
+  },
+  "saved": {
+    "message": "सेटिंग्ज जतन केल्या!"
+  },
+  "reset": {
+    "message": "डीफॉल्ट वर रीसेट करा"
+  },
+  "minutes": {
+    "message": "मि"
+  },
+  "seconds": {
+    "message": "से"
+  },
+  "chars": {
+    "message": "अक्षरे"
+  },
+  "selected": {
+    "message": "निवडलेले"
+  },
+  "uniqueWords": {
+    "message": "विशिष्ट शब्द"
+  },
+  "showUniqueWords": {
+    "message": "विशिष्ट शब्दांची संख्या दाखवा"
+  },
+  "density": {
+    "message": "मजकूर घनता"
+  },
+  "showDensity": {
+    "message": "मजकूर घनता स्कोअर दाखवा"
+  },
+  "copyStats": {
+    "message": "आकडेवारी कॉपी करा"
+  },
+  "copied": {
+    "message": "कॉपी केले!"
+  },
+  "exportStats": {
+    "message": "निर्यात करा"
+  },
+  "advancedStats": {
+    "message": "प्रगत आकडेवारी"
+  },
+  "basicStats": {
+    "message": "मूलभूत आकडेवारी"
+  },
+  "wordFrequency": {
+    "message": "सर्वात वारंवार येणारे शब्द"
+  },
+  "showWordFrequency": {
+    "message": "शब्द वारंवारता चार्ट दाखवा"
+  },
+  "showWordFrequencyDesc": {
+    "message": "पॉपअपमध्ये सर्वात वारंवार येणारे शब्द दाखवा"
+  },
+  "frequencyWordCount": {
+    "message": "चार्टमधील शब्दांची संख्या"
+  },
+  "noFrequencyData": {
+    "message": "शब्द वारंवारता डेटा उपलब्ध नाही"
+  },
+  "developedBy": {
+    "message": "विकसित केले"
+  },
+  "version": {
+    "message": "आवृत्ती"
+  }
+}

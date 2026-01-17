@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Sofortige Seiten-Wortzähler"
+  },
+  "extensionDescription": {
+    "message": "Zähle sofort Wörter, Zeichen und mehr auf jeder Webseite."
+  },
+  "commandRecount": {
+    "message": "Seitenwörter neu zählen"
+  },
+  "words": {
+    "message": "Wörter"
+  },
+  "characters": {
+    "message": "Zeichen"
+  },
+  "charactersWithSpaces": {
+    "message": "Zeichen (mit Leerzeichen)"
+  },
+  "charactersNoSpaces": {
+    "message": "Zeichen (ohne Leerzeichen)"
+  },
+  "sentences": {
+    "message": "Sätze"
+  },
+  "paragraphs": {
+    "message": "Absätze"
+  },
+  "avgWordLength": {
+    "message": "Durchschn. Wortlänge"
+  },
+  "longestWord": {
+    "message": "Längstes Wort"
+  },
+  "longestWordLength": {
+    "message": "Längste Wortlänge"
+  },
+  "readingTime": {
+    "message": "Lesezeit"
+  },
+  "speakingTime": {
+    "message": "Sprechzeit"
+  },
+  "recount": {
+    "message": "Neu zählen"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "loading": {
+    "message": "Wird gezählt..."
+  },
+  "noContent": {
+    "message": "Kein lesbarer Inhalt gefunden"
+  },
+  "error": {
+    "message": "Fehler beim Zählen des Inhalts"
+  },
+  "emptyPage": {
+    "message": "Diese Seite scheint leer zu sein"
+  },
+  "settingsTitle": {
+    "message": "Einstellungen"
+  },
+  "appearance": {
+    "message": "Erscheinungsbild"
+  },
+  "darkMode": {
+    "message": "Dunkelmodus"
+  },
+  "showThemeToggle": {
+    "message": "Themenumschalter im Popup anzeigen"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "counting": {
+    "message": "Zähloptionen"
+  },
+  "selectiveCounter": {
+    "message": "Auswahlzähler"
+  },
+  "selectiveCounterDesc": {
+    "message": "Wortzähler-Popup bei Textauswahl anzeigen"
+  },
+  "includeLinks": {
+    "message": "Links einbeziehen"
+  },
+  "includeLinksDesc": {
+    "message": "URLs als einzelne Wörter zählen"
+  },
+  "display": {
+    "message": "Anzeigeoptionen"
+  },
+  "showAvgWordLength": {
+    "message": "Durchschnittliche Wortlänge anzeigen"
+  },
+  "showLongestWord": {
+    "message": "Längstes Wort anzeigen"
+  },
+  "showReadingTime": {
+    "message": "Lesezeit anzeigen"
+  },
+  "showSpeakingTime": {
+    "message": "Sprechzeit anzeigen"
+  },
+  "showSentences": {
+    "message": "Satzanzahl anzeigen"
+  },
+  "showParagraphs": {
+    "message": "Absatzanzahl anzeigen"
+  },
+  "readingSpeed": {
+    "message": "Lesegeschwindigkeit (WPM)"
+  },
+  "speakingSpeed": {
+    "message": "Sprechgeschwindigkeit (WPM)"
+  },
+  "saved": {
+    "message": "Einstellungen gespeichert!"
+  },
+  "reset": {
+    "message": "Auf Standard zurücksetzen"
+  },
+  "minutes": {
+    "message": "Min"
+  },
+  "seconds": {
+    "message": "Sek"
+  },
+  "chars": {
+    "message": "Zeichen"
+  },
+  "selected": {
+    "message": "Ausgewählt"
+  },
+  "uniqueWords": {
+    "message": "Einzigartige Wörter"
+  },
+  "showUniqueWords": {
+    "message": "Anzahl einzigartiger Wörter anzeigen"
+  },
+  "density": {
+    "message": "Textdichte"
+  },
+  "showDensity": {
+    "message": "Textdichte-Score anzeigen"
+  },
+  "copyStats": {
+    "message": "Statistiken kopieren"
+  },
+  "copied": {
+    "message": "Kopiert!"
+  },
+  "exportStats": {
+    "message": "Exportieren"
+  },
+  "advancedStats": {
+    "message": "Erweiterte Statistiken"
+  },
+  "basicStats": {
+    "message": "Basisstatistiken"
+  },
+  "wordFrequency": {
+    "message": "Häufigste Wörter"
+  },
+  "showWordFrequency": {
+    "message": "Worthäufigkeitsdiagramm anzeigen"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Häufigste Wörter im Popup anzeigen"
+  },
+  "frequencyWordCount": {
+    "message": "Anzahl der Wörter im Diagramm"
+  },
+  "noFrequencyData": {
+    "message": "Keine Worthäufigkeitsdaten verfügbar"
+  },
+  "developedBy": {
+    "message": "Entwickelt von"
+  },
+  "version": {
+    "message": "Version"
+  }
+}

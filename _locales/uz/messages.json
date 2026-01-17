@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Tezkor Sahifa So'zlar Hisoblagichi"
+  },
+  "extensionDescription": {
+    "message": "Har qanday veb-sahifada darhol so'zlar, belgilar va boshqalarni hisoblang."
+  },
+  "commandRecount": {
+    "message": "Sahifa so'zlarini qayta hisoblang"
+  },
+  "words": {
+    "message": "So'zlar"
+  },
+  "characters": {
+    "message": "Belgilar"
+  },
+  "charactersWithSpaces": {
+    "message": "Belgilar (bo'shliqlar bilan)"
+  },
+  "charactersNoSpaces": {
+    "message": "Belgilar (bo'shliqlarsiz)"
+  },
+  "sentences": {
+    "message": "Gap"
+  },
+  "paragraphs": {
+    "message": "Paragraflar"
+  },
+  "avgWordLength": {
+    "message": "O'rtacha So'z Uzunligi"
+  },
+  "longestWord": {
+    "message": "Eng Uzoq So'z"
+  },
+  "longestWordLength": {
+    "message": "Eng Uzoq So'z Uzunligi"
+  },
+  "readingTime": {
+    "message": "O'qish Vaqti"
+  },
+  "speakingTime": {
+    "message": "Gapirish Vaqti"
+  },
+  "recount": {
+    "message": "Qayta Hisoblash"
+  },
+  "settings": {
+    "message": "Sozlamalar"
+  },
+  "loading": {
+    "message": "Hisoblanmoqda..."
+  },
+  "noContent": {
+    "message": "O'qiladigan tarkib topilmadi"
+  },
+  "error": {
+    "message": "Tarkibni hisoblashda xato"
+  },
+  "emptyPage": {
+    "message": "Bu sahifa bo'sh ko'rinadi"
+  },
+  "settingsTitle": {
+    "message": "Sozlamalar"
+  },
+  "appearance": {
+    "message": "Ko'rinish"
+  },
+  "darkMode": {
+    "message": "Qorong'i Rejim"
+  },
+  "showThemeToggle": {
+    "message": "Ochiladigan oynada mavzu o'tkazgichini ko'rsatish"
+  },
+  "language": {
+    "message": "Til"
+  },
+  "counting": {
+    "message": "Hisoblash Variantlari"
+  },
+  "selectiveCounter": {
+    "message": "Tanlov Hisoblagichi"
+  },
+  "selectiveCounterDesc": {
+    "message": "Matn tanlaganda so'zlar hisoblagichi ochiladigan oynasini ko'rsatish"
+  },
+  "includeLinks": {
+    "message": "Havolalarni Qo'shish"
+  },
+  "includeLinksDesc": {
+    "message": "URL manzillarini alohida so'zlar sifatida hisoblash"
+  },
+  "display": {
+    "message": "Ko'rsatish Variantlari"
+  },
+  "showAvgWordLength": {
+    "message": "O'rtacha so'z uzunligini ko'rsatish"
+  },
+  "showLongestWord": {
+    "message": "Eng uzun so'zni ko'rsatish"
+  },
+  "showReadingTime": {
+    "message": "O'qish vaqtini ko'rsatish"
+  },
+  "showSpeakingTime": {
+    "message": "Gapirish vaqtini ko'rsatish"
+  },
+  "showSentences": {
+    "message": "Gap sonini ko'rsatish"
+  },
+  "showParagraphs": {
+    "message": "Paragraf sonini ko'rsatish"
+  },
+  "readingSpeed": {
+    "message": "O'qish Tezligi (So'z/Daqiqa)"
+  },
+  "speakingSpeed": {
+    "message": "Gapirish Tezligi (So'z/Daqiqa)"
+  },
+  "saved": {
+    "message": "Sozlamalar saqlandi!"
+  },
+  "reset": {
+    "message": "Standartga qaytarish"
+  },
+  "minutes": {
+    "message": "daq"
+  },
+  "seconds": {
+    "message": "son"
+  },
+  "chars": {
+    "message": "belgi"
+  },
+  "selected": {
+    "message": "Tanlangan"
+  },
+  "uniqueWords": {
+    "message": "No'yob So'zlar"
+  },
+  "showUniqueWords": {
+    "message": "No'yob so'zlar sonini ko'rsatish"
+  },
+  "density": {
+    "message": "Matn Zichligi"
+  },
+  "showDensity": {
+    "message": "Matn zichligi ballini ko'rsatish"
+  },
+  "copyStats": {
+    "message": "Statistika Nusxa Olish"
+  },
+  "copied": {
+    "message": "Nusxa Olindi!"
+  },
+  "exportStats": {
+    "message": "Eksport"
+  },
+  "advancedStats": {
+    "message": "Kengaytirilgan Statistika"
+  },
+  "basicStats": {
+    "message": "Asosiy Statistika"
+  },
+  "wordFrequency": {
+    "message": "Eng Ko'p Ishlatiladigan So'zlar"
+  },
+  "showWordFrequency": {
+    "message": "So'zlar Chastotasi Diagrammasini Ko'rsatish"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Ochiladigan oynada eng ko'p ishlatiladigan so'zlarni ko'rsatish"
+  },
+  "frequencyWordCount": {
+    "message": "Diagrammadagi So'zlar Soni"
+  },
+  "noFrequencyData": {
+    "message": "So'zlar chastotasi ma'lumotlari mavjud emas"
+  },
+  "developedBy": {
+    "message": "Ishlab chiqaruvchi"
+  },
+  "version": {
+    "message": "Versiya"
+  }
+}

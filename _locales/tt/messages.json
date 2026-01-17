@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Тиз бит сүз санагычы"
+  },
+  "extensionDescription": {
+    "message": "Теге яки бу веб-биттә тиздән сүзләр, символлар һәм башкаларны санагыз."
+  },
+  "commandRecount": {
+    "message": "Бит сүзләрен яңадан санагыз"
+  },
+  "words": {
+    "message": "Сүзләр"
+  },
+  "characters": {
+    "message": "Символлар"
+  },
+  "charactersWithSpaces": {
+    "message": "Символлар (бушлыклар белән)"
+  },
+  "charactersNoSpaces": {
+    "message": "Символлар (бушлыкларсыз)"
+  },
+  "sentences": {
+    "message": "Җөмләләр"
+  },
+  "paragraphs": {
+    "message": "Параграфлар"
+  },
+  "avgWordLength": {
+    "message": "Уртача Сүз Озынлыгы"
+  },
+  "longestWord": {
+    "message": "Иң Озын Сүз"
+  },
+  "longestWordLength": {
+    "message": "Иң Озын Сүз Озынлыгы"
+  },
+  "readingTime": {
+    "message": "Уку Вакыты"
+  },
+  "speakingTime": {
+    "message": "Сөйләшү Вакыты"
+  },
+  "recount": {
+    "message": "Яңадан Санау"
+  },
+  "settings": {
+    "message": "Көйләүләр"
+  },
+  "loading": {
+    "message": "Санау..."
+  },
+  "noContent": {
+    "message": "Укыла торган эчтәлек табылмады"
+  },
+  "error": {
+    "message": "Эчтәлекне санауда хата"
+  },
+  "emptyPage": {
+    "message": "Бу бит буш күренә"
+  },
+  "settingsTitle": {
+    "message": "Көйләүләр"
+  },
+  "appearance": {
+    "message": "Күренеш"
+  },
+  "darkMode": {
+    "message": "Караңгы Режим"
+  },
+  "showThemeToggle": {
+    "message": "Ачылгыч тәрәзәдә тема күчкүчен күрсәтү"
+  },
+  "language": {
+    "message": "Тел"
+  },
+  "counting": {
+    "message": "Санау Көйләүләре"
+  },
+  "selectiveCounter": {
+    "message": "Сайлау Санагычы"
+  },
+  "selectiveCounterDesc": {
+    "message": "Текстны сайлаганда сүз санагыч ачылгыч тәрәзәсен күрсәтү"
+  },
+  "includeLinks": {
+    "message": "Сылтамаларны Кертеп"
+  },
+  "includeLinksDesc": {
+    "message": "URLларны аерым сүзләр итеп санау"
+  },
+  "display": {
+    "message": "Күрсәтү Көйләүләре"
+  },
+  "showAvgWordLength": {
+    "message": "Уртача сүз озынлыгын күрсәтү"
+  },
+  "showLongestWord": {
+    "message": "Иң озын сүзне күрсәтү"
+  },
+  "showReadingTime": {
+    "message": "Уку вакытын күрсәтү"
+  },
+  "showSpeakingTime": {
+    "message": "Сөйләшү вакытын күрсәтү"
+  },
+  "showSentences": {
+    "message": "Җөмләләр санын күрсәтү"
+  },
+  "showParagraphs": {
+    "message": "Параграфлар санын күрсәтү"
+  },
+  "readingSpeed": {
+    "message": "Уку Тизлеге (Сүз/Мин)"
+  },
+  "speakingSpeed": {
+    "message": "Сөйләшү Тизлеге (Сүз/Мин)"
+  },
+  "saved": {
+    "message": "Көйләүләр сакланды!"
+  },
+  "reset": {
+    "message": "Килешенүчәнлеккә кайтару"
+  },
+  "minutes": {
+    "message": "мин"
+  },
+  "seconds": {
+    "message": "сек"
+  },
+  "chars": {
+    "message": "символ"
+  },
+  "selected": {
+    "message": "Сайланган"
+  },
+  "uniqueWords": {
+    "message": "Бердәнбер Сүзләр"
+  },
+  "showUniqueWords": {
+    "message": "Бердәнбер сүзләр санын күрсәтү"
+  },
+  "density": {
+    "message": "Текст Тыгызлыгы"
+  },
+  "showDensity": {
+    "message": "Текст тыгызлыгы баллын күрсәтү"
+  },
+  "copyStats": {
+    "message": "Статистиканы Күчерү"
+  },
+  "copied": {
+    "message": "Күчерелде!"
+  },
+  "exportStats": {
+    "message": "Экспорт"
+  },
+  "advancedStats": {
+    "message": "Киңәйтелгән Статистика"
+  },
+  "basicStats": {
+    "message": "Төп Статистика"
+  },
+  "wordFrequency": {
+    "message": "Иң Еш Кулланылган Сүзләр"
+  },
+  "showWordFrequency": {
+    "message": "Сүзләр Ешлыгы Диаграммасын Күрсәтү"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Ачылгыч тәрәзәдә иң еш кулланылган сүзләрне күрсәтү"
+  },
+  "frequencyWordCount": {
+    "message": "Диаграммадагы Сүзләр Саны"
+  },
+  "noFrequencyData": {
+    "message": "Сүзләр ешлыгы мәгълүматы юк"
+  },
+  "developedBy": {
+    "message": "Эшләүче"
+  },
+  "version": {
+    "message": "Версия"
+  }
+}

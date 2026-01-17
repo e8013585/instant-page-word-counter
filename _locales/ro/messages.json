@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Contor de Cuvinte Instantaneu de Pagină"
+  },
+  "extensionDescription": {
+    "message": "Numără cuvinte, caractere și mai mult pe orice pagină web instantaneu."
+  },
+  "commandRecount": {
+    "message": "Re-numără cuvintele paginii"
+  },
+  "words": {
+    "message": "Cuvinte"
+  },
+  "characters": {
+    "message": "Caractere"
+  },
+  "charactersWithSpaces": {
+    "message": "Caractere (cu spații)"
+  },
+  "charactersNoSpaces": {
+    "message": "Caractere (fără spații)"
+  },
+  "sentences": {
+    "message": "Propoziții"
+  },
+  "paragraphs": {
+    "message": "Paragrafe"
+  },
+  "avgWordLength": {
+    "message": "Lung. Med. Cuvânt"
+  },
+  "longestWord": {
+    "message": "Cel Mai Lung Cuvânt"
+  },
+  "longestWordLength": {
+    "message": "Lungimea Celui Mai Lung Cuvânt"
+  },
+  "readingTime": {
+    "message": "Timp de Lectură"
+  },
+  "speakingTime": {
+    "message": "Timp de Vorbire"
+  },
+  "recount": {
+    "message": "Re-numără"
+  },
+  "settings": {
+    "message": "Setări"
+  },
+  "loading": {
+    "message": "Numără..."
+  },
+  "noContent": {
+    "message": "Nu s-a găsit conținut citibil"
+  },
+  "error": {
+    "message": "Eroare la numărarea conținutului"
+  },
+  "emptyPage": {
+    "message": "Această pagină pare a fi goală"
+  },
+  "settingsTitle": {
+    "message": "Setări"
+  },
+  "appearance": {
+    "message": "Aspect"
+  },
+  "darkMode": {
+    "message": "Mod Întunecat"
+  },
+  "showThemeToggle": {
+    "message": "Arată comutatorul de temă în fereastra popup"
+  },
+  "language": {
+    "message": "Limbă"
+  },
+  "counting": {
+    "message": "Opțiuni de Numărare"
+  },
+  "selectiveCounter": {
+    "message": "Contor de Selecție"
+  },
+  "selectiveCounterDesc": {
+    "message": "Arată fereastra popup de numărare cuvinte la selectarea textului"
+  },
+  "includeLinks": {
+    "message": "Include Legături"
+  },
+  "includeLinksDesc": {
+    "message": "Numără URL-uri ca cuvinte unice"
+  },
+  "display": {
+    "message": "Opțiuni de Afișare"
+  },
+  "showAvgWordLength": {
+    "message": "Arată lungimea medie a cuvântului"
+  },
+  "showLongestWord": {
+    "message": "Arată cel mai lung cuvânt"
+  },
+  "showReadingTime": {
+    "message": "Arată timpul de lectură"
+  },
+  "showSpeakingTime": {
+    "message": "Arată timpul de vorbire"
+  },
+  "showSentences": {
+    "message": "Arată numărul de propoziții"
+  },
+  "showParagraphs": {
+    "message": "Arată numărul de paragrafe"
+  },
+  "readingSpeed": {
+    "message": "Viteză de Lectură (CPM)"
+  },
+  "speakingSpeed": {
+    "message": "Viteză de Vorbire (CPM)"
+  },
+  "saved": {
+    "message": "Setări salvate!"
+  },
+  "reset": {
+    "message": "Resetează la Implicit"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sec"
+  },
+  "chars": {
+    "message": "caractere"
+  },
+  "selected": {
+    "message": "Selectat"
+  },
+  "uniqueWords": {
+    "message": "Cuvinte Unice"
+  },
+  "showUniqueWords": {
+    "message": "Arată numărul de cuvinte unice"
+  },
+  "density": {
+    "message": "Densitatea Textului"
+  },
+  "showDensity": {
+    "message": "Arată scorul de densitate a textului"
+  },
+  "copyStats": {
+    "message": "Copiază Statistici"
+  },
+  "copied": {
+    "message": "Copiat!"
+  },
+  "exportStats": {
+    "message": "Exportă"
+  },
+  "advancedStats": {
+    "message": "Statistici Avansate"
+  },
+  "basicStats": {
+    "message": "Statistici de Bază"
+  },
+  "wordFrequency": {
+    "message": "Cele Mai Frecvente Cuvinte"
+  },
+  "showWordFrequency": {
+    "message": "Arată Graficul de Frecvență a Cuvintelor"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Arată cele mai frecvente cuvinte în fereastra popup"
+  },
+  "frequencyWordCount": {
+    "message": "Numărul de Cuvinte din Grafic"
+  },
+  "noFrequencyData": {
+    "message": "Nu există date de frecvență a cuvintelor disponibile"
+  },
+  "developedBy": {
+    "message": "Dezvoltat de"
+  },
+  "version": {
+    "message": "Versiune"
+  }
+}

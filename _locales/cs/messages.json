@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Okamžitý Počítadlo Slov Stránky"
+  },
+  "extensionDescription": {
+    "message": "Počítejte slova, znaky a další na libovolné webové stránce okamžitě."
+  },
+  "commandRecount": {
+    "message": "Přepočítat slova stránky"
+  },
+  "words": {
+    "message": "Slova"
+  },
+  "characters": {
+    "message": "Znaky"
+  },
+  "charactersWithSpaces": {
+    "message": "Znaky (s mezerami)"
+  },
+  "charactersNoSpaces": {
+    "message": "Znaky (bez mezer)"
+  },
+  "sentences": {
+    "message": "Věty"
+  },
+  "paragraphs": {
+    "message": "Odstavce"
+  },
+  "avgWordLength": {
+    "message": "Prům. Délka Slova"
+  },
+  "longestWord": {
+    "message": "Nejdelší Slovo"
+  },
+  "longestWordLength": {
+    "message": "Délka Nejdelšího Slova"
+  },
+  "readingTime": {
+    "message": "Čas Čtení"
+  },
+  "speakingTime": {
+    "message": "Čas Mluvení"
+  },
+  "recount": {
+    "message": "Přepočítat"
+  },
+  "settings": {
+    "message": "Nastavení"
+  },
+  "loading": {
+    "message": "Počítám..."
+  },
+  "noContent": {
+    "message": "Nenalezen žádný čitelný obsah"
+  },
+  "error": {
+    "message": "Chyba při počítání obsahu"
+  },
+  "emptyPage": {
+    "message": "Tato stránka se zdá být prázdná"
+  },
+  "settingsTitle": {
+    "message": "Nastavení"
+  },
+  "appearance": {
+    "message": "Vzhled"
+  },
+  "darkMode": {
+    "message": "Tmavý Režim"
+  },
+  "showThemeToggle": {
+    "message": "Zobrazit přepínač motivu v popupu"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "counting": {
+    "message": "Možnosti Počítání"
+  },
+  "selectiveCounter": {
+    "message": "Počítadlo Výběru"
+  },
+  "selectiveCounterDesc": {
+    "message": "Zobrazit popup počítadla slov při výběru textu"
+  },
+  "includeLinks": {
+    "message": "Zahrnout Odkazy"
+  },
+  "includeLinksDesc": {
+    "message": "Počítat URL jako jednotlivá slova"
+  },
+  "display": {
+    "message": "Možnosti Zobrazení"
+  },
+  "showAvgWordLength": {
+    "message": "Zobrazit průměrnou délku slova"
+  },
+  "showLongestWord": {
+    "message": "Zobrazit nejdelší slovo"
+  },
+  "showReadingTime": {
+    "message": "Zobrazit čas čtení"
+  },
+  "showSpeakingTime": {
+    "message": "Zobrazit čas mluvení"
+  },
+  "showSentences": {
+    "message": "Zobrazit počet vět"
+  },
+  "showParagraphs": {
+    "message": "Zobrazit počet odstavců"
+  },
+  "readingSpeed": {
+    "message": "Rychlost Čtení (SPM)"
+  },
+  "speakingSpeed": {
+    "message": "Rychlost Mluvení (SPM)"
+  },
+  "saved": {
+    "message": "Nastavení uloženo!"
+  },
+  "reset": {
+    "message": "Obnovit Výchozí"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "znaků"
+  },
+  "selected": {
+    "message": "Vybrané"
+  },
+  "uniqueWords": {
+    "message": "Unikátní Slova"
+  },
+  "showUniqueWords": {
+    "message": "Zobrazit počet unikátních slov"
+  },
+  "density": {
+    "message": "Hustota Textu"
+  },
+  "showDensity": {
+    "message": "Zobrazit skóre hustoty textu"
+  },
+  "copyStats": {
+    "message": "Kopírovat Statistiky"
+  },
+  "copied": {
+    "message": "Zkopírováno!"
+  },
+  "exportStats": {
+    "message": "Exportovat"
+  },
+  "advancedStats": {
+    "message": "Pokročilé Statistiky"
+  },
+  "basicStats": {
+    "message": "Základní Statistiky"
+  },
+  "wordFrequency": {
+    "message": "Nejčastější Slova"
+  },
+  "showWordFrequency": {
+    "message": "Zobrazit Graf Četnosti Slov"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Zobrazit nejčastější slova v popupu"
+  },
+  "frequencyWordCount": {
+    "message": "Počet Slov v Grafu"
+  },
+  "noFrequencyData": {
+    "message": "Nejsou k dispozici data o četnosti slov"
+  },
+  "developedBy": {
+    "message": "Vyvinuto"
+  },
+  "version": {
+    "message": "Verze"
+  }
+}

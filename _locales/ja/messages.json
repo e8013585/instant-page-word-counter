@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "インスタントページ単語カウンター"
+  },
+  "extensionDescription": {
+    "message": "あらゆるウェブページで即座に単語数、文字数などをカウントします。"
+  },
+  "commandRecount": {
+    "message": "ページの単語を再集計"
+  },
+  "words": {
+    "message": "単語数"
+  },
+  "characters": {
+    "message": "文字数"
+  },
+  "charactersWithSpaces": {
+    "message": "文字数（スペース含む）"
+  },
+  "charactersNoSpaces": {
+    "message": "文字数（スペース除く）"
+  },
+  "sentences": {
+    "message": "文数"
+  },
+  "paragraphs": {
+    "message": "段落数"
+  },
+  "avgWordLength": {
+    "message": "平均単語長"
+  },
+  "longestWord": {
+    "message": "最長単語"
+  },
+  "longestWordLength": {
+    "message": "最長単語の長さ"
+  },
+  "readingTime": {
+    "message": "読了時間"
+  },
+  "speakingTime": {
+    "message": "話す時間"
+  },
+  "recount": {
+    "message": "再集計"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "loading": {
+    "message": "カウント中..."
+  },
+  "noContent": {
+    "message": "読み取り可能なコンテンツが見つかりません"
+  },
+  "error": {
+    "message": "コンテンツのカウント中にエラーが発生しました"
+  },
+  "emptyPage": {
+    "message": "このページは空のようです"
+  },
+  "settingsTitle": {
+    "message": "設定"
+  },
+  "appearance": {
+    "message": "外観"
+  },
+  "darkMode": {
+    "message": "ダークモード"
+  },
+  "showThemeToggle": {
+    "message": "ポップアップでテーマ切り替えを表示"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "counting": {
+    "message": "カウントオプション"
+  },
+  "selectiveCounter": {
+    "message": "選択カウンター"
+  },
+  "selectiveCounterDesc": {
+    "message": "テキスト選択時に単語カウントポップアップを表示"
+  },
+  "includeLinks": {
+    "message": "リンクを含む"
+  },
+  "includeLinksDesc": {
+    "message": "URLを単一の単語としてカウント"
+  },
+  "display": {
+    "message": "表示オプション"
+  },
+  "showAvgWordLength": {
+    "message": "平均単語長を表示"
+  },
+  "showLongestWord": {
+    "message": "最長単語を表示"
+  },
+  "showReadingTime": {
+    "message": "読了時間を表示"
+  },
+  "showSpeakingTime": {
+    "message": "話す時間を表示"
+  },
+  "showSentences": {
+    "message": "文数を表示"
+  },
+  "showParagraphs": {
+    "message": "段落数を表示"
+  },
+  "readingSpeed": {
+    "message": "読書速度（語/分）"
+  },
+  "speakingSpeed": {
+    "message": "話す速度（語/分）"
+  },
+  "saved": {
+    "message": "設定を保存しました！"
+  },
+  "reset": {
+    "message": "デフォルトに戻す"
+  },
+  "minutes": {
+    "message": "分"
+  },
+  "seconds": {
+    "message": "秒"
+  },
+  "chars": {
+    "message": "文字"
+  },
+  "selected": {
+    "message": "選択済み"
+  },
+  "uniqueWords": {
+    "message": "ユニーク単語"
+  },
+  "showUniqueWords": {
+    "message": "ユニーク単語数を表示"
+  },
+  "density": {
+    "message": "テキスト密度"
+  },
+  "showDensity": {
+    "message": "テキスト密度スコアを表示"
+  },
+  "copyStats": {
+    "message": "統計をコピー"
+  },
+  "copied": {
+    "message": "コピーしました！"
+  },
+  "exportStats": {
+    "message": "エクスポート"
+  },
+  "advancedStats": {
+    "message": "高度な統計"
+  },
+  "basicStats": {
+    "message": "基本統計"
+  },
+  "wordFrequency": {
+    "message": "頻出単語"
+  },
+  "showWordFrequency": {
+    "message": "単語頻度チャートを表示"
+  },
+  "showWordFrequencyDesc": {
+    "message": "ポップアップに頻出単語を表示"
+  },
+  "frequencyWordCount": {
+    "message": "チャートの単語数"
+  },
+  "noFrequencyData": {
+    "message": "単語頻度データは利用できません"
+  },
+  "developedBy": {
+    "message": "開発者"
+  },
+  "version": {
+    "message": "バージョン"
+  }
+}

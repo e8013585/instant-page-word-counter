@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "உடனடி பக்கம் சொல் எண்ணி"
+  },
+  "extensionDescription": {
+    "message": "எந்த வலைப்பக்கத்திலும் உடனடியாக சொற்கள், எழுத்துகள் மற்றும் பலவற்றை எண்ணுங்கள்."
+  },
+  "commandRecount": {
+    "message": "பக்க சொற்களை மீண்டும் எண்ணுங்கள்"
+  },
+  "words": {
+    "message": "சொற்கள்"
+  },
+  "characters": {
+    "message": "எழுத்துகள்"
+  },
+  "charactersWithSpaces": {
+    "message": "எழுத்துகள் (இடைவெளிகளுடன்)"
+  },
+  "charactersNoSpaces": {
+    "message": "எழுத்துகள் (இடைவெளி இல்லாமல்)"
+  },
+  "sentences": {
+    "message": "வாக்கியங்கள்"
+  },
+  "paragraphs": {
+    "message": "பத்திகள்"
+  },
+  "avgWordLength": {
+    "message": "சராசரி சொல் நீளம்"
+  },
+  "longestWord": {
+    "message": "நீளமான சொல்"
+  },
+  "longestWordLength": {
+    "message": "நீளமான சொல்லின் நீளம்"
+  },
+  "readingTime": {
+    "message": "வாசிக்கும் நேரம்"
+  },
+  "speakingTime": {
+    "message": "பேசும் நேரம்"
+  },
+  "recount": {
+    "message": "மீண்டும் எண்ணு"
+  },
+  "settings": {
+    "message": "அமைப்புகள்"
+  },
+  "loading": {
+    "message": "எண்ணுகிறது..."
+  },
+  "noContent": {
+    "message": "படிக்கக்கூடிய உள்ளடக்கம் கிடைக்கவில்லை"
+  },
+  "error": {
+    "message": "உள்ளடக்கத்தை எண்ணுவதில் பிழை"
+  },
+  "emptyPage": {
+    "message": "இந்தப் பக்கம் காலியாக உள்ளது"
+  },
+  "settingsTitle": {
+    "message": "அமைப்புகள்"
+  },
+  "appearance": {
+    "message": "தோற்றம்"
+  },
+  "darkMode": {
+    "message": "இருண்ட பயன்முறை"
+  },
+  "showThemeToggle": {
+    "message": "பாபப்பில் தீம் டோகிளைக் காட்டு"
+  },
+  "language": {
+    "message": "மொழி"
+  },
+  "counting": {
+    "message": "எண்ணும் விருப்பங்கள்"
+  },
+  "selectiveCounter": {
+    "message": "தேர்வு எண்ணி"
+  },
+  "selectiveCounterDesc": {
+    "message": "உரையைத் தேர்ந்தெடுக்கும்போது சொல் எண்ணிக்கை பாபப்பைக் காட்டு"
+  },
+  "includeLinks": {
+    "message": "இணைப்புகளைச் சேர்"
+  },
+  "includeLinksDesc": {
+    "message": "URLகளை தனிப்பட்ட சொற்களாக எண்ணுங்கள்"
+  },
+  "display": {
+    "message": "காட்சி விருப்பங்கள்"
+  },
+  "showAvgWordLength": {
+    "message": "சராசரி சொல் நீளத்தைக் காட்டு"
+  },
+  "showLongestWord": {
+    "message": "நீளமான சொல்லைக் காட்டு"
+  },
+  "showReadingTime": {
+    "message": "வாசிக்கும் நேரத்தைக் காட்டு"
+  },
+  "showSpeakingTime": {
+    "message": "பேசும் நேரத்தைக் காட்டு"
+  },
+  "showSentences": {
+    "message": "வாக்கியங்களின் எண்ணிக்கையைக் காட்டு"
+  },
+  "showParagraphs": {
+    "message": "பத்திகளின் எண்ணிக்கையைக் காட்டு"
+  },
+  "readingSpeed": {
+    "message": "வாசிக்கும் வேகம் (சொல்/நிமிடம்)"
+  },
+  "speakingSpeed": {
+    "message": "பேசும் வேகம் (சொல்/நிமிடம்)"
+  },
+  "saved": {
+    "message": "அமைப்புகள் சேமிக்கப்பட்டன!"
+  },
+  "reset": {
+    "message": "இயல்புநிலைக்கு மீட்டமை"
+  },
+  "minutes": {
+    "message": "நிமிடம்"
+  },
+  "seconds": {
+    "message": "விநாடி"
+  },
+  "chars": {
+    "message": "எழுத்துகள்"
+  },
+  "selected": {
+    "message": "தேர்ந்தெடுக்கப்பட்டது"
+  },
+  "uniqueWords": {
+    "message": "தனிப்பட்ட சொற்கள்"
+  },
+  "showUniqueWords": {
+    "message": "தனிப்பட்ட சொற்களின் எண்ணிக்கையைக் காட்டு"
+  },
+  "density": {
+    "message": "உரை அடர்த்தி"
+  },
+  "showDensity": {
+    "message": "உரை அடர்த்தி மதிப்பெண்ணைக் காட்டு"
+  },
+  "copyStats": {
+    "message": "புள்ளிவிவரங்களை நகலெடு"
+  },
+  "copied": {
+    "message": "நகலெடுக்கப்பட்டது!"
+  },
+  "exportStats": {
+    "message": "ஏற்றுமதி"
+  },
+  "advancedStats": {
+    "message": "மேம்பட்ட புள்ளிவிவரங்கள்"
+  },
+  "basicStats": {
+    "message": "அடிப்படை புள்ளிவிவரங்கள்"
+  },
+  "wordFrequency": {
+    "message": "மிகவும் பொதுவான சொற்கள்"
+  },
+  "showWordFrequency": {
+    "message": "சொல் அதிர்வெண் விளக்கப்படத்தைக் காட்டு"
+  },
+  "showWordFrequencyDesc": {
+    "message": "பாபப்பில் மிகவும் பொதுவான சொற்களைக் காட்டு"
+  },
+  "frequencyWordCount": {
+    "message": "விளக்கப்படத்தில் உள்ள சொற்களின் எண்ணிக்கை"
+  },
+  "noFrequencyData": {
+    "message": "சொல் அதிர்வெண் தரவு இல்லை"
+  },
+  "developedBy": {
+    "message": "மூலம் உருவாக்கப்பட்டது"
+  },
+  "version": {
+    "message": "பதிப்பு"
+  }
+}

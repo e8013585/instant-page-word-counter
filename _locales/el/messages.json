@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Μετρητής Λέξεων Σελίδας Άμεσα"
+  },
+  "extensionDescription": {
+    "message": "Μετρήστε λέξεις, χαρακτήρες και περισσότερα σε οποιαδήποτε ιστοσελίδα αμέσως."
+  },
+  "commandRecount": {
+    "message": "Επαναμέτρηση λέξεων σελίδας"
+  },
+  "words": {
+    "message": "Λέξεις"
+  },
+  "characters": {
+    "message": "Χαρακτήρες"
+  },
+  "charactersWithSpaces": {
+    "message": "Χαρακτήρες (με κενά)"
+  },
+  "charactersNoSpaces": {
+    "message": "Χαρακτήρες (χωρίς κενά)"
+  },
+  "sentences": {
+    "message": "Προτάσεις"
+  },
+  "paragraphs": {
+    "message": "Παράγραφοι"
+  },
+  "avgWordLength": {
+    "message": "Μέσ. Μήκος Λέξης"
+  },
+  "longestWord": {
+    "message": "Μεγαλύτερη Λέξη"
+  },
+  "longestWordLength": {
+    "message": "Μήκος Μεγαλύτερης Λέξης"
+  },
+  "readingTime": {
+    "message": "Χρόνος Ανάγνωσης"
+  },
+  "speakingTime": {
+    "message": "Χρόνος Ομιλίας"
+  },
+  "recount": {
+    "message": "Επαναμέτρηση"
+  },
+  "settings": {
+    "message": "Ρυθμίσεις"
+  },
+  "loading": {
+    "message": "Μετράω..."
+  },
+  "noContent": {
+    "message": "Δεν βρέθηκε αναγνώσιμο περιεχόμενο"
+  },
+  "error": {
+    "message": "Σφάλμα κατά την μέτρηση περιεχομένου"
+  },
+  "emptyPage": {
+    "message": "Αυτή η σελίδα φαίνεται κενή"
+  },
+  "settingsTitle": {
+    "message": "Ρυθμίσεις"
+  },
+  "appearance": {
+    "message": "Εμφάνιση"
+  },
+  "darkMode": {
+    "message": "Σκοτεινή Λειτουργία"
+  },
+  "showThemeToggle": {
+    "message": "Εμφάνιση εναλλαγής θέματος στο αναδυόμενο παράθυρο"
+  },
+  "language": {
+    "message": "Γλώσσα"
+  },
+  "counting": {
+    "message": "Επιλογές Μέτρησης"
+  },
+  "selectiveCounter": {
+    "message": "Μετρητής Επιλογής"
+  },
+  "selectiveCounterDesc": {
+    "message": "Εμφάνιση αναδυόμενου παραθύρου μετρητή λέξεων κατά την επιλογή κειμένου"
+  },
+  "includeLinks": {
+    "message": "Συμπερίληψη Συνδέσμων"
+  },
+  "includeLinksDesc": {
+    "message": "Μέτρηση URL ως μεμονωμένες λέξεις"
+  },
+  "display": {
+    "message": "Επιλογές Εμφάνισης"
+  },
+  "showAvgWordLength": {
+    "message": "Εμφάνιση μέσου μήκους λέξης"
+  },
+  "showLongestWord": {
+    "message": "Εμφάνιση μεγαλύτερης λέξης"
+  },
+  "showReadingTime": {
+    "message": "Εμφάνιση χρόνου ανάγνωσης"
+  },
+  "showSpeakingTime": {
+    "message": "Εμφάνιση χρόνου ομιλίας"
+  },
+  "showSentences": {
+    "message": "Εμφάνιση αριθμού προτάσεων"
+  },
+  "showParagraphs": {
+    "message": "Εμφάνιση αριθμού παραγράφων"
+  },
+  "readingSpeed": {
+    "message": "Ταχύτητα Ανάγνωσης (ΛΑΛ)"
+  },
+  "speakingSpeed": {
+    "message": "Ταχύτητα Ομιλίας (ΛΑΛ)"
+  },
+  "saved": {
+    "message": "Οι ρυθμίσεις αποθηκεύτηκαν!"
+  },
+  "reset": {
+    "message": "Επαναφορά στις Προεπιλογές"
+  },
+  "minutes": {
+    "message": "λεπ"
+  },
+  "seconds": {
+    "message": "δευτ"
+  },
+  "chars": {
+    "message": "χαρακτ"
+  },
+  "selected": {
+    "message": "Επιλεγμένο"
+  },
+  "uniqueWords": {
+    "message": "Μοναδικές Λέξεις"
+  },
+  "showUniqueWords": {
+    "message": "Εμφάνιση αριθμού μοναδικών λέξεων"
+  },
+  "density": {
+    "message": "Πυκνότητα Κειμένου"
+  },
+  "showDensity": {
+    "message": "Εμφάνιση βαθμολογίας πυκνότητας κειμένου"
+  },
+  "copyStats": {
+    "message": "Αντιγραφή Στατιστικών"
+  },
+  "copied": {
+    "message": "Αντιγράφηκε!"
+  },
+  "exportStats": {
+    "message": "Εξαγωγή"
+  },
+  "advancedStats": {
+    "message": "Προχωρημένα Στατιστικά"
+  },
+  "basicStats": {
+    "message": "Βασικά Στατιστικά"
+  },
+  "wordFrequency": {
+    "message": "Συχνότερες Λέξεις"
+  },
+  "showWordFrequency": {
+    "message": "Εμφάνιση Διαγράμματος Συχνότητας Λέξεων"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Εμφάνιση συχνότερων λέξεων στο αναδυόμενο παράθυρο"
+  },
+  "frequencyWordCount": {
+    "message": "Αριθμός Λέξεων στο Διάγραμμα"
+  },
+  "noFrequencyData": {
+    "message": "Δεν υπάρχουν δεδομένα συχνότητας λέξεων"
+  },
+  "developedBy": {
+    "message": "Αναπτύχθηκε από"
+  },
+  "version": {
+    "message": "Έκδοση"
+  }
+}

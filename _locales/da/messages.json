@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Instant Side Ordoptælling"
+  },
+  "extensionDescription": {
+    "message": "Tæl ord, tegn og mere på enhver webside med det samme."
+  },
+  "commandRecount": {
+    "message": "Optæl sideord igen"
+  },
+  "words": {
+    "message": "Ord"
+  },
+  "characters": {
+    "message": "Tegn"
+  },
+  "charactersWithSpaces": {
+    "message": "Tegn (med mellemrum)"
+  },
+  "charactersNoSpaces": {
+    "message": "Tegn (uden mellemrum)"
+  },
+  "sentences": {
+    "message": "Sætninger"
+  },
+  "paragraphs": {
+    "message": "Afsnit"
+  },
+  "avgWordLength": {
+    "message": "Gns. Ord Længde"
+  },
+  "longestWord": {
+    "message": "Længste Ord"
+  },
+  "longestWordLength": {
+    "message": "Længste Ords Længde"
+  },
+  "readingTime": {
+    "message": "Læsetid"
+  },
+  "speakingTime": {
+    "message": "Taletid"
+  },
+  "recount": {
+    "message": "Optæl Igen"
+  },
+  "settings": {
+    "message": "Indstillinger"
+  },
+  "loading": {
+    "message": "Tæller..."
+  },
+  "noContent": {
+    "message": "Ingen læsbar indhold fundet"
+  },
+  "error": {
+    "message": "Fejl ved tælling af indhold"
+  },
+  "emptyPage": {
+    "message": "Denne side ser ud til at være tom"
+  },
+  "settingsTitle": {
+    "message": "Indstillinger"
+  },
+  "appearance": {
+    "message": "Udseende"
+  },
+  "darkMode": {
+    "message": "Mørk Tilstand"
+  },
+  "showThemeToggle": {
+    "message": "Vis tema skifter i popup"
+  },
+  "language": {
+    "message": "Sprog"
+  },
+  "counting": {
+    "message": "Tælleindstillinger"
+  },
+  "selectiveCounter": {
+    "message": "Valgtæller"
+  },
+  "selectiveCounterDesc": {
+    "message": "Vis ordoptællings popup ved valg af tekst"
+  },
+  "includeLinks": {
+    "message": "Inkluder Links"
+  },
+  "includeLinksDesc": {
+    "message": "Tæl URL'er som enkelte ord"
+  },
+  "display": {
+    "message": "Visningsindstillinger"
+  },
+  "showAvgWordLength": {
+    "message": "Vis gennemsnitlig ordlængde"
+  },
+  "showLongestWord": {
+    "message": "Vis længste ord"
+  },
+  "showReadingTime": {
+    "message": "Vis læsetid"
+  },
+  "showSpeakingTime": {
+    "message": "Vis taletid"
+  },
+  "showSentences": {
+    "message": "Vis antal sætninger"
+  },
+  "showParagraphs": {
+    "message": "Vis antal afsnit"
+  },
+  "readingSpeed": {
+    "message": "Læsehastighed (OPM)"
+  },
+  "speakingSpeed": {
+    "message": "Talehastighed (OPM)"
+  },
+  "saved": {
+    "message": "Indstillinger gemt!"
+  },
+  "reset": {
+    "message": "Nulstil til Standard"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "tegn"
+  },
+  "selected": {
+    "message": "Valgt"
+  },
+  "uniqueWords": {
+    "message": "Unikke Ord"
+  },
+  "showUniqueWords": {
+    "message": "Vis antal unikke ord"
+  },
+  "density": {
+    "message": "Teksttæthed"
+  },
+  "showDensity": {
+    "message": "Vis teksttæthedsscore"
+  },
+  "copyStats": {
+    "message": "Kopier Statistikker"
+  },
+  "copied": {
+    "message": "Kopieret!"
+  },
+  "exportStats": {
+    "message": "Eksportér"
+  },
+  "advancedStats": {
+    "message": "Avancerede Statistikker"
+  },
+  "basicStats": {
+    "message": "Grundlæggende Statistikker"
+  },
+  "wordFrequency": {
+    "message": "Mest Hyppige Ord"
+  },
+  "showWordFrequency": {
+    "message": "Vis Ordhyppighedsdiagram"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Vis mest hyppige ord i popup"
+  },
+  "frequencyWordCount": {
+    "message": "Antal Ord i Diagram"
+  },
+  "noFrequencyData": {
+    "message": "Ingen ordhyppighedsdata tilgængelige"
+  },
+  "developedBy": {
+    "message": "Udviklet af"
+  },
+  "version": {
+    "message": "Version"
+  }
+}

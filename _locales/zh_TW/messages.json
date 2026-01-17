@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "即時頁面字數統計"
+  },
+  "extensionDescription": {
+    "message": "在任何網頁上即時統計字數、字元數等。"
+  },
+  "commandRecount": {
+    "message": "重新統計頁面字數"
+  },
+  "words": {
+    "message": "字數"
+  },
+  "characters": {
+    "message": "字元數"
+  },
+  "charactersWithSpaces": {
+    "message": "字元數（包含空格）"
+  },
+  "charactersNoSpaces": {
+    "message": "字元數（不含空格）"
+  },
+  "sentences": {
+    "message": "句子數"
+  },
+  "paragraphs": {
+    "message": "段落數"
+  },
+  "avgWordLength": {
+    "message": "平均詞長"
+  },
+  "longestWord": {
+    "message": "最長單詞"
+  },
+  "longestWordLength": {
+    "message": "最長單詞長度"
+  },
+  "readingTime": {
+    "message": "閱讀時間"
+  },
+  "speakingTime": {
+    "message": "朗讀時間"
+  },
+  "recount": {
+    "message": "重新統計"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "loading": {
+    "message": "統計中..."
+  },
+  "noContent": {
+    "message": "未找到可讀內容"
+  },
+  "error": {
+    "message": "統計內容時出錯"
+  },
+  "emptyPage": {
+    "message": "此頁面似乎為空"
+  },
+  "settingsTitle": {
+    "message": "設定"
+  },
+  "appearance": {
+    "message": "外觀"
+  },
+  "darkMode": {
+    "message": "深色模式"
+  },
+  "showThemeToggle": {
+    "message": "在彈出視窗中顯示主題切換"
+  },
+  "language": {
+    "message": "語言"
+  },
+  "counting": {
+    "message": "統計選項"
+  },
+  "selectiveCounter": {
+    "message": "選擇統計器"
+  },
+  "selectiveCounterDesc": {
+    "message": "選擇文字時顯示字數統計彈出視窗"
+  },
+  "includeLinks": {
+    "message": "包含連結"
+  },
+  "includeLinksDesc": {
+    "message": "將URL計為單個單詞"
+  },
+  "display": {
+    "message": "顯示選項"
+  },
+  "showAvgWordLength": {
+    "message": "顯示平均詞長"
+  },
+  "showLongestWord": {
+    "message": "顯示最長單詞"
+  },
+  "showReadingTime": {
+    "message": "顯示閱讀時間"
+  },
+  "showSpeakingTime": {
+    "message": "顯示朗讀時間"
+  },
+  "showSentences": {
+    "message": "顯示句子數"
+  },
+  "showParagraphs": {
+    "message": "顯示段落數"
+  },
+  "readingSpeed": {
+    "message": "閱讀速度（字/分鐘）"
+  },
+  "speakingSpeed": {
+    "message": "朗讀速度（字/分鐘）"
+  },
+  "saved": {
+    "message": "設定已儲存！"
+  },
+  "reset": {
+    "message": "重設為預設值"
+  },
+  "minutes": {
+    "message": "分"
+  },
+  "seconds": {
+    "message": "秒"
+  },
+  "chars": {
+    "message": "字元"
+  },
+  "selected": {
+    "message": "已選擇"
+  },
+  "uniqueWords": {
+    "message": "唯一單詞"
+  },
+  "showUniqueWords": {
+    "message": "顯示唯一單詞數"
+  },
+  "density": {
+    "message": "文字密度"
+  },
+  "showDensity": {
+    "message": "顯示文字密度分數"
+  },
+  "copyStats": {
+    "message": "複製統計資訊"
+  },
+  "copied": {
+    "message": "已複製！"
+  },
+  "exportStats": {
+    "message": "匯出"
+  },
+  "advancedStats": {
+    "message": "進階統計"
+  },
+  "basicStats": {
+    "message": "基本統計"
+  },
+  "wordFrequency": {
+    "message": "最常用單詞"
+  },
+  "showWordFrequency": {
+    "message": "顯示詞頻圖表"
+  },
+  "showWordFrequencyDesc": {
+    "message": "在彈出視窗中顯示最常用單詞"
+  },
+  "frequencyWordCount": {
+    "message": "圖表中的單詞數"
+  },
+  "noFrequencyData": {
+    "message": "無詞頻資料"
+  },
+  "developedBy": {
+    "message": "開發人員"
+  },
+  "version": {
+    "message": "版本"
+  }
+}

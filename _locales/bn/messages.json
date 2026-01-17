@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "তাত্ক্ষণিক পৃষ্ঠা শব্দ গণক"
+  },
+  "extensionDescription": {
+    "message": "যেকোনো ওয়েব পৃষ্ঠায় তাৎক্ষণিকভাবে শব্দ, অক্ষর এবং আরও গণনা করুন।"
+  },
+  "commandRecount": {
+    "message": "পৃষ্ঠার শব্দ পুনরায় গণনা করুন"
+  },
+  "words": {
+    "message": "শব্দ"
+  },
+  "characters": {
+    "message": "অক্ষর"
+  },
+  "charactersWithSpaces": {
+    "message": "অক্ষর (স্পেস সহ)"
+  },
+  "charactersNoSpaces": {
+    "message": "অক্ষর (স্পেস ছাড়া)"
+  },
+  "sentences": {
+    "message": "বাক্য"
+  },
+  "paragraphs": {
+    "message": "অনুচ্ছেদ"
+  },
+  "avgWordLength": {
+    "message": "গড় শব্দ দৈর্ঘ্য"
+  },
+  "longestWord": {
+    "message": "দীর্ঘতম শব্দ"
+  },
+  "longestWordLength": {
+    "message": "দীর্ঘতম শব্দের দৈর্ঘ্য"
+  },
+  "readingTime": {
+    "message": "পড়ার সময়"
+  },
+  "speakingTime": {
+    "message": "কথার সময়"
+  },
+  "recount": {
+    "message": "পুনরায় গণনা"
+  },
+  "settings": {
+    "message": "সেটিংস"
+  },
+  "loading": {
+    "message": "গণনা করা হচ্ছে..."
+  },
+  "noContent": {
+    "message": "পাঠযোগ্য বিষয়বস্তু পাওয়া যায়নি"
+  },
+  "error": {
+    "message": "বিষয়বস্তু গণনায় ত্রুটি"
+  },
+  "emptyPage": {
+    "message": "এই পৃষ্ঠাটি খালি বলে মনে হচ্ছে"
+  },
+  "settingsTitle": {
+    "message": "সেটিংস"
+  },
+  "appearance": {
+    "message": "দেখতে"
+  },
+  "darkMode": {
+    "message": "ডার্ক মোড"
+  },
+  "showThemeToggle": {
+    "message": "পপআপে থিম টগল দেখান"
+  },
+  "language": {
+    "message": "ভাষা"
+  },
+  "counting": {
+    "message": "গণনা বিকল্প"
+  },
+  "selectiveCounter": {
+    "message": "নির্বাচন গণক"
+  },
+  "selectiveCounterDesc": {
+    "message": "টেক্সট নির্বাচন করার সময় শব্দ গণনা পপআপ দেখান"
+  },
+  "includeLinks": {
+    "message": "লিংক অন্তর্ভুক্ত করুন"
+  },
+  "includeLinksDesc": {
+    "message": "URL একক শব্দ হিসাবে গণনা করুন"
+  },
+  "display": {
+    "message": "প্রদর্শন বিকল্প"
+  },
+  "showAvgWordLength": {
+    "message": "গড় শব্দ দৈর্ঘ্য দেখান"
+  },
+  "showLongestWord": {
+    "message": "দীর্ঘতম শব্দ দেখান"
+  },
+  "showReadingTime": {
+    "message": "পড়ার সময় দেখান"
+  },
+  "showSpeakingTime": {
+    "message": "কথার সময় দেখান"
+  },
+  "showSentences": {
+    "message": "বাক্যের সংখ্যা দেখান"
+  },
+  "showParagraphs": {
+    "message": "অনুচ্ছেদের সংখ্যা দেখান"
+  },
+  "readingSpeed": {
+    "message": "পড়ার গতি (প্রতি মিনিটে শব্দ)"
+  },
+  "speakingSpeed": {
+    "message": "কথার গতি (প্রতি মিনিটে শব্দ)"
+  },
+  "saved": {
+    "message": "সেটিংস সংরক্ষিত!"
+  },
+  "reset": {
+    "message": "ডিফল্টে রিসেট করুন"
+  },
+  "minutes": {
+    "message": "মিনিট"
+  },
+  "seconds": {
+    "message": "সেকেন্ড"
+  },
+  "chars": {
+    "message": "অক্ষর"
+  },
+  "selected": {
+    "message": "নির্বাচিত"
+  },
+  "uniqueWords": {
+    "message": "স্বতন্ত্র শব্দ"
+  },
+  "showUniqueWords": {
+    "message": "স্বতন্ত্র শব্দের সংখ্যা দেখান"
+  },
+  "density": {
+    "message": "পাঠ্য ঘনত্ব"
+  },
+  "showDensity": {
+    "message": "পাঠ্য ঘনত্ব স্কোর দেখান"
+  },
+  "copyStats": {
+    "message": "পরিসংখ্যান কপি করুন"
+  },
+  "copied": {
+    "message": "কপি করা হয়েছে!"
+  },
+  "exportStats": {
+    "message": "এক্সপোর্ট"
+  },
+  "advancedStats": {
+    "message": "উন্নত পরিসংখ্যান"
+  },
+  "basicStats": {
+    "message": "মৌলিক পরিসংখ্যান"
+  },
+  "wordFrequency": {
+    "message": "সবচেয়ে সাধারণ শব্দ"
+  },
+  "showWordFrequency": {
+    "message": "শব্দ ফ্রিকোয়েন্সি চার্ট দেখান"
+  },
+  "showWordFrequencyDesc": {
+    "message": "পপআপে সবচেয়ে সাধারণ শব্দ দেখান"
+  },
+  "frequencyWordCount": {
+    "message": "চার্টে শব্দের সংখ্যা"
+  },
+  "noFrequencyData": {
+    "message": "কোনো শব্দ ফ্রিকোয়েন্সি ডেটা উপলব্ধ নেই"
+  },
+  "developedBy": {
+    "message": "দ্বারা বিকশিত"
+  },
+  "version": {
+    "message": "সংস্করণ"
+  }
+}

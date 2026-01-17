@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "מונה מידי למילים בדף"
+  },
+  "extensionDescription": {
+    "message": "ספור מילים, תווים ועוד בכל דף אינטרנט באופן מיידי."
+  },
+  "commandRecount": {
+    "message": "ספור מחדש את המילים בדף"
+  },
+  "words": {
+    "message": "מילים"
+  },
+  "characters": {
+    "message": "תווים"
+  },
+  "charactersWithSpaces": {
+    "message": "תווים (עם רווחים)"
+  },
+  "charactersNoSpaces": {
+    "message": "תווים (ללא רווחים)"
+  },
+  "sentences": {
+    "message": "משפטים"
+  },
+  "paragraphs": {
+    "message": "פסקאות"
+  },
+  "avgWordLength": {
+    "message": "ממוצע אורך מילה"
+  },
+  "longestWord": {
+    "message": "המילה הארוכה ביותר"
+  },
+  "longestWordLength": {
+    "message": "אורך המילה הארוכה ביותר"
+  },
+  "readingTime": {
+    "message": "זמן קריאה"
+  },
+  "speakingTime": {
+    "message": "זמן דיבור"
+  },
+  "recount": {
+    "message": "ספור מחדש"
+  },
+  "settings": {
+    "message": "הגדרות"
+  },
+  "loading": {
+    "message": "סופר..."
+  },
+  "noContent": {
+    "message": "לא נמצא תוכן קריא"
+  },
+  "error": {
+    "message": "שגיאה בספירת התוכן"
+  },
+  "emptyPage": {
+    "message": "דף זה נראה ריק"
+  },
+  "settingsTitle": {
+    "message": "הגדרות"
+  },
+  "appearance": {
+    "message": "מראה"
+  },
+  "darkMode": {
+    "message": "מצב כהה"
+  },
+  "showThemeToggle": {
+    "message": "הצג מתג נושא בחלון הקופץ"
+  },
+  "language": {
+    "message": "שפה"
+  },
+  "counting": {
+    "message": "אפשרויות ספירה"
+  },
+  "selectiveCounter": {
+    "message": "מונה בחירה"
+  },
+  "selectiveCounterDesc": {
+    "message": "הצג חלון קופץ של ספירת מילים בעת בחירת טקסט"
+  },
+  "includeLinks": {
+    "message": "כלול קישורים"
+  },
+  "includeLinksDesc": {
+    "message": "ספור כתובות URL כמילים בודדות"
+  },
+  "display": {
+    "message": "אפשרויות תצוגה"
+  },
+  "showAvgWordLength": {
+    "message": "הצג ממוצע אורך מילה"
+  },
+  "showLongestWord": {
+    "message": "הצג את המילה הארוכה ביותר"
+  },
+  "showReadingTime": {
+    "message": "הצג זמן קריאה"
+  },
+  "showSpeakingTime": {
+    "message": "הצג זמן דיבור"
+  },
+  "showSentences": {
+    "message": "הצג מספר משפטים"
+  },
+  "showParagraphs": {
+    "message": "הצג מספר פסקאות"
+  },
+  "readingSpeed": {
+    "message": "מהירות קריאה (מילים בדקה)"
+  },
+  "speakingSpeed": {
+    "message": "מהירות דיבור (מילים בדקה)"
+  },
+  "saved": {
+    "message": "ההגדרות נשמרו!"
+  },
+  "reset": {
+    "message": "אפס לברירת מחדל"
+  },
+  "minutes": {
+    "message": "דקות"
+  },
+  "seconds": {
+    "message": "שניות"
+  },
+  "chars": {
+    "message": "תווים"
+  },
+  "selected": {
+    "message": "נבחר"
+  },
+  "uniqueWords": {
+    "message": "מילים ייחודיות"
+  },
+  "showUniqueWords": {
+    "message": "הצג מספר מילים ייחודיות"
+  },
+  "density": {
+    "message": "צפיפות טקסט"
+  },
+  "showDensity": {
+    "message": "הצג ציון צפיפות טקסט"
+  },
+  "copyStats": {
+    "message": "העתק סטטיסטיקות"
+  },
+  "copied": {
+    "message": "הועתק!"
+  },
+  "exportStats": {
+    "message": "ייצא"
+  },
+  "advancedStats": {
+    "message": "סטטיסטיקות מתקדמות"
+  },
+  "basicStats": {
+    "message": "סטטיסטיקות בסיסיות"
+  },
+  "wordFrequency": {
+    "message": "המילים הנפוצות ביותר"
+  },
+  "showWordFrequency": {
+    "message": "הצג תרשים תדירות מילים"
+  },
+  "showWordFrequencyDesc": {
+    "message": "הצג את המילים הנפוצות ביותר בחלון הקופץ"
+  },
+  "frequencyWordCount": {
+    "message": "מספר מילים בתרשים"
+  },
+  "noFrequencyData": {
+    "message": "אין נתוני תדירות מילים זמינים"
+  },
+  "developedBy": {
+    "message": "פותח על ידי"
+  },
+  "version": {
+    "message": "גרסה"
+  }
+}

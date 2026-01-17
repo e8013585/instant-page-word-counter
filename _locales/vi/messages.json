@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Bộ Đếm Từ Trang Tức Thì"
+  },
+  "extensionDescription": {
+    "message": "Đếm từ, ký tự và nhiều hơn nữa trên bất kỳ trang web nào ngay lập tức."
+  },
+  "commandRecount": {
+    "message": "Đếm lại từ trên trang"
+  },
+  "words": {
+    "message": "Từ"
+  },
+  "characters": {
+    "message": "Ký tự"
+  },
+  "charactersWithSpaces": {
+    "message": "Ký tự (có dấu cách)"
+  },
+  "charactersNoSpaces": {
+    "message": "Ký tự (không dấu cách)"
+  },
+  "sentences": {
+    "message": "Câu"
+  },
+  "paragraphs": {
+    "message": "Đoạn văn"
+  },
+  "avgWordLength": {
+    "message": "Độ Dài Từ TB"
+  },
+  "longestWord": {
+    "message": "Từ Dài Nhất"
+  },
+  "longestWordLength": {
+    "message": "Độ Dài Từ Dài Nhất"
+  },
+  "readingTime": {
+    "message": "Thời Gian Đọc"
+  },
+  "speakingTime": {
+    "message": "Thời Gian Nói"
+  },
+  "recount": {
+    "message": "Đếm Lại"
+  },
+  "settings": {
+    "message": "Cài đặt"
+  },
+  "loading": {
+    "message": "Đang đếm..."
+  },
+  "noContent": {
+    "message": "Không tìm thấy nội dung có thể đọc"
+  },
+  "error": {
+    "message": "Lỗi khi đếm nội dung"
+  },
+  "emptyPage": {
+    "message": "Trang này dường như trống"
+  },
+  "settingsTitle": {
+    "message": "Cài đặt"
+  },
+  "appearance": {
+    "message": "Giao diện"
+  },
+  "darkMode": {
+    "message": "Chế độ Tối"
+  },
+  "showThemeToggle": {
+    "message": "Hiển thị nút chuyển chủ đề trong popup"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "counting": {
+    "message": "Tùy chọn Đếm"
+  },
+  "selectiveCounter": {
+    "message": "Bộ đếm Vùng chọn"
+  },
+  "selectiveCounterDesc": {
+    "message": "Hiển thị popup đếm từ khi chọn văn bản"
+  },
+  "includeLinks": {
+    "message": "Bao gồm Liên kết"
+  },
+  "includeLinksDesc": {
+    "message": "Đếm URL như một từ đơn"
+  },
+  "display": {
+    "message": "Tùy chọn Hiển thị"
+  },
+  "showAvgWordLength": {
+    "message": "Hiển thị độ dài từ trung bình"
+  },
+  "showLongestWord": {
+    "message": "Hiển thị từ dài nhất"
+  },
+  "showReadingTime": {
+    "message": "Hiển thị thời gian đọc"
+  },
+  "showSpeakingTime": {
+    "message": "Hiển thị thời gian nói"
+  },
+  "showSentences": {
+    "message": "Hiển thị số câu"
+  },
+  "showParagraphs": {
+    "message": "Hiển thị số đoạn văn"
+  },
+  "readingSpeed": {
+    "message": "Tốc độ Đọc (WPM)"
+  },
+  "speakingSpeed": {
+    "message": "Tốc độ Nói (WPM)"
+  },
+  "saved": {
+    "message": "Đã lưu cài đặt!"
+  },
+  "reset": {
+    "message": "Đặt lại về Mặc định"
+  },
+  "minutes": {
+    "message": "phút"
+  },
+  "seconds": {
+    "message": "giây"
+  },
+  "chars": {
+    "message": "ký tự"
+  },
+  "selected": {
+    "message": "Đã chọn"
+  },
+  "uniqueWords": {
+    "message": "Từ Duy Nhất"
+  },
+  "showUniqueWords": {
+    "message": "Hiển thị số từ duy nhất"
+  },
+  "density": {
+    "message": "Mật độ Văn bản"
+  },
+  "showDensity": {
+    "message": "Hiển thị điểm mật độ văn bản"
+  },
+  "copyStats": {
+    "message": "Sao chép Thống kê"
+  },
+  "copied": {
+    "message": "Đã sao chép!"
+  },
+  "exportStats": {
+    "message": "Xuất"
+  },
+  "advancedStats": {
+    "message": "Thống kê Nâng cao"
+  },
+  "basicStats": {
+    "message": "Thống kê Cơ bản"
+  },
+  "wordFrequency": {
+    "message": "Từ Xuất hiện Nhiều Nhất"
+  },
+  "showWordFrequency": {
+    "message": "Hiển thị Biểu đồ Tần suất Từ"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Hiển thị từ xuất hiện nhiều nhất trong popup"
+  },
+  "frequencyWordCount": {
+    "message": "Số Từ trong Biểu đồ"
+  },
+  "noFrequencyData": {
+    "message": "Không có dữ liệu tần suất từ"
+  },
+  "developedBy": {
+    "message": "Phát triển bởi"
+  },
+  "version": {
+    "message": "Phiên bản"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Миттєвий Лічильник Слів Сторінки"
+  },
+  "extensionDescription": {
+    "message": "Рахуйте слова, символи та більше на будь-якій веб-сторінці миттєво."
+  },
+  "commandRecount": {
+    "message": "Перерахувати слова сторінки"
+  },
+  "words": {
+    "message": "Слова"
+  },
+  "characters": {
+    "message": "Символи"
+  },
+  "charactersWithSpaces": {
+    "message": "Символи (з пробілами)"
+  },
+  "charactersNoSpaces": {
+    "message": "Символи (без пробілів)"
+  },
+  "sentences": {
+    "message": "Речення"
+  },
+  "paragraphs": {
+    "message": "Абзаци"
+  },
+  "avgWordLength": {
+    "message": "Сер. Довж. Слова"
+  },
+  "longestWord": {
+    "message": "Найдовше Слово"
+  },
+  "longestWordLength": {
+    "message": "Довжина Найдовшого Слова"
+  },
+  "readingTime": {
+    "message": "Час Читання"
+  },
+  "speakingTime": {
+    "message": "Час Мовлення"
+  },
+  "recount": {
+    "message": "Перерахувати"
+  },
+  "settings": {
+    "message": "Налаштування"
+  },
+  "loading": {
+    "message": "Рахую..."
+  },
+  "noContent": {
+    "message": "Читаного вмісту не знайдено"
+  },
+  "error": {
+    "message": "Помилка під час підрахунку вмісту"
+  },
+  "emptyPage": {
+    "message": "Ця сторінка здається порожньою"
+  },
+  "settingsTitle": {
+    "message": "Налаштування"
+  },
+  "appearance": {
+    "message": "Зовнішній Вигляд"
+  },
+  "darkMode": {
+    "message": "Темний Режим"
+  },
+  "showThemeToggle": {
+    "message": "Показувати перемикач теми у спливаючому вікні"
+  },
+  "language": {
+    "message": "Мова"
+  },
+  "counting": {
+    "message": "Опції Підрахунку"
+  },
+  "selectiveCounter": {
+    "message": "Лічильник Вибору"
+  },
+  "selectiveCounterDesc": {
+    "message": "Показувати спливаюче вікно лічильника слів при виборі тексту"
+  },
+  "includeLinks": {
+    "message": "Включити Посилання"
+  },
+  "includeLinksDesc": {
+    "message": "Рахувати URL як окремі слова"
+  },
+  "display": {
+    "message": "Опції Відображення"
+  },
+  "showAvgWordLength": {
+    "message": "Показувати середню довжину слова"
+  },
+  "showLongestWord": {
+    "message": "Показувати найдовше слово"
+  },
+  "showReadingTime": {
+    "message": "Показувати час читання"
+  },
+  "showSpeakingTime": {
+    "message": "Показувати час мовлення"
+  },
+  "showSentences": {
+    "message": "Показувати кількість речень"
+  },
+  "showParagraphs": {
+    "message": "Показувати кількість абзаців"
+  },
+  "readingSpeed": {
+    "message": "Швидкість Читання (СХВ)"
+  },
+  "speakingSpeed": {
+    "message": "Швидкість Мовлення (СХВ)"
+  },
+  "saved": {
+    "message": "Налаштування збережено!"
+  },
+  "reset": {
+    "message": "Скинути до Типового"
+  },
+  "minutes": {
+    "message": "хв"
+  },
+  "seconds": {
+    "message": "сек"
+  },
+  "chars": {
+    "message": "символів"
+  },
+  "selected": {
+    "message": "Вибрано"
+  },
+  "uniqueWords": {
+    "message": "Унікальні Слова"
+  },
+  "showUniqueWords": {
+    "message": "Показувати кількість унікальних слів"
+  },
+  "density": {
+    "message": "Щільність Тексту"
+  },
+  "showDensity": {
+    "message": "Показувати оцінку щільності тексту"
+  },
+  "copyStats": {
+    "message": "Копіювати Статистику"
+  },
+  "copied": {
+    "message": "Скопійовано!"
+  },
+  "exportStats": {
+    "message": "Експорт"
+  },
+  "advancedStats": {
+    "message": "Розширена Статистика"
+  },
+  "basicStats": {
+    "message": "Базова Статистика"
+  },
+  "wordFrequency": {
+    "message": "Найчастіші Слова"
+  },
+  "showWordFrequency": {
+    "message": "Показувати Діаграму Частоти Слів"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Показувати найчастіші слова у спливаючому вікні"
+  },
+  "frequencyWordCount": {
+    "message": "Кількість Слів на Діаграмі"
+  },
+  "noFrequencyData": {
+    "message": "Немає даних про частоту слів"
+  },
+  "developedBy": {
+    "message": "Розроблено"
+  },
+  "version": {
+    "message": "Версія"
+  }
+}

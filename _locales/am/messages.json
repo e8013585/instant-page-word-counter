@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "ፈጣን ገጽ ቃል ቆጣሪ"
+  },
+  "extensionDescription": {
+    "message": "በማንኛውም ድር ገጽ ላይ ቃላትን፣ ቁምፊዎችን እና ሌሎችን ወዲያውኑ ይቁጠሩ።"
+  },
+  "commandRecount": {
+    "message": "የገጽ ቃላትን እንደገና ይቁጠሩ"
+  },
+  "words": {
+    "message": "ቃላት"
+  },
+  "characters": {
+    "message": "ቁምፊዎች"
+  },
+  "charactersWithSpaces": {
+    "message": "ቁምፊዎች (ባዶ ቦታ ጋር)"
+  },
+  "charactersNoSpaces": {
+    "message": "ቁምፊዎች (ባዶ ቦታ አለመኖሩ)"
+  },
+  "sentences": {
+    "message": "ዓረፍተ ነገሮች"
+  },
+  "paragraphs": {
+    "message": "አንቀጾች"
+  },
+  "avgWordLength": {
+    "message": "አማካይ ቃል ርዝመት"
+  },
+  "longestWord": {
+    "message": "ረዥሙ ቃል"
+  },
+  "longestWordLength": {
+    "message": "ረዥሙ ቃል ርዝመት"
+  },
+  "readingTime": {
+    "message": "የማንበብ ጊዜ"
+  },
+  "speakingTime": {
+    "message": "የንግግር ጊዜ"
+  },
+  "recount": {
+    "message": "እንደገና ቁጠር"
+  },
+  "settings": {
+    "message": "ማስተካከያዎች"
+  },
+  "loading": {
+    "message": "በመቁጠር ላይ..."
+  },
+  "noContent": {
+    "message": "ሊነበብ የሚችል ይዘት አልተገኘም"
+  },
+  "error": {
+    "message": "ይዘት በሚቆጠርበት ጊዜ ስህተት ተከስቷል"
+  },
+  "emptyPage": {
+    "message": "ይህ ገጽ ባዶ እንደሆነ ይመስላል"
+  },
+  "settingsTitle": {
+    "message": "ማስተካከያዎች"
+  },
+  "appearance": {
+    "message": "ገጽታ"
+  },
+  "darkMode": {
+    "message": "ጨለማ ሁነት"
+  },
+  "showThemeToggle": {
+    "message": "በፖፕአፕ ውስጥ ጭብጥ መቀያየሪያ አሳይ"
+  },
+  "language": {
+    "message": "ቋንቋ"
+  },
+  "counting": {
+    "message": "የመቁጠር አማራጮች"
+  },
+  "selectiveCounter": {
+    "message": "የምረጥ ቆጣሪ"
+  },
+  "selectiveCounterDesc": {
+    "message": "ጽሑፍ በሚመርጡበት ጊዜ የቃል ቆጣሪ ፖፕአፕ አሳይ"
+  },
+  "includeLinks": {
+    "message": "አገናኞችን አስገባ"
+  },
+  "includeLinksDesc": {
+    "message": "URL ን እንደ ነጠላ ቃላት ቆጠር"
+  },
+  "display": {
+    "message": "የማሳያ አማራጮች"
+  },
+  "showAvgWordLength": {
+    "message": "አማካይ ቃል ርዝመት አሳይ"
+  },
+  "showLongestWord": {
+    "message": "ረዥሙ ቃል አሳይ"
+  },
+  "showReadingTime": {
+    "message": "የማንበብ ጊዜ አሳይ"
+  },
+  "showSpeakingTime": {
+    "message": "የንግግር ጊዜ አሳይ"
+  },
+  "showSentences": {
+    "message": "የዓረፍተ ነገር ብዛት አሳይ"
+  },
+  "showParagraphs": {
+    "message": "የአንቀጽ ብዛት አሳይ"
+  },
+  "readingSpeed": {
+    "message": "የማንበብ ፍጥነት (ቃል/ደቂቃ)"
+  },
+  "speakingSpeed": {
+    "message": "የንግግር ፍጥነት (ቃል/ደቂቃ)"
+  },
+  "saved": {
+    "message": "ማስተካከያዎች ተቀምጠዋል!"
+  },
+  "reset": {
+    "message": "እንደ ነባሪ ዳግም አስጀምር"
+  },
+  "minutes": {
+    "message": "ደቂቃ"
+  },
+  "seconds": {
+    "message": "ሰከንድ"
+  },
+  "chars": {
+    "message": "ቁምፊዎች"
+  },
+  "selected": {
+    "message": "ተመርጧል"
+  },
+  "uniqueWords": {
+    "message": "ልዩ ቃላት"
+  },
+  "showUniqueWords": {
+    "message": "የልዩ ቃላት ብዛት አሳይ"
+  },
+  "density": {
+    "message": "ጽሑፍ ክፍተት"
+  },
+  "showDensity": {
+    "message": "የጽሑፍ ክፍተት ውጤት አሳይ"
+  },
+  "copyStats": {
+    "message": "ስታቲስቲክስ ገልብጥ"
+  },
+  "copied": {
+    "message": "ተገልብጧል!"
+  },
+  "exportStats": {
+    "message": "ላክ"
+  },
+  "advancedStats": {
+    "message": "የላቀ ስታቲስቲክስ"
+  },
+  "basicStats": {
+    "message": "መሰረታዊ ስታቲስቲክስ"
+  },
+  "wordFrequency": {
+    "message": "በብዛት የሚገኙ ቃላት"
+  },
+  "showWordFrequency": {
+    "message": "የቃል ድግግሞሽ ገበታ አሳይ"
+  },
+  "showWordFrequencyDesc": {
+    "message": "በፖፕአፕ ውስጥ በብዛት የሚገኙ ቃላት አሳይ"
+  },
+  "frequencyWordCount": {
+    "message": "በገበታው ውስጥ ያሉ ቃላት ብዛት"
+  },
+  "noFrequencyData": {
+    "message": "የቃል ድግግሞሽ ውሂብ የለም"
+  },
+  "developedBy": {
+    "message": "የተሰራው በ"
+  },
+  "version": {
+    "message": "ስሪት"
+  }
+}

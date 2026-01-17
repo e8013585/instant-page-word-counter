@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Välitön Sivun Sanalaskuri"
+  },
+  "extensionDescription": {
+    "message": "Laske sanat, merkit ja enemmän millä tahansa verkkosivulla välittömästi."
+  },
+  "commandRecount": {
+    "message": "Laske sivun sanat uudelleen"
+  },
+  "words": {
+    "message": "Sanat"
+  },
+  "characters": {
+    "message": "Merkit"
+  },
+  "charactersWithSpaces": {
+    "message": "Merkit (välilyönneillä)"
+  },
+  "charactersNoSpaces": {
+    "message": "Merkit (ilman välilyöntejä)"
+  },
+  "sentences": {
+    "message": "Lauseet"
+  },
+  "paragraphs": {
+    "message": "Kappaleet"
+  },
+  "avgWordLength": {
+    "message": "Keskim. Sanan Pituus"
+  },
+  "longestWord": {
+    "message": "Pisin Sana"
+  },
+  "longestWordLength": {
+    "message": "Pisimmän Sanan Pituus"
+  },
+  "readingTime": {
+    "message": "Lukuaika"
+  },
+  "speakingTime": {
+    "message": "Puheaika"
+  },
+  "recount": {
+    "message": "Laske Uudelleen"
+  },
+  "settings": {
+    "message": "Asetukset"
+  },
+  "loading": {
+    "message": "Lasketaan..."
+  },
+  "noContent": {
+    "message": "Luettavaa sisältöä ei löytynyt"
+  },
+  "error": {
+    "message": "Virhe sisällön laskemisessa"
+  },
+  "emptyPage": {
+    "message": "Tämä sivu näyttää olevan tyhjä"
+  },
+  "settingsTitle": {
+    "message": "Asetukset"
+  },
+  "appearance": {
+    "message": "Ulkoasu"
+  },
+  "darkMode": {
+    "message": "Tumma Tila"
+  },
+  "showThemeToggle": {
+    "message": "Näytä teeman vaihtopainike ponnahdusikkunassa"
+  },
+  "language": {
+    "message": "Kieli"
+  },
+  "counting": {
+    "message": "Laskentavaihtoehdot"
+  },
+  "selectiveCounter": {
+    "message": "Valintalaskuri"
+  },
+  "selectiveCounterDesc": {
+    "message": "Näytä sanalaskurin ponnahdusikkuna tekstiä valittaessa"
+  },
+  "includeLinks": {
+    "message": "Sisällytä Linkit"
+  },
+  "includeLinksDesc": {
+    "message": "Laske URL-osoitteet yksittäisinä sanoina"
+  },
+  "display": {
+    "message": "Näyttövaihtoehdot"
+  },
+  "showAvgWordLength": {
+    "message": "Näytä sanan keskimääräinen pituus"
+  },
+  "showLongestWord": {
+    "message": "Näytä pisin sana"
+  },
+  "showReadingTime": {
+    "message": "Näytä lukuaika"
+  },
+  "showSpeakingTime": {
+    "message": "Näytä puheaika"
+  },
+  "showSentences": {
+    "message": "Näytä lauseiden määrä"
+  },
+  "showParagraphs": {
+    "message": "Näytä kappaleiden määrä"
+  },
+  "readingSpeed": {
+    "message": "Lukunopeus (SPM)"
+  },
+  "speakingSpeed": {
+    "message": "Puhenopeus (SPM)"
+  },
+  "saved": {
+    "message": "Asetukset tallennettu!"
+  },
+  "reset": {
+    "message": "Palauta Oletusasetukset"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "merkkiä"
+  },
+  "selected": {
+    "message": "Valittu"
+  },
+  "uniqueWords": {
+    "message": "Yksilölliset Sanat"
+  },
+  "showUniqueWords": {
+    "message": "Näytä yksilöllisten sanojen määrä"
+  },
+  "density": {
+    "message": "Tekstin Tiheys"
+  },
+  "showDensity": {
+    "message": "Näytä tekstin tiheyspisteet"
+  },
+  "copyStats": {
+    "message": "Kopioi Tilastot"
+  },
+  "copied": {
+    "message": "Kopioitu!"
+  },
+  "exportStats": {
+    "message": "Vie"
+  },
+  "advancedStats": {
+    "message": "Lisätyt Tilastot"
+  },
+  "basicStats": {
+    "message": "Perustilastot"
+  },
+  "wordFrequency": {
+    "message": "Yleisimmät Sanat"
+  },
+  "showWordFrequency": {
+    "message": "Näytä Sanataajuuskaavio"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Näytä yleisimmät sanat ponnahdusikkunassa"
+  },
+  "frequencyWordCount": {
+    "message": "Sanojen Määrä Kaaviossa"
+  },
+  "noFrequencyData": {
+    "message": "Sanataajuustietoja ei saatavilla"
+  },
+  "developedBy": {
+    "message": "Kehittänyt"
+  },
+  "version": {
+    "message": "Versio"
+  }
+}

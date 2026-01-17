@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Instant na Word Counter ng Pahina"
+  },
+  "extensionDescription": {
+    "message": "Bilangin ang mga salita, character, at iba pa sa anumang webpage agad-agad."
+  },
+  "commandRecount": {
+    "message": "Bilangin muli ang mga salita sa pahina"
+  },
+  "words": {
+    "message": "Mga Salita"
+  },
+  "characters": {
+    "message": "Mga Character"
+  },
+  "charactersWithSpaces": {
+    "message": "Mga Character (kasama ang mga espasyo)"
+  },
+  "charactersNoSpaces": {
+    "message": "Mga Character (walang espasyo)"
+  },
+  "sentences": {
+    "message": "Mga Pangungusap"
+  },
+  "paragraphs": {
+    "message": "Mga Talata"
+  },
+  "avgWordLength": {
+    "message": "Karaniwang Habà ng Salita"
+  },
+  "longestWord": {
+    "message": "Pinakamahabang Salita"
+  },
+  "longestWordLength": {
+    "message": "Haba ng Pinakamahabang Salita"
+  },
+  "readingTime": {
+    "message": "Oras ng Pagbasa"
+  },
+  "speakingTime": {
+    "message": "Oras ng Pagsasalita"
+  },
+  "recount": {
+    "message": "Bilangin Muli"
+  },
+  "settings": {
+    "message": "Mga Setting"
+  },
+  "loading": {
+    "message": "Binibilang..."
+  },
+  "noContent": {
+    "message": "Walang nabasang nilalaman na natagpuan"
+  },
+  "error": {
+    "message": "Error sa pagbilang ng nilalaman"
+  },
+  "emptyPage": {
+    "message": "Ang pahinang ito ay mukhang walang laman"
+  },
+  "settingsTitle": {
+    "message": "Mga Setting"
+  },
+  "appearance": {
+    "message": "Itsura"
+  },
+  "darkMode": {
+    "message": "Madilim na Mode"
+  },
+  "showThemeToggle": {
+    "message": "Ipakita ang toggle ng tema sa popup"
+  },
+  "language": {
+    "message": "Wika"
+  },
+  "counting": {
+    "message": "Mga Opsyon sa Pagbilang"
+  },
+  "selectiveCounter": {
+    "message": "Counter ng Seleksyon"
+  },
+  "selectiveCounterDesc": {
+    "message": "Ipakita ang word count popup kapag nagse-select ng text"
+  },
+  "includeLinks": {
+    "message": "Isama ang mga Link"
+  },
+  "includeLinksDesc": {
+    "message": "Bilangin ang mga URL bilang iisang salita"
+  },
+  "display": {
+    "message": "Mga Opsyon sa Pagpapakita"
+  },
+  "showAvgWordLength": {
+    "message": "Ipakita ang karaniwang haba ng salita"
+  },
+  "showLongestWord": {
+    "message": "Ipakita ang pinakamahabang salita"
+  },
+  "showReadingTime": {
+    "message": "Ipakita ang oras ng pagbasa"
+  },
+  "showSpeakingTime": {
+    "message": "Ipakita ang oras ng pagsasalita"
+  },
+  "showSentences": {
+    "message": "Ipakita ang bilang ng pangungusap"
+  },
+  "showParagraphs": {
+    "message": "Ipakita ang bilang ng talata"
+  },
+  "readingSpeed": {
+    "message": "Bilis ng Pagbasa (WPM)"
+  },
+  "speakingSpeed": {
+    "message": "Bilis ng Pagsasalita (WPM)"
+  },
+  "saved": {
+    "message": "Nai-save ang mga setting!"
+  },
+  "reset": {
+    "message": "I-reset sa Default"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "seg"
+  },
+  "chars": {
+    "message": "char"
+  },
+  "selected": {
+    "message": "Napili"
+  },
+  "uniqueWords": {
+    "message": "Natatanging mga Salita"
+  },
+  "showUniqueWords": {
+    "message": "Ipakita ang bilang ng natatanging salita"
+  },
+  "density": {
+    "message": "Densidad ng Teksto"
+  },
+  "showDensity": {
+    "message": "Ipakita ang score ng densidad ng teksto"
+  },
+  "copyStats": {
+    "message": "Kopyahin ang Mga Stats"
+  },
+  "copied": {
+    "message": "Nakopya!"
+  },
+  "exportStats": {
+    "message": "I-export"
+  },
+  "advancedStats": {
+    "message": "Mga Advanced na Estadistika"
+  },
+  "basicStats": {
+    "message": "Mga Pangunahing Estadistika"
+  },
+  "wordFrequency": {
+    "message": "Pinakamadalas na mga Salita"
+  },
+  "showWordFrequency": {
+    "message": "Ipakita ang Word Frequency Chart"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Ipakita ang pinakamadalas na mga salita sa popup"
+  },
+  "frequencyWordCount": {
+    "message": "Bilang ng mga Salita sa Chart"
+  },
+  "noFrequencyData": {
+    "message": "Walang available na word frequency data"
+  },
+  "developedBy": {
+    "message": "Binuo ni"
+  },
+  "version": {
+    "message": "Bersyon"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Momentinis Puslapio Žodžių Skaitiklis"
+  },
+  "extensionDescription": {
+    "message": "Momentu skaičiuokite žodžius, simbolius ir daugiau bet kuriame tinklalapyje."
+  },
+  "commandRecount": {
+    "message": "Perskaičiuoti puslapio žodžius"
+  },
+  "words": {
+    "message": "Žodžiai"
+  },
+  "characters": {
+    "message": "Simboliai"
+  },
+  "charactersWithSpaces": {
+    "message": "Simboliai (su tarpais)"
+  },
+  "charactersNoSpaces": {
+    "message": "Simboliai (be tarpų)"
+  },
+  "sentences": {
+    "message": "Sakiniai"
+  },
+  "paragraphs": {
+    "message": "Pastraipos"
+  },
+  "avgWordLength": {
+    "message": "Vid. Žodžio Ilgis"
+  },
+  "longestWord": {
+    "message": "Ilgiausias Žodis"
+  },
+  "longestWordLength": {
+    "message": "Ilgiausio Žodžio Ilgis"
+  },
+  "readingTime": {
+    "message": "Skaitymo Laikas"
+  },
+  "speakingTime": {
+    "message": "Kalbos Laikas"
+  },
+  "recount": {
+    "message": "Perskaičiuoti"
+  },
+  "settings": {
+    "message": "Nustatymai"
+  },
+  "loading": {
+    "message": "Skaičiuojama..."
+  },
+  "noContent": {
+    "message": "Skaitytino turinio nerasta"
+  },
+  "error": {
+    "message": "Klaida skaičiuojant turinį"
+  },
+  "emptyPage": {
+    "message": "Šis puslapis atrodo tuščias"
+  },
+  "settingsTitle": {
+    "message": "Nustatymai"
+  },
+  "appearance": {
+    "message": "Išvaizda"
+  },
+  "darkMode": {
+    "message": "Tamsusis Režimas"
+  },
+  "showThemeToggle": {
+    "message": "Rodyti temos perjungiklį iškylančiame lange"
+  },
+  "language": {
+    "message": "Kalba"
+  },
+  "counting": {
+    "message": "Skaičiavimo Parinktys"
+  },
+  "selectiveCounter": {
+    "message": "Pasirinkimo Skaitiklis"
+  },
+  "selectiveCounterDesc": {
+    "message": "Rodyti žodžių skaičiaus iškylančiąją kortelę pasirenkant tekstą"
+  },
+  "includeLinks": {
+    "message": "Įtraukti Nuorodas"
+  },
+  "includeLinksDesc": {
+    "message": "Skaičiuoti URL kaip atskirus žodžius"
+  },
+  "display": {
+    "message": "Rodymo Parinktys"
+  },
+  "showAvgWordLength": {
+    "message": "Rodyti vidutinį žodžio ilgį"
+  },
+  "showLongestWord": {
+    "message": "Rodyti ilgiausią žodį"
+  },
+  "showReadingTime": {
+    "message": "Rodyti skaitymo laiką"
+  },
+  "showSpeakingTime": {
+    "message": "Rodyti kalbos laiką"
+  },
+  "showSentences": {
+    "message": "Rodyti sakičių skaičių"
+  },
+  "showParagraphs": {
+    "message": "Rodyti pastraipų skaičių"
+  },
+  "readingSpeed": {
+    "message": "Skaitymo Greitis (ŽPM)"
+  },
+  "speakingSpeed": {
+    "message": "Kalbos Greitis (ŽPM)"
+  },
+  "saved": {
+    "message": "Nustatymai išsaugoti!"
+  },
+  "reset": {
+    "message": "Atstatyti į Numatytuosius"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "simboliai"
+  },
+  "selected": {
+    "message": "Pasirinkta"
+  },
+  "uniqueWords": {
+    "message": "Unikalūs Žodžiai"
+  },
+  "showUniqueWords": {
+    "message": "Rodyti unikalių žodžių skaičių"
+  },
+  "density": {
+    "message": "Teksto Tankis"
+  },
+  "showDensity": {
+    "message": "Rodyti teksto tankio rezultatą"
+  },
+  "copyStats": {
+    "message": "Kopijuoti Statistiką"
+  },
+  "copied": {
+    "message": "Nukopijuota!"
+  },
+  "exportStats": {
+    "message": "Eksportuoti"
+  },
+  "advancedStats": {
+    "message": "Išplėstinė Statistika"
+  },
+  "basicStats": {
+    "message": "Pagrindinė Statistika"
+  },
+  "wordFrequency": {
+    "message": "Dažniausiai Pasitaikantys Žodžiai"
+  },
+  "showWordFrequency": {
+    "message": "Rodyti Žodžių Dažnio Diagramą"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Rodyti dažniausiai pasitaikančius žodžius iškylančiame lange"
+  },
+  "frequencyWordCount": {
+    "message": "Žodžių Skaičius Diagramoje"
+  },
+  "noFrequencyData": {
+    "message": "Nėra žodžių dažnio duomenų"
+  },
+  "developedBy": {
+    "message": "Sukūrė"
+  },
+  "version": {
+    "message": "Versija"
+  }
+}

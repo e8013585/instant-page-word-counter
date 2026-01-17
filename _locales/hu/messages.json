@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Azonnali Oldalszó Számláló"
+  },
+  "extensionDescription": {
+    "message": "Számoljon szavakat, karaktereket és többet bármely weboldalon azonnal."
+  },
+  "commandRecount": {
+    "message": "Oldalszavak újraszámlálása"
+  },
+  "words": {
+    "message": "Szavak"
+  },
+  "characters": {
+    "message": "Karakterek"
+  },
+  "charactersWithSpaces": {
+    "message": "Karakterek (szóközökkel)"
+  },
+  "charactersNoSpaces": {
+    "message": "Karakterek (szóközök nélkül)"
+  },
+  "sentences": {
+    "message": "Mondatok"
+  },
+  "paragraphs": {
+    "message": "Bekezdések"
+  },
+  "avgWordLength": {
+    "message": "Átlagos Szó Hossz"
+  },
+  "longestWord": {
+    "message": "Leghosszabb Szó"
+  },
+  "longestWordLength": {
+    "message": "Leghosszabb Szó Hossza"
+  },
+  "readingTime": {
+    "message": "Olvasási Idő"
+  },
+  "speakingTime": {
+    "message": "Beszédidő"
+  },
+  "recount": {
+    "message": "Újraszámlálás"
+  },
+  "settings": {
+    "message": "Beállítások"
+  },
+  "loading": {
+    "message": "Számolás..."
+  },
+  "noContent": {
+    "message": "Nem található olvasható tartalom"
+  },
+  "error": {
+    "message": "Hiba a tartalom számolásában"
+  },
+  "emptyPage": {
+    "message": "Ez az oldal üresnek tűnik"
+  },
+  "settingsTitle": {
+    "message": "Beállítások"
+  },
+  "appearance": {
+    "message": "Megjelenés"
+  },
+  "darkMode": {
+    "message": "Sötét Mód"
+  },
+  "showThemeToggle": {
+    "message": "Téma kapcsoló megjelenítése felugró ablakban"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "counting": {
+    "message": "Számolási Beállítások"
+  },
+  "selectiveCounter": {
+    "message": "Kiválasztás Számláló"
+  },
+  "selectiveCounterDesc": {
+    "message": "Szószámláló felugró ablak megjelenítése szöveg kijelölésekor"
+  },
+  "includeLinks": {
+    "message": "Linkek Beleértve"
+  },
+  "includeLinksDesc": {
+    "message": "URL-ek számolása egyedi szavakként"
+  },
+  "display": {
+    "message": "Megjelenítési Beállítások"
+  },
+  "showAvgWordLength": {
+    "message": "Átlagos szóhossz megjelenítése"
+  },
+  "showLongestWord": {
+    "message": "Leghosszabb szó megjelenítése"
+  },
+  "showReadingTime": {
+    "message": "Olvasási idő megjelenítése"
+  },
+  "showSpeakingTime": {
+    "message": "Beszédidő megjelenítése"
+  },
+  "showSentences": {
+    "message": "Mondatok számának megjelenítése"
+  },
+  "showParagraphs": {
+    "message": "Bekezdések számának megjelenítése"
+  },
+  "readingSpeed": {
+    "message": "Olvasási Sebesség (SPM)"
+  },
+  "speakingSpeed": {
+    "message": "Beszédsebesség (SPM)"
+  },
+  "saved": {
+    "message": "Beállítások mentve!"
+  },
+  "reset": {
+    "message": "Alapértékek Visszaállítása"
+  },
+  "minutes": {
+    "message": "perc"
+  },
+  "seconds": {
+    "message": "mperc"
+  },
+  "chars": {
+    "message": "karakter"
+  },
+  "selected": {
+    "message": "Kijelölve"
+  },
+  "uniqueWords": {
+    "message": "Egyedi Szavak"
+  },
+  "showUniqueWords": {
+    "message": "Egyedi szavak számának megjelenítése"
+  },
+  "density": {
+    "message": "Szöveg Sűrűsége"
+  },
+  "showDensity": {
+    "message": "Szöveg sűrűség pontszám megjelenítése"
+  },
+  "copyStats": {
+    "message": "Statisztika Másolása"
+  },
+  "copied": {
+    "message": "Másolva!"
+  },
+  "exportStats": {
+    "message": "Exportálás"
+  },
+  "advancedStats": {
+    "message": "Haladó Statisztika"
+  },
+  "basicStats": {
+    "message": "Alap Statisztika"
+  },
+  "wordFrequency": {
+    "message": "Leggyakrabban Előforduló Szavak"
+  },
+  "showWordFrequency": {
+    "message": "Szógyakorisági Diagram Megjelenítése"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Leggyakrabban előforduló szavak megjelenítése felugró ablakban"
+  },
+  "frequencyWordCount": {
+    "message": "Szavak Száma a Diagramon"
+  },
+  "noFrequencyData": {
+    "message": "Nincs szógyakorisági adat elérhető"
+  },
+  "developedBy": {
+    "message": "Fejlesztő"
+  },
+  "version": {
+    "message": "Verzió"
+  }
+}

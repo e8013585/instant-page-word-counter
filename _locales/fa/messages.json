@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "شمارنده فوری کلمات صفحه"
+  },
+  "extensionDescription": {
+    "message": "کلمات، کاراکترها و بیشتر را در هر صفحه وب بلافاصله بشمارید."
+  },
+  "commandRecount": {
+    "message": "بازشماری کلمات صفحه"
+  },
+  "words": {
+    "message": "کلمات"
+  },
+  "characters": {
+    "message": "کاراکترها"
+  },
+  "charactersWithSpaces": {
+    "message": "کاراکترها (با فاصله)"
+  },
+  "charactersNoSpaces": {
+    "message": "کاراکترها (بدون فاصله)"
+  },
+  "sentences": {
+    "message": "جملات"
+  },
+  "paragraphs": {
+    "message": "پاراگراف‌ها"
+  },
+  "avgWordLength": {
+    "message": "میانگین طول کلمه"
+  },
+  "longestWord": {
+    "message": "طولانی‌ترین کلمه"
+  },
+  "longestWordLength": {
+    "message": "طول طولانی‌ترین کلمه"
+  },
+  "readingTime": {
+    "message": "زمان خواندن"
+  },
+  "speakingTime": {
+    "message": "زمان سخنرانی"
+  },
+  "recount": {
+    "message": "بازشماری"
+  },
+  "settings": {
+    "message": "تنظیمات"
+  },
+  "loading": {
+    "message": "در حال شمارش..."
+  },
+  "noContent": {
+    "message": "محتوای قابل خواندن یافت نشد"
+  },
+  "error": {
+    "message": "خطا در شمارش محتوا"
+  },
+  "emptyPage": {
+    "message": "این صفحه خالی به نظر می‌رسد"
+  },
+  "settingsTitle": {
+    "message": "تنظیمات"
+  },
+  "appearance": {
+    "message": "ظاهر"
+  },
+  "darkMode": {
+    "message": "حالت تیره"
+  },
+  "showThemeToggle": {
+    "message": "نمایش تغییردهنده تم در پنجره بازشو"
+  },
+  "language": {
+    "message": "زبان"
+  },
+  "counting": {
+    "message": "گزینه‌های شمارش"
+  },
+  "selectiveCounter": {
+    "message": "شمارنده انتخابی"
+  },
+  "selectiveCounterDesc": {
+    "message": "نمایش پنجره بازشوی شمارنده کلمات هنگام انتخاب متن"
+  },
+  "includeLinks": {
+    "message": "شامل پیوندها"
+  },
+  "includeLinksDesc": {
+    "message": "شمارش URLها به عنوان کلمات منفرد"
+  },
+  "display": {
+    "message": "گزینه‌های نمایش"
+  },
+  "showAvgWordLength": {
+    "message": "نمایش میانگین طول کلمه"
+  },
+  "showLongestWord": {
+    "message": "نمایش طولانی‌ترین کلمه"
+  },
+  "showReadingTime": {
+    "message": "نمایش زمان خواندن"
+  },
+  "showSpeakingTime": {
+    "message": "نمایش زمان سخنرانی"
+  },
+  "showSentences": {
+    "message": "نمایش تعداد جملات"
+  },
+  "showParagraphs": {
+    "message": "نمایش تعداد پاراگراف‌ها"
+  },
+  "readingSpeed": {
+    "message": "سرعت خواندن (کلمه در دقیقه)"
+  },
+  "speakingSpeed": {
+    "message": "سرعت سخنرانی (کلمه در دقیقه)"
+  },
+  "saved": {
+    "message": "تنظیمات ذخیره شد!"
+  },
+  "reset": {
+    "message": "بازنشانی به پیش‌فرض"
+  },
+  "minutes": {
+    "message": "دقیقه"
+  },
+  "seconds": {
+    "message": "ثانیه"
+  },
+  "chars": {
+    "message": "کاراکتر"
+  },
+  "selected": {
+    "message": "انتخاب شده"
+  },
+  "uniqueWords": {
+    "message": "کلمات منحصر به فرد"
+  },
+  "showUniqueWords": {
+    "message": "نمایش تعداد کلمات منحصر به فرد"
+  },
+  "density": {
+    "message": "تراکم متن"
+  },
+  "showDensity": {
+    "message": "نمایش امتیاز تراکم متن"
+  },
+  "copyStats": {
+    "message": "کپی آمار"
+  },
+  "copied": {
+    "message": "کپی شد!"
+  },
+  "exportStats": {
+    "message": "صادر کردن"
+  },
+  "advancedStats": {
+    "message": "آمار پیشرفته"
+  },
+  "basicStats": {
+    "message": "آمار پایه"
+  },
+  "wordFrequency": {
+    "message": "پرتکرارترین کلمات"
+  },
+  "showWordFrequency": {
+    "message": "نمایش نمودار فراوانی کلمات"
+  },
+  "showWordFrequencyDesc": {
+    "message": "نمایش پرتکرارترین کلمات در پنجره بازشو"
+  },
+  "frequencyWordCount": {
+    "message": "تعداد کلمات در نمودار"
+  },
+  "noFrequencyData": {
+    "message": "داده‌ای از فراوانی کلمات موجود نیست"
+  },
+  "developedBy": {
+    "message": "توسعه‌یافته توسط"
+  },
+  "version": {
+    "message": "نسخه"
+  }
+}

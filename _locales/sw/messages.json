@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Kihesabu Cha Maneno Ya Ukurasa Papo Hapo"
+  },
+  "extensionDescription": {
+    "message": "Hesabu maneno, herufi, na zaidi kwenye ukurasa wowote wa wavuti mara moja."
+  },
+  "commandRecount": {
+    "message": "Hesabu tena maneno ya ukurasa"
+  },
+  "words": {
+    "message": "Maneno"
+  },
+  "characters": {
+    "message": "Herufi"
+  },
+  "charactersWithSpaces": {
+    "message": "Herufi (na nafasi)"
+  },
+  "charactersNoSpaces": {
+    "message": "Herufi (bila nafasi)"
+  },
+  "sentences": {
+    "message": "Sentensi"
+  },
+  "paragraphs": {
+    "message": "Vifungu"
+  },
+  "avgWordLength": {
+    "message": "Mwin. Urefu wa Neno"
+  },
+  "longestWord": {
+    "message": "Neno Refu Zaidi"
+  },
+  "longestWordLength": {
+    "message": "Urefu wa Neno Refu Zaidi"
+  },
+  "readingTime": {
+    "message": "Muda wa Kusoma"
+  },
+  "speakingTime": {
+    "message": "Muda wa Kuongea"
+  },
+  "recount": {
+    "message": "Hesabu Tena"
+  },
+  "settings": {
+    "message": "Mipangilio"
+  },
+  "loading": {
+    "message": "Inahesabu..."
+  },
+  "noContent": {
+    "message": "Hakuna yaliyomo yanayoweza kusomwa yamepatikana"
+  },
+  "error": {
+    "message": "Hitilafu katika kuhesabu yaliyomo"
+  },
+  "emptyPage": {
+    "message": "Ukurasa huu unaonekana kuwa tupu"
+  },
+  "settingsTitle": {
+    "message": "Mipangilio"
+  },
+  "appearance": {
+    "message": "Mwonekano"
+  },
+  "darkMode": {
+    "message": "Hali ya Giza"
+  },
+  "showThemeToggle": {
+    "message": "Onyesha kubadili mada katika popup"
+  },
+  "language": {
+    "message": "Lugha"
+  },
+  "counting": {
+    "message": "Chaguo za Kuhesabu"
+  },
+  "selectiveCounter": {
+    "message": "Kihesabu cha Uchaguzi"
+  },
+  "selectiveCounterDesc": {
+    "message": "Onyesha popup ya hesabu ya maneno unapochagua maandishi"
+  },
+  "includeLinks": {
+    "message": "Jumuisha Viungo"
+  },
+  "includeLinksDesc": {
+    "message": "Hesabu URL kama maneno moja"
+  },
+  "display": {
+    "message": "Chaguo za Onyesho"
+  },
+  "showAvgWordLength": {
+    "message": "Onyesha urefu wa wastani wa neno"
+  },
+  "showLongestWord": {
+    "message": "Onyesha neno refu zaidi"
+  },
+  "showReadingTime": {
+    "message": "Onyesha muda wa kusoma"
+  },
+  "showSpeakingTime": {
+    "message": "Onyesha muda wa kuongea"
+  },
+  "showSentences": {
+    "message": "Onyesha idadi ya sentensi"
+  },
+  "showParagraphs": {
+    "message": "Onyesha idadi ya vifungu"
+  },
+  "readingSpeed": {
+    "message": "Kasi ya Kusoma (WPM)"
+  },
+  "speakingSpeed": {
+    "message": "Kasi ya Kuongea (WPM)"
+  },
+  "saved": {
+    "message": "Mipangilio imehifadhiwa!"
+  },
+  "reset": {
+    "message": "Weka upya kwa Chaguo-msingi"
+  },
+  "minutes": {
+    "message": "dak"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "herufi"
+  },
+  "selected": {
+    "message": "Imechaguliwa"
+  },
+  "uniqueWords": {
+    "message": "Maneno ya Kipekee"
+  },
+  "showUniqueWords": {
+    "message": "Onyesha idadi ya maneno ya kipekee"
+  },
+  "density": {
+    "message": "Msongamano wa Maandishi"
+  },
+  "showDensity": {
+    "message": "Onyesha alama ya msongamano wa maandishi"
+  },
+  "copyStats": {
+    "message": "Nakili Takwimu"
+  },
+  "copied": {
+    "message": "Imenakiliwa!"
+  },
+  "exportStats": {
+    "message": "Hamisha"
+  },
+  "advancedStats": {
+    "message": "Takwimu za Juu"
+  },
+  "basicStats": {
+    "message": "Takwimu za Msingi"
+  },
+  "wordFrequency": {
+    "message": "Maneno Yanayojirudia Zaidi"
+  },
+  "showWordFrequency": {
+    "message": "Onyesha Chati ya Marudio ya Maneno"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Onyesha maneno yanayojirudia zaidi katika popup"
+  },
+  "frequencyWordCount": {
+    "message": "Idadi ya Maneno kwenye Chati"
+  },
+  "noFrequencyData": {
+    "message": "Hakuna data ya marudio ya maneno inayopatikana"
+  },
+  "developedBy": {
+    "message": "Imetengenezwa na"
+  },
+  "version": {
+    "message": "Toleo"
+  }
+}

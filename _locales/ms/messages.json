@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Pembilang Perkataan Halaman Segera"
+  },
+  "extensionDescription": {
+    "message": "Kira perkataan, aksara dan banyak lagi di mana-mana halaman web serta-merta."
+  },
+  "commandRecount": {
+    "message": "Kira semula perkataan halaman"
+  },
+  "words": {
+    "message": "Perkataan"
+  },
+  "characters": {
+    "message": "Aksara"
+  },
+  "charactersWithSpaces": {
+    "message": "Aksara (dengan ruang)"
+  },
+  "charactersNoSpaces": {
+    "message": "Aksara (tanpa ruang)"
+  },
+  "sentences": {
+    "message": "Ayat"
+  },
+  "paragraphs": {
+    "message": "Perenggan"
+  },
+  "avgWordLength": {
+    "message": "Purata Panjang Perkataan"
+  },
+  "longestWord": {
+    "message": "Perkataan Terpanjang"
+  },
+  "longestWordLength": {
+    "message": "Panjang Perkataan Terpanjang"
+  },
+  "readingTime": {
+    "message": "Masa Membaca"
+  },
+  "speakingTime": {
+    "message": "Masa Bertutur"
+  },
+  "recount": {
+    "message": "Kira Semula"
+  },
+  "settings": {
+    "message": "Tetapan"
+  },
+  "loading": {
+    "message": "Mengira..."
+  },
+  "noContent": {
+    "message": "Tiada kandungan boleh baca ditemui"
+  },
+  "error": {
+    "message": "Ralat mengira kandungan"
+  },
+  "emptyPage": {
+    "message": "Halaman ini kelihatan kosong"
+  },
+  "settingsTitle": {
+    "message": "Tetapan"
+  },
+  "appearance": {
+    "message": "Penampilan"
+  },
+  "darkMode": {
+    "message": "Mod Gelap"
+  },
+  "showThemeToggle": {
+    "message": "Tunjukkan togol tema dalam popup"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "counting": {
+    "message": "Pilihan Pengiraan"
+  },
+  "selectiveCounter": {
+    "message": "Pembilang Pilihan"
+  },
+  "selectiveCounterDesc": {
+    "message": "Tunjukkan popup kiraan perkataan apabila memilih teks"
+  },
+  "includeLinks": {
+    "message": "Termasuk Pautan"
+  },
+  "includeLinksDesc": {
+    "message": "Kira URL sebagai perkataan tunggal"
+  },
+  "display": {
+    "message": "Pilihan Paparan"
+  },
+  "showAvgWordLength": {
+    "message": "Tunjukkan purata panjang perkataan"
+  },
+  "showLongestWord": {
+    "message": "Tunjukkan perkataan terpanjang"
+  },
+  "showReadingTime": {
+    "message": "Tunjukkan masa membaca"
+  },
+  "showSpeakingTime": {
+    "message": "Tunjukkan masa bertutur"
+  },
+  "showSentences": {
+    "message": "Tunjukkan bilangan ayat"
+  },
+  "showParagraphs": {
+    "message": "Tunjukkan bilangan perenggan"
+  },
+  "readingSpeed": {
+    "message": "Kelajuan Membaca (KPM)"
+  },
+  "speakingSpeed": {
+    "message": "Kelajuan Bertutur (KPM)"
+  },
+  "saved": {
+    "message": "Tetapan disimpan!"
+  },
+  "reset": {
+    "message": "Tetapkan Semula kepada Lalai"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "saat"
+  },
+  "chars": {
+    "message": "aksara"
+  },
+  "selected": {
+    "message": "Dipilih"
+  },
+  "uniqueWords": {
+    "message": "Perkataan Unik"
+  },
+  "showUniqueWords": {
+    "message": "Tunjukkan bilangan perkataan unik"
+  },
+  "density": {
+    "message": "Ketumpatan Teks"
+  },
+  "showDensity": {
+    "message": "Tunjukkan skor ketumpatan teks"
+  },
+  "copyStats": {
+    "message": "Salin Statistik"
+  },
+  "copied": {
+    "message": "Disalin!"
+  },
+  "exportStats": {
+    "message": "Eksport"
+  },
+  "advancedStats": {
+    "message": "Statistik Lanjutan"
+  },
+  "basicStats": {
+    "message": "Statistik Asas"
+  },
+  "wordFrequency": {
+    "message": "Perkataan Paling Kerap"
+  },
+  "showWordFrequency": {
+    "message": "Tunjukkan Carta Kekerapan Perkataan"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Tunjukkan perkataan paling kerap dalam popup"
+  },
+  "frequencyWordCount": {
+    "message": "Bilangan Perkataan dalam Carta"
+  },
+  "noFrequencyData": {
+    "message": "Tiada data kekerapan perkataan tersedia"
+  },
+  "developedBy": {
+    "message": "Dibangunkan oleh"
+  },
+  "version": {
+    "message": "Versi"
+  }
+}

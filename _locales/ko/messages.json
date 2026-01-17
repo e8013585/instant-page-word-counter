@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "즉시 페이지 단어 카운터"
+  },
+  "extensionDescription": {
+    "message": "어떤 웹페이지에서나 즉시 단어 수, 문자 수 등을 셉니다."
+  },
+  "commandRecount": {
+    "message": "페이지 단어 재계산"
+  },
+  "words": {
+    "message": "단어 수"
+  },
+  "characters": {
+    "message": "문자 수"
+  },
+  "charactersWithSpaces": {
+    "message": "문자 수 (공백 포함)"
+  },
+  "charactersNoSpaces": {
+    "message": "문자 수 (공백 제외)"
+  },
+  "sentences": {
+    "message": "문장 수"
+  },
+  "paragraphs": {
+    "message": "단락 수"
+  },
+  "avgWordLength": {
+    "message": "평균 단어 길이"
+  },
+  "longestWord": {
+    "message": "가장 긴 단어"
+  },
+  "longestWordLength": {
+    "message": "가장 긴 단어 길이"
+  },
+  "readingTime": {
+    "message": "읽기 시간"
+  },
+  "speakingTime": {
+    "message": "말하기 시간"
+  },
+  "recount": {
+    "message": "재계산"
+  },
+  "settings": {
+    "message": "설정"
+  },
+  "loading": {
+    "message": "계산 중..."
+  },
+  "noContent": {
+    "message": "읽을 수 있는 콘텐츠를 찾을 수 없습니다"
+  },
+  "error": {
+    "message": "콘텐츠 계산 중 오류 발생"
+  },
+  "emptyPage": {
+    "message": "이 페이지는 비어 있는 것 같습니다"
+  },
+  "settingsTitle": {
+    "message": "설정"
+  },
+  "appearance": {
+    "message": "외관"
+  },
+  "darkMode": {
+    "message": "다크 모드"
+  },
+  "showThemeToggle": {
+    "message": "팝업에서 테마 토글 표시"
+  },
+  "language": {
+    "message": "언어"
+  },
+  "counting": {
+    "message": "계산 옵션"
+  },
+  "selectiveCounter": {
+    "message": "선택 카운터"
+  },
+  "selectiveCounterDesc": {
+    "message": "텍스트 선택 시 단어 수 팝업 표시"
+  },
+  "includeLinks": {
+    "message": "링크 포함"
+  },
+  "includeLinksDesc": {
+    "message": "URL을 단일 단어로 계산"
+  },
+  "display": {
+    "message": "표시 옵션"
+  },
+  "showAvgWordLength": {
+    "message": "평균 단어 길이 표시"
+  },
+  "showLongestWord": {
+    "message": "가장 긴 단어 표시"
+  },
+  "showReadingTime": {
+    "message": "읽기 시간 표시"
+  },
+  "showSpeakingTime": {
+    "message": "말하기 시간 표시"
+  },
+  "showSentences": {
+    "message": "문장 수 표시"
+  },
+  "showParagraphs": {
+    "message": "단락 수 표시"
+  },
+  "readingSpeed": {
+    "message": "읽기 속도 (단어/분)"
+  },
+  "speakingSpeed": {
+    "message": "말하기 속도 (단어/분)"
+  },
+  "saved": {
+    "message": "설정이 저장되었습니다!"
+  },
+  "reset": {
+    "message": "기본값으로 재설정"
+  },
+  "minutes": {
+    "message": "분"
+  },
+  "seconds": {
+    "message": "초"
+  },
+  "chars": {
+    "message": "문자"
+  },
+  "selected": {
+    "message": "선택됨"
+  },
+  "uniqueWords": {
+    "message": "고유 단어"
+  },
+  "showUniqueWords": {
+    "message": "고유 단어 수 표시"
+  },
+  "density": {
+    "message": "텍스트 밀도"
+  },
+  "showDensity": {
+    "message": "텍스트 밀도 점수 표시"
+  },
+  "copyStats": {
+    "message": "통계 복사"
+  },
+  "copied": {
+    "message": "복사되었습니다!"
+  },
+  "exportStats": {
+    "message": "내보내기"
+  },
+  "advancedStats": {
+    "message": "고급 통계"
+  },
+  "basicStats": {
+    "message": "기본 통계"
+  },
+  "wordFrequency": {
+    "message": "가장 자주 사용되는 단어"
+  },
+  "showWordFrequency": {
+    "message": "단어 빈도 차트 표시"
+  },
+  "showWordFrequencyDesc": {
+    "message": "팝업에 가장 자주 사용되는 단어 표시"
+  },
+  "frequencyWordCount": {
+    "message": "차트의 단어 수"
+  },
+  "noFrequencyData": {
+    "message": "단어 빈도 데이터를 사용할 수 없습니다"
+  },
+  "developedBy": {
+    "message": "개발자"
+  },
+  "version": {
+    "message": "버전"
+  }
+}

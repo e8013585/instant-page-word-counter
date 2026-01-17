@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "तत्काल पृष्ठ शब्द गणक"
+  },
+  "extensionDescription": {
+    "message": "किसी भी वेबपेज पर तुरंत शब्द, अक्षर और अधिक गिनें।"
+  },
+  "commandRecount": {
+    "message": "पृष्ठ के शब्द पुनः गिनें"
+  },
+  "words": {
+    "message": "शब्द"
+  },
+  "characters": {
+    "message": "अक्षर"
+  },
+  "charactersWithSpaces": {
+    "message": "अक्षर (रिक्त स्थान सहित)"
+  },
+  "charactersNoSpaces": {
+    "message": "अक्षर (रिक्त स्थान के बिना)"
+  },
+  "sentences": {
+    "message": "वाक्य"
+  },
+  "paragraphs": {
+    "message": "पैराग्राफ"
+  },
+  "avgWordLength": {
+    "message": "औसत शब्द लंबाई"
+  },
+  "longestWord": {
+    "message": "सबसे लंबा शब्द"
+  },
+  "longestWordLength": {
+    "message": "सबसे लंबे शब्द की लंबाई"
+  },
+  "readingTime": {
+    "message": "पढ़ने का समय"
+  },
+  "speakingTime": {
+    "message": "बोलने का समय"
+  },
+  "recount": {
+    "message": "पुनः गिनें"
+  },
+  "settings": {
+    "message": "सेटिंग्स"
+  },
+  "loading": {
+    "message": "गिन रहा है..."
+  },
+  "noContent": {
+    "message": "कोई पठनीय सामग्री नहीं मिली"
+  },
+  "error": {
+    "message": "सामग्री गिनने में त्रुटि"
+  },
+  "emptyPage": {
+    "message": "यह पृष्ठ खाली प्रतीत होता है"
+  },
+  "settingsTitle": {
+    "message": "सेटिंग्स"
+  },
+  "appearance": {
+    "message": "रूप"
+  },
+  "darkMode": {
+    "message": "डार्क मोड"
+  },
+  "showThemeToggle": {
+    "message": "पॉपअप में थीम टॉगल दिखाएं"
+  },
+  "language": {
+    "message": "भाषा"
+  },
+  "counting": {
+    "message": "गिनती विकल्प"
+  },
+  "selectiveCounter": {
+    "message": "चयन गणक"
+  },
+  "selectiveCounterDesc": {
+    "message": "पाठ चयन करते समय शब्द गणना पॉपअप दिखाएं"
+  },
+  "includeLinks": {
+    "message": "लिंक शामिल करें"
+  },
+  "includeLinksDesc": {
+    "message": "URL को एकल शब्द के रूप में गिनें"
+  },
+  "display": {
+    "message": "प्रदर्शन विकल्प"
+  },
+  "showAvgWordLength": {
+    "message": "औसत शब्द लंबाई दिखाएं"
+  },
+  "showLongestWord": {
+    "message": "सबसे लंबा शब्द दिखाएं"
+  },
+  "showReadingTime": {
+    "message": "पढ़ने का समय दिखाएं"
+  },
+  "showSpeakingTime": {
+    "message": "बोलने का समय दिखाएं"
+  },
+  "showSentences": {
+    "message": "वाक्यों की संख्या दिखाएं"
+  },
+  "showParagraphs": {
+    "message": "पैराग्राफ की संख्या दिखाएं"
+  },
+  "readingSpeed": {
+    "message": "पढ़ने की गति (शब्द प्रति मिनट)"
+  },
+  "speakingSpeed": {
+    "message": "बोलने की गति (शब्द प्रति मिनट)"
+  },
+  "saved": {
+    "message": "सेटिंग्स सहेजी गईं!"
+  },
+  "reset": {
+    "message": "डिफ़ॉल्ट पर रीसेट करें"
+  },
+  "minutes": {
+    "message": "मिनट"
+  },
+  "seconds": {
+    "message": "सेकंड"
+  },
+  "chars": {
+    "message": "अक्षर"
+  },
+  "selected": {
+    "message": "चयनित"
+  },
+  "uniqueWords": {
+    "message": "अद्वितीय शब्द"
+  },
+  "showUniqueWords": {
+    "message": "अद्वितीय शब्दों की संख्या दिखाएं"
+  },
+  "density": {
+    "message": "पाठ घनत्व"
+  },
+  "showDensity": {
+    "message": "पाठ घनत्व स्कोर दिखाएं"
+  },
+  "copyStats": {
+    "message": "सांख्यिकी कॉपी करें"
+  },
+  "copied": {
+    "message": "कॉपी किया गया!"
+  },
+  "exportStats": {
+    "message": "निर्यात करें"
+  },
+  "advancedStats": {
+    "message": "उन्नत सांख्यिकी"
+  },
+  "basicStats": {
+    "message": "मूल सांख्यिकी"
+  },
+  "wordFrequency": {
+    "message": "सबसे आम शब्द"
+  },
+  "showWordFrequency": {
+    "message": "शब्द आवृत्ति चार्ट दिखाएं"
+  },
+  "showWordFrequencyDesc": {
+    "message": "पॉपअप में सबसे आम शब्द दिखाएं"
+  },
+  "frequencyWordCount": {
+    "message": "चार्ट में शब्दों की संख्या"
+  },
+  "noFrequencyData": {
+    "message": "कोई शब्द आवृत्ति डेटा उपलब्ध नहीं"
+  },
+  "developedBy": {
+    "message": "द्वारा विकसित"
+  },
+  "version": {
+    "message": "संस्करण"
+  }
+}

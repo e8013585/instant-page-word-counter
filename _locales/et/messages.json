@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Kiire Lehekülje Sõnaloendur"
+  },
+  "extensionDescription": {
+    "message": "Loenda sõnu, tähemärke ja muud igal veebilehel koheselt."
+  },
+  "commandRecount": {
+    "message": "Loenda lehekülje sõnad uuesti"
+  },
+  "words": {
+    "message": "Sõnad"
+  },
+  "characters": {
+    "message": "Tähemärgid"
+  },
+  "charactersWithSpaces": {
+    "message": "Tähemärgid (tühikutega)"
+  },
+  "charactersNoSpaces": {
+    "message": "Tähemärgid (ilma tühikuteta)"
+  },
+  "sentences": {
+    "message": "Laused"
+  },
+  "paragraphs": {
+    "message": "Lõigud"
+  },
+  "avgWordLength": {
+    "message": "Keskm. Sõna Pikkus"
+  },
+  "longestWord": {
+    "message": "Pikim Sõna"
+  },
+  "longestWordLength": {
+    "message": "Pikima Sõna Pikkus"
+  },
+  "readingTime": {
+    "message": "Lugemisaeg"
+  },
+  "speakingTime": {
+    "message": "Rääkimisaeg"
+  },
+  "recount": {
+    "message": "Loenda Uuesti"
+  },
+  "settings": {
+    "message": "Seaded"
+  },
+  "loading": {
+    "message": "Loendan..."
+  },
+  "noContent": {
+    "message": "Loetavat sisu ei leitud"
+  },
+  "error": {
+    "message": "Viga sisu loendamisel"
+  },
+  "emptyPage": {
+    "message": "See leht näib olevat tühi"
+  },
+  "settingsTitle": {
+    "message": "Seaded"
+  },
+  "appearance": {
+    "message": "Välimus"
+  },
+  "darkMode": {
+    "message": "Tume Režiim"
+  },
+  "showThemeToggle": {
+    "message": "Kuva teema lüliti hüpikaknas"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "counting": {
+    "message": "Loendamise Valikud"
+  },
+  "selectiveCounter": {
+    "message": "Valiku Loendur"
+  },
+  "selectiveCounterDesc": {
+    "message": "Kuva sõnaloenduri hüpikaken teksti valimisel"
+  },
+  "includeLinks": {
+    "message": "Kaasa Lingid"
+  },
+  "includeLinksDesc": {
+    "message": "Loenda URL-id üksikute sõnadena"
+  },
+  "display": {
+    "message": "Kuva Valikud"
+  },
+  "showAvgWordLength": {
+    "message": "Kuva keskmine sõna pikkus"
+  },
+  "showLongestWord": {
+    "message": "Kuva pikim sõna"
+  },
+  "showReadingTime": {
+    "message": "Kuva lugemisaeg"
+  },
+  "showSpeakingTime": {
+    "message": "Kuva rääkimisaeg"
+  },
+  "showSentences": {
+    "message": "Kuva lausete arv"
+  },
+  "showParagraphs": {
+    "message": "Kuva lõikude arv"
+  },
+  "readingSpeed": {
+    "message": "Lugemiskiirus (SPM)"
+  },
+  "speakingSpeed": {
+    "message": "Rääkimiskiirus (SPM)"
+  },
+  "saved": {
+    "message": "Seaded salvestatud!"
+  },
+  "reset": {
+    "message": "Lähtesta Vaikeseadetesse"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "sek"
+  },
+  "chars": {
+    "message": "tähemärki"
+  },
+  "selected": {
+    "message": "Valitud"
+  },
+  "uniqueWords": {
+    "message": "Unikaalsed Sõnad"
+  },
+  "showUniqueWords": {
+    "message": "Kuva unikaalsete sõnade arv"
+  },
+  "density": {
+    "message": "Teksti Tihedus"
+  },
+  "showDensity": {
+    "message": "Kuva teksti tiheduse skoor"
+  },
+  "copyStats": {
+    "message": "Kopeeri Statistika"
+  },
+  "copied": {
+    "message": "Kopeeritud!"
+  },
+  "exportStats": {
+    "message": "Ekspordi"
+  },
+  "advancedStats": {
+    "message": "Täpsem Statistika"
+  },
+  "basicStats": {
+    "message": "Põhistatistika"
+  },
+  "wordFrequency": {
+    "message": "Kõige Sagedasemad Sõnad"
+  },
+  "showWordFrequency": {
+    "message": "Kuva Sõnasageduse Diagramm"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Kuva kõige sagedasemad sõnad hüpikaknas"
+  },
+  "frequencyWordCount": {
+    "message": "Sõnade Arv Diagrammis"
+  },
+  "noFrequencyData": {
+    "message": "Sõnasageduse andmed puuduvad"
+  },
+  "developedBy": {
+    "message": "Arendatud"
+  },
+  "version": {
+    "message": "Versioon"
+  }
+}

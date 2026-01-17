@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "తక్షణ పేజీ పదాల గణన యంత్రం"
+  },
+  "extensionDescription": {
+    "message": "ఏదైనా వెబ్ పేజీలో తక్షణంగా పదాలు, అక్షరాలు మరియు మరిన్ని లెక్కించండి."
+  },
+  "commandRecount": {
+    "message": "పేజీ పదాలను మళ్లీ లెక్కించండి"
+  },
+  "words": {
+    "message": "పదాలు"
+  },
+  "characters": {
+    "message": "అక్షరాలు"
+  },
+  "charactersWithSpaces": {
+    "message": "అక్షరాలు (ఖాళీలతో)"
+  },
+  "charactersNoSpaces": {
+    "message": "అక్షరాలు (ఖాళీలు లేకుండా)"
+  },
+  "sentences": {
+    "message": "వాక్యాలు"
+  },
+  "paragraphs": {
+    "message": "పేరాలు"
+  },
+  "avgWordLength": {
+    "message": "సగటు పదం పొడవు"
+  },
+  "longestWord": {
+    "message": "పొడవైన పదం"
+  },
+  "longestWordLength": {
+    "message": "పొడవైన పదం యొక్క పొడవు"
+  },
+  "readingTime": {
+    "message": "చదవడం సమయం"
+  },
+  "speakingTime": {
+    "message": "మాట్లాడడం సమయం"
+  },
+  "recount": {
+    "message": "మళ్లీ లెక్కించు"
+  },
+  "settings": {
+    "message": "సెట్టింగ్లు"
+  },
+  "loading": {
+    "message": "లెక్కిస్తోంది..."
+  },
+  "noContent": {
+    "message": "చదవదగిన కంటెంట్ కనుగొనబడలేదు"
+  },
+  "error": {
+    "message": "కంటెంట్ లెక్కించడంలో లోపం"
+  },
+  "emptyPage": {
+    "message": "ఈ పేజీ ఖాళీగా కనిపిస్తుంది"
+  },
+  "settingsTitle": {
+    "message": "సెట్టింగ్లు"
+  },
+  "appearance": {
+    "message": "స్వరూపం"
+  },
+  "darkMode": {
+    "message": "డార్క్ మోడ్"
+  },
+  "showThemeToggle": {
+    "message": "పాపప్ లో థీమ్ టోగుల్ చూపించు"
+  },
+  "language": {
+    "message": "భాష"
+  },
+  "counting": {
+    "message": "లెక్కింపు ఎంపికలు"
+  },
+  "selectiveCounter": {
+    "message": "సెలక్షన్ కౌంటర్"
+  },
+  "selectiveCounterDesc": {
+    "message": "టెక్స్ట్ ఎంచుకున్నప్పుడు పదాల లెక్కింపు పాపప్ చూపించు"
+  },
+  "includeLinks": {
+    "message": "లింకులను చేర్చు"
+  },
+  "includeLinksDesc": {
+    "message": "URLలను వ్యక్తిగత పదాలుగా లెక్కించు"
+  },
+  "display": {
+    "message": "డిస్ప్లే ఎంపికలు"
+  },
+  "showAvgWordLength": {
+    "message": "సగటు పదం పొడవు చూపించు"
+  },
+  "showLongestWord": {
+    "message": "పొడవైన పదం చూపించు"
+  },
+  "showReadingTime": {
+    "message": "చదవడం సమయం చూపించు"
+  },
+  "showSpeakingTime": {
+    "message": "మాట్లాడడం సమయం చూపించు"
+  },
+  "showSentences": {
+    "message": "వాక్యాల సంఖ్య చూపించు"
+  },
+  "showParagraphs": {
+    "message": "పేరాల సంఖ్య చూపించు"
+  },
+  "readingSpeed": {
+    "message": "చదవడం వేగం (పదం/నిమిషం)"
+  },
+  "speakingSpeed": {
+    "message": "మాట్లాడడం వేగం (పదం/నిమిషం)"
+  },
+  "saved": {
+    "message": "సెట్టింగ్లు సేవ్ చేయబడ్డాయి!"
+  },
+  "reset": {
+    "message": "డిఫాల్ట్‌కు రీసెట్ చేయండి"
+  },
+  "minutes": {
+    "message": "నిమి"
+  },
+  "seconds": {
+    "message": "సెక"
+  },
+  "chars": {
+    "message": "అక్షరాలు"
+  },
+  "selected": {
+    "message": "ఎంచుకున్న"
+  },
+  "uniqueWords": {
+    "message": "ప్రత్యేక పదాలు"
+  },
+  "showUniqueWords": {
+    "message": "ప్రత్యేక పదాల సంఖ్య చూపించు"
+  },
+  "density": {
+    "message": "టెక్స్ట్ సాంద్రత"
+  },
+  "showDensity": {
+    "message": "టెక్స్ట్ సాంద్రత స్కోర్ చూపించు"
+  },
+  "copyStats": {
+    "message": "గణాంకాలు కాపీ చేయండి"
+  },
+  "copied": {
+    "message": "కాపీ చేయబడింది!"
+  },
+  "exportStats": {
+    "message": "ఎక్స్పోర్ట్"
+  },
+  "advancedStats": {
+    "message": "ఆధునిక గణాంకాలు"
+  },
+  "basicStats": {
+    "message": "ప్రాథమిక గణాంకాలు"
+  },
+  "wordFrequency": {
+    "message": "ఎక్కువగా వచ్చే పదాలు"
+  },
+  "showWordFrequency": {
+    "message": "పదం ఫ్రీక్వెన్సీ చార్ట్ చూపించు"
+  },
+  "showWordFrequencyDesc": {
+    "message": "పాపప్ లో ఎక్కువగా వచ్చే పదాలు చూపించు"
+  },
+  "frequencyWordCount": {
+    "message": "చార్ట్ లోని పదాల సంఖ్య"
+  },
+  "noFrequencyData": {
+    "message": "పదం ఫ్రీక్వెన్సీ డేటా లేదు"
+  },
+  "developedBy": {
+    "message": "ద్వారా అభివృద్ధి చేయబడింది"
+  },
+  "version": {
+    "message": "వెర్షన్"
+  }
+}

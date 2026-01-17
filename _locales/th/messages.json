@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "ตัวนับคำในหน้ารวดเร็วทันใจ"
+  },
+  "extensionDescription": {
+    "message": "นับคำ, อักขระ และอื่นๆ ในหน้าเว็บใดๆ ได้ทันที"
+  },
+  "commandRecount": {
+    "message": "นับคำในหน้ากันใหม่"
+  },
+  "words": {
+    "message": "คำ"
+  },
+  "characters": {
+    "message": "อักขระ"
+  },
+  "charactersWithSpaces": {
+    "message": "อักขระ (รวมช่องว่าง)"
+  },
+  "charactersNoSpaces": {
+    "message": "อักขระ (ไม่รวมช่องว่าง)"
+  },
+  "sentences": {
+    "message": "ประโยค"
+  },
+  "paragraphs": {
+    "message": "ย่อหน้า"
+  },
+  "avgWordLength": {
+    "message": "ความยาวคำเฉลี่ย"
+  },
+  "longestWord": {
+    "message": "คำที่ยาวที่สุด"
+  },
+  "longestWordLength": {
+    "message": "ความยาวคำที่ยาวที่สุด"
+  },
+  "readingTime": {
+    "message": "เวลาอ่าน"
+  },
+  "speakingTime": {
+    "message": "เวลาพูด"
+  },
+  "recount": {
+    "message": "นับใหม่"
+  },
+  "settings": {
+    "message": "การตั้งค่า"
+  },
+  "loading": {
+    "message": "กำลังนับ..."
+  },
+  "noContent": {
+    "message": "ไม่พบเนื้อหาที่อ่านได้"
+  },
+  "error": {
+    "message": "ข้อผิดพลาดในการนับเนื้อหา"
+  },
+  "emptyPage": {
+    "message": "หน้านี้ดูเหมือนจะว่างเปล่า"
+  },
+  "settingsTitle": {
+    "message": "การตั้งค่า"
+  },
+  "appearance": {
+    "message": "รูปลักษณ์"
+  },
+  "darkMode": {
+    "message": "โหมดมืด"
+  },
+  "showThemeToggle": {
+    "message": "แสดงสวิตช์ธีมในป็อปอัพ"
+  },
+  "language": {
+    "message": "ภาษา"
+  },
+  "counting": {
+    "message": "ตัวเลือกการนับ"
+  },
+  "selectiveCounter": {
+    "message": "ตัวนับการเลือก"
+  },
+  "selectiveCounterDesc": {
+    "message": "แสดงป็อปอัพนับคำเมื่อเลือกข้อความ"
+  },
+  "includeLinks": {
+    "message": "รวมลิงก์"
+  },
+  "includeLinksDesc": {
+    "message": "นับ URL เป็นคำเดี่ยว"
+  },
+  "display": {
+    "message": "ตัวเลือกการแสดงผล"
+  },
+  "showAvgWordLength": {
+    "message": "แสดงความยาวคำเฉลี่ย"
+  },
+  "showLongestWord": {
+    "message": "แสดงคำที่ยาวที่สุด"
+  },
+  "showReadingTime": {
+    "message": "แสดงเวลาอ่าน"
+  },
+  "showSpeakingTime": {
+    "message": "แสดงเวลาพูด"
+  },
+  "showSentences": {
+    "message": "แสดงจำนวนประโยค"
+  },
+  "showParagraphs": {
+    "message": "แสดงจำนวนย่อหน้า"
+  },
+  "readingSpeed": {
+    "message": "ความเร็วในการอ่าน (คำ/นาที)"
+  },
+  "speakingSpeed": {
+    "message": "ความเร็วในการพูด (คำ/นาที)"
+  },
+  "saved": {
+    "message": "บันทึกการตั้งค่าแล้ว!"
+  },
+  "reset": {
+    "message": "รีเซ็ตเป็นค่าเริ่มต้น"
+  },
+  "minutes": {
+    "message": "นาที"
+  },
+  "seconds": {
+    "message": "วินาที"
+  },
+  "chars": {
+    "message": "อักขระ"
+  },
+  "selected": {
+    "message": "เลือกแล้ว"
+  },
+  "uniqueWords": {
+    "message": "คำที่ไม่ซ้ำกัน"
+  },
+  "showUniqueWords": {
+    "message": "แสดงจำนวนคำที่ไม่ซ้ำกัน"
+  },
+  "density": {
+    "message": "ความหนาแน่นของข้อความ"
+  },
+  "showDensity": {
+    "message": "แสดงคะแนนความหนาแน่นของข้อความ"
+  },
+  "copyStats": {
+    "message": "คัดลอกสถิติ"
+  },
+  "copied": {
+    "message": "คัดลอกแล้ว!"
+  },
+  "exportStats": {
+    "message": "ส่งออก"
+  },
+  "advancedStats": {
+    "message": "สถิติขั้นสูง"
+  },
+  "basicStats": {
+    "message": "สถิติพื้นฐาน"
+  },
+  "wordFrequency": {
+    "message": "คำที่พบบ่อยที่สุด"
+  },
+  "showWordFrequency": {
+    "message": "แสดงแผนภูมิความถี่ของคำ"
+  },
+  "showWordFrequencyDesc": {
+    "message": "แสดงคำที่พบบ่อยที่สุดในป็อปอัพ"
+  },
+  "frequencyWordCount": {
+    "message": "จำนวนคำในแผนภูมิ"
+  },
+  "noFrequencyData": {
+    "message": "ไม่มีข้อมูลความถี่ของคำ"
+  },
+  "developedBy": {
+    "message": "พัฒนาโดย"
+  },
+  "version": {
+    "message": "เวอร์ชัน"
+  }
+}

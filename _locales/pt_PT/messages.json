@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Contador de Palavras Instantâneo"
+  },
+  "extensionDescription": {
+    "message": "Conte palavras, caracteres e mais em qualquer página web instantaneamente."
+  },
+  "commandRecount": {
+    "message": "Recontar palavras da página"
+  },
+  "words": {
+    "message": "Palavras"
+  },
+  "characters": {
+    "message": "Caracteres"
+  },
+  "charactersWithSpaces": {
+    "message": "Caracteres (com espaços)"
+  },
+  "charactersNoSpaces": {
+    "message": "Caracteres (sem espaços)"
+  },
+  "sentences": {
+    "message": "Frases"
+  },
+  "paragraphs": {
+    "message": "Parágrafos"
+  },
+  "avgWordLength": {
+    "message": "Méd. Tamanho Palavra"
+  },
+  "longestWord": {
+    "message": "Palavra Mais Longa"
+  },
+  "longestWordLength": {
+    "message": "Tamanho da Palavra Mais Longa"
+  },
+  "readingTime": {
+    "message": "Tempo de Leitura"
+  },
+  "speakingTime": {
+    "message": "Tempo de Fala"
+  },
+  "recount": {
+    "message": "Recontar"
+  },
+  "settings": {
+    "message": "Configurações"
+  },
+  "loading": {
+    "message": "Contando..."
+  },
+  "noContent": {
+    "message": "Nenhum conteúdo legível encontrado"
+  },
+  "error": {
+    "message": "Erro ao contar conteúdo"
+  },
+  "emptyPage": {
+    "message": "Esta página parece estar vazia"
+  },
+  "settingsTitle": {
+    "message": "Configurações"
+  },
+  "appearance": {
+    "message": "Aparência"
+  },
+  "darkMode": {
+    "message": "Modo Escuro"
+  },
+  "showThemeToggle": {
+    "message": "Mostrar alternador de tema no popup"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "counting": {
+    "message": "Opções de Contagem"
+  },
+  "selectiveCounter": {
+    "message": "Contador de Seleção"
+  },
+  "selectiveCounterDesc": {
+    "message": "Mostrar popup de contagem de palavras ao selecionar texto"
+  },
+  "includeLinks": {
+    "message": "Incluir Links"
+  },
+  "includeLinksDesc": {
+    "message": "Contar URLs como palavras únicas"
+  },
+  "display": {
+    "message": "Opções de Exibição"
+  },
+  "showAvgWordLength": {
+    "message": "Mostrar tamanho médio das palavras"
+  },
+  "showLongestWord": {
+    "message": "Mostrar palavra mais longa"
+  },
+  "showReadingTime": {
+    "message": "Mostrar tempo de leitura"
+  },
+  "showSpeakingTime": {
+    "message": "Mostrar tempo de fala"
+  },
+  "showSentences": {
+    "message": "Mostrar número de frases"
+  },
+  "showParagraphs": {
+    "message": "Mostrar número de parágrafos"
+  },
+  "readingSpeed": {
+    "message": "Velocidade de Leitura (PPM)"
+  },
+  "speakingSpeed": {
+    "message": "Velocidade de Fala (PPM)"
+  },
+  "saved": {
+    "message": "Configurações salvas!"
+  },
+  "reset": {
+    "message": "Redefinir para Padrões"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "seg"
+  },
+  "chars": {
+    "message": "caracteres"
+  },
+  "selected": {
+    "message": "Selecionado"
+  },
+  "uniqueWords": {
+    "message": "Palavras Únicas"
+  },
+  "showUniqueWords": {
+    "message": "Mostrar número de palavras únicas"
+  },
+  "density": {
+    "message": "Densidade de Texto"
+  },
+  "showDensity": {
+    "message": "Mostrar pontuação de densidade de texto"
+  },
+  "copyStats": {
+    "message": "Copiar Estatísticas"
+  },
+  "copied": {
+    "message": "Copiado!"
+  },
+  "exportStats": {
+    "message": "Exportar"
+  },
+  "advancedStats": {
+    "message": "Estatísticas Avançadas"
+  },
+  "basicStats": {
+    "message": "Estatísticas Básicas"
+  },
+  "wordFrequency": {
+    "message": "Palavras Mais Frequentes"
+  },
+  "showWordFrequency": {
+    "message": "Mostrar Gráfico de Frequência de Palavras"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Mostrar palavras mais frequentes no popup"
+  },
+  "frequencyWordCount": {
+    "message": "Número de Palavras no Gráfico"
+  },
+  "noFrequencyData": {
+    "message": "Nenhum dado de frequência de palavras disponível"
+  },
+  "developedBy": {
+    "message": "Desenvolvido por"
+  },
+  "version": {
+    "message": "Versão"
+  }
+}

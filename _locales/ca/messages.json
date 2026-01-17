@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "Comptador de Paraules Instantani de Pàgina"
+  },
+  "extensionDescription": {
+    "message": "Compta paraules, caràcters i més en qualsevol pàgina web instantàniament."
+  },
+  "commandRecount": {
+    "message": "Recompta paraules de la pàgina"
+  },
+  "words": {
+    "message": "Paraules"
+  },
+  "characters": {
+    "message": "Caràcters"
+  },
+  "charactersWithSpaces": {
+    "message": "Caràcters (amb espais)"
+  },
+  "charactersNoSpaces": {
+    "message": "Caràcters (sense espais)"
+  },
+  "sentences": {
+    "message": "Frases"
+  },
+  "paragraphs": {
+    "message": "Paràgrafs"
+  },
+  "avgWordLength": {
+    "message": "Long. Mitj. Paraula"
+  },
+  "longestWord": {
+    "message": "Paraula Més Llarga"
+  },
+  "longestWordLength": {
+    "message": "Longitud Paraula Més Llarga"
+  },
+  "readingTime": {
+    "message": "Temps de Lectura"
+  },
+  "speakingTime": {
+    "message": "Temps de Parlada"
+  },
+  "recount": {
+    "message": "Recomptar"
+  },
+  "settings": {
+    "message": "Configuració"
+  },
+  "loading": {
+    "message": "Comptant..."
+  },
+  "noContent": {
+    "message": "No s'ha trobat contingut llegible"
+  },
+  "error": {
+    "message": "Error en comptar el contingut"
+  },
+  "emptyPage": {
+    "message": "Aquesta pàgina sembla estar buida"
+  },
+  "settingsTitle": {
+    "message": "Configuració"
+  },
+  "appearance": {
+    "message": "Aparença"
+  },
+  "darkMode": {
+    "message": "Mode Fosc"
+  },
+  "showThemeToggle": {
+    "message": "Mostrar commutador de tema a la finestra emergent"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "counting": {
+    "message": "Opcions de Recompte"
+  },
+  "selectiveCounter": {
+    "message": "Comptador Selectiu"
+  },
+  "selectiveCounterDesc": {
+    "message": "Mostrar finestra emergent de recompte de paraules en seleccionar text"
+  },
+  "includeLinks": {
+    "message": "Incloure Enllaços"
+  },
+  "includeLinksDesc": {
+    "message": "Comptar URL com a paraules úniques"
+  },
+  "display": {
+    "message": "Opcions de Visualització"
+  },
+  "showAvgWordLength": {
+    "message": "Mostrar longitud mitjana de paraula"
+  },
+  "showLongestWord": {
+    "message": "Mostrar paraula més llarga"
+  },
+  "showReadingTime": {
+    "message": "Mostrar temps de lectura"
+  },
+  "showSpeakingTime": {
+    "message": "Mostrar temps de parla"
+  },
+  "showSentences": {
+    "message": "Mostrar nombre de frases"
+  },
+  "showParagraphs": {
+    "message": "Mostrar nombre de paràgrafs"
+  },
+  "readingSpeed": {
+    "message": "Velocitat de Lectura (PPM)"
+  },
+  "speakingSpeed": {
+    "message": "Velocitat de Parlada (PPM)"
+  },
+  "saved": {
+    "message": "Configuració guardada!"
+  },
+  "reset": {
+    "message": "Restablir per Defecte"
+  },
+  "minutes": {
+    "message": "min"
+  },
+  "seconds": {
+    "message": "seg"
+  },
+  "chars": {
+    "message": "caràcters"
+  },
+  "selected": {
+    "message": "Seleccionat"
+  },
+  "uniqueWords": {
+    "message": "Paraules Úniques"
+  },
+  "showUniqueWords": {
+    "message": "Mostrar nombre de paraules úniques"
+  },
+  "density": {
+    "message": "Densitat de Text"
+  },
+  "showDensity": {
+    "message": "Mostrar puntuació de densitat de text"
+  },
+  "copyStats": {
+    "message": "Copiar Estadístiques"
+  },
+  "copied": {
+    "message": "Copiat!"
+  },
+  "exportStats": {
+    "message": "Exportar"
+  },
+  "advancedStats": {
+    "message": "Estadístiques Avançades"
+  },
+  "basicStats": {
+    "message": "Estadístiques Bàsiques"
+  },
+  "wordFrequency": {
+    "message": "Paraules Més Frequents"
+  },
+  "showWordFrequency": {
+    "message": "Mostrar Gràfic de Freqüència de Paraules"
+  },
+  "showWordFrequencyDesc": {
+    "message": "Mostrar paraules més freqüents a la finestra emergent"
+  },
+  "frequencyWordCount": {
+    "message": "Nombre de Paraules al Gràfic"
+  },
+  "noFrequencyData": {
+    "message": "No hi ha dades de freqüència de paraules disponibles"
+  },
+  "developedBy": {
+    "message": "Desenvolupat per"
+  },
+  "version": {
+    "message": "Versió"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "extensionName": {
+    "message": "તત્કાલિક પેજ વર્ડ કાઉન્ટર"
+  },
+  "extensionDescription": {
+    "message": "કોઈપણ વેબ પેજ પર તત્કાલિક શબ્દો, અક્ષરો અને વધુ ગણો."
+  },
+  "commandRecount": {
+    "message": "પેજના શબ્દો ફરીથી ગણો"
+  },
+  "words": {
+    "message": "શબ્દો"
+  },
+  "characters": {
+    "message": "અક્ષરો"
+  },
+  "charactersWithSpaces": {
+    "message": "અક્ષરો (સ્પેસ સહિત)"
+  },
+  "charactersNoSpaces": {
+    "message": "અક્ષરો (સ્પેસ વગર)"
+  },
+  "sentences": {
+    "message": "વાક્યો"
+  },
+  "paragraphs": {
+    "message": "પેરાગ્રાફ"
+  },
+  "avgWordLength": {
+    "message": "શબ્દની સરેરાશ લંબાઈ"
+  },
+  "longestWord": {
+    "message": "સૌથી લાંબો શબ્દ"
+  },
+  "longestWordLength": {
+    "message": "સૌથી લાંબા શબ્દની લંબાઈ"
+  },
+  "readingTime": {
+    "message": "વાંચવાનો સમય"
+  },
+  "speakingTime": {
+    "message": "બોલવાનો સમય"
+  },
+  "recount": {
+    "message": "ફરીથી ગણો"
+  },
+  "settings": {
+    "message": "સેટિંગ્સ"
+  },
+  "loading": {
+    "message": "ગણાય છે..."
+  },
+  "noContent": {
+    "message": "વાંચી શકાય તેવી સામગ્રી મળી નથી"
+  },
+  "error": {
+    "message": "સામગ્રી ગણવામાં ભૂલ"
+  },
+  "emptyPage": {
+    "message": "આ પેજ ખાલી લાગે છે"
+  },
+  "settingsTitle": {
+    "message": "સેટિંગ્સ"
+  },
+  "appearance": {
+    "message": "દેખાવ"
+  },
+  "darkMode": {
+    "message": "ડાર્ક મોડ"
+  },
+  "showThemeToggle": {
+    "message": "પોપઅપમાં થીમ ટોગલ બતાવો"
+  },
+  "language": {
+    "message": "ભાષા"
+  },
+  "counting": {
+    "message": "ગણતરી વિકલ્પો"
+  },
+  "selectiveCounter": {
+    "message": "સિલેક્શન કાઉન્ટર"
+  },
+  "selectiveCounterDesc": {
+    "message": "ટેક્સ્ટ પસંદ કરતી વખતે વર્ડ કાઉન્ટ પોપઅપ બતાવો"
+  },
+  "includeLinks": {
+    "message": "લિંક્સ શામેલ કરો"
+  },
+  "includeLinksDesc": {
+    "message": "URL ને એકલ શબ્દ તરીકે ગણો"
+  },
+  "display": {
+    "message": "ડિસ્પ્લે વિકલ્પો"
+  },
+  "showAvgWordLength": {
+    "message": "શબ્દની સરેરાશ લંબાઈ બતાવો"
+  },
+  "showLongestWord": {
+    "message": "સૌથી લાંબો શબ્દ બતાવો"
+  },
+  "showReadingTime": {
+    "message": "વાંચવાનો સમય બતાવો"
+  },
+  "showSpeakingTime": {
+    "message": "બોલવાનો સમય બતાવો"
+  },
+  "showSentences": {
+    "message": "વાક્યોની સંખ્યા બતાવો"
+  },
+  "showParagraphs": {
+    "message": "પેરાગ્રાફની સંખ્યા બતાવો"
+  },
+  "readingSpeed": {
+    "message": "વાંચવાની ગતિ (શબ્દ પ્રતિ મિનિટ)"
+  },
+  "speakingSpeed": {
+    "message": "બોલવાની ગતિ (શબ્દ પ્રતિ મિનિટ)"
+  },
+  "saved": {
+    "message": "સેટિંગ્સ સાચવી!"
+  },
+  "reset": {
+    "message": "ડિફોલ્ટ પર રીસેટ કરો"
+  },
+  "minutes": {
+    "message": "મિનિટ"
+  },
+  "seconds": {
+    "message": "સેકન્ડ"
+  },
+  "chars": {
+    "message": "અક્ષરો"
+  },
+  "selected": {
+    "message": "પસંદ કરેલ"
+  },
+  "uniqueWords": {
+    "message": "અનન્ય શબ્દો"
+  },
+  "showUniqueWords": {
+    "message": "અનન્ય શબ્દોની સંખ્યા બતાવો"
+  },
+  "density": {
+    "message": "ટેક્સ્ટ ઘનતા"
+  },
+  "showDensity": {
+    "message": "ટેક્સ્ટ ઘનતા સ્કોર બતાવો"
+  },
+  "copyStats": {
+    "message": "સ્ટેટ્સ કૉપિ કરો"
+  },
+  "copied": {
+    "message": "કૉપિ થયું!"
+  },
+  "exportStats": {
+    "message": "એક્સપોર્ટ"
+  },
+  "advancedStats": {
+    "message": "એડવાંસ્ડ સ્ટેટ્સ"
+  },
+  "basicStats": {
+    "message": "બેઝિક સ્ટેટ્સ"
+  },
+  "wordFrequency": {
+    "message": "સૌથી સામાન્ય શબ્દો"
+  },
+  "showWordFrequency": {
+    "message": "વર્ડ ફ્રિક્વન્સી ચાર્ટ બતાવો"
+  },
+  "showWordFrequencyDesc": {
+    "message": "પોપઅપમાં સૌથી સામાન્ય શબ્દો બતાવો"
+  },
+  "frequencyWordCount": {
+    "message": "ચાર્ટમાં શબ્દોની સંખ્યા"
+  },
+  "noFrequencyData": {
+    "message": "કોઈ વર્ડ ફ્રિક્વન્સી ડેટા ઉપલબ્ધ નથી"
+  },
+  "developedBy": {
+    "message": "દ્વારા વિકસિત"
+  },
+  "version": {
+    "message": "વર્ઝન"
+  }
+}
