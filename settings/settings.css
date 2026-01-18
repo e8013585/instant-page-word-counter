@@ -408,3 +408,18 @@ body {
     --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
   }
 }
+.privacy-policy-link {
+  margin-top: 0.75rem;
+  text-align: center;
+}
+
+.privacy-policy-link a {
+  font-size: 0.9rem;
+  color: var(--text-secondary, #718096);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.privacy-policy-link a:hover {
+  color: var(--primary-color, #2d3748);
+}
